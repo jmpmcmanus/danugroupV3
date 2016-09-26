@@ -1,0 +1,578 @@
+{
+"links":[
+{
+"source":"Adipic Acid Production",
+"target":"Stationary Combustion",
+"value":"5851095.0"
+},
+{
+"source":"Chemicals",
+"target":"Adipic Acid Production",
+"value":"5851095.0"
+},
+{
+"source":"Ammonia Manufacturing",
+"target":"Stationary Combustion",
+"value":"24468942.0"
+},
+{
+"source":"Chemicals",
+"target":"Ammonia Manufacturing",
+"value":"24468942.0"
+},
+{
+"source":"HCFC-22 Production from HFC-23 Destruction",
+"target":"Stationary Combustion",
+"value":"8596607.0"
+},
+{
+"source":"Chemicals",
+"target":"HCFC-22 Production from HFC-23 Destruction",
+"value":"8596607.0"
+},
+{
+"source":"Hydrogen Production",
+"target":"Stationary Combustion",
+"value":"6180796.0"
+},
+{
+"source":"Chemicals",
+"target":"Hydrogen Production",
+"value":"6180796.0"
+},
+{
+"source":"Hydrogen Production",
+"target":"No Stationary Combustion",
+"value":"29249239.0"
+},
+{
+"source":"Chemicals",
+"target":"Hydrogen Production",
+"value":"29249239.0"
+},
+{
+"source":"Nitric Acid Production",
+"target":"Stationary Combustion",
+"value":"2566224.0"
+},
+{
+"source":"Chemicals",
+"target":"Nitric Acid Production",
+"value":"2566224.0"
+},
+{
+"source":"Nitric Acid Production",
+"target":"No Stationary Combustion",
+"value":"9605458.0"
+},
+{
+"source":"Chemicals",
+"target":"Nitric Acid Production",
+"value":"9605458.0"
+},
+{
+"source":"Petrochemical Production",
+"target":"Stationary Combustion",
+"value":"51767772.0"
+},
+{
+"source":"Chemicals",
+"target":"Petrochemical Production",
+"value":"51767772.0"
+},
+{
+"source":"Petrochemical Production",
+"target":"No Stationary Combustion",
+"value":"294896.0"
+},
+{
+"source":"Chemicals",
+"target":"Petrochemical Production",
+"value":"294896.0"
+},
+{
+"source":"Phosphoric Acid Production",
+"target":"Stationary Combustion",
+"value":"2030116.0"
+},
+{
+"source":"Chemicals",
+"target":"Phosphoric Acid Production",
+"value":"2030116.0"
+},
+{
+"source":"Silicon Carbide Production",
+"target":"Stationary Combustion",
+"value":"126483.0"
+},
+{
+"source":"Chemicals",
+"target":"Silicon Carbide Production",
+"value":"126483.0"
+},
+{
+"source":"Titanium Dioxide Production",
+"target":"Stationary Combustion",
+"value":"2757628.0"
+},
+{
+"source":"Chemicals",
+"target":"Titanium Dioxide Production",
+"value":"2757628.0"
+},
+{
+"source":"Other Chemicals",
+"target":"Stationary Combustion",
+"value":"19647463.0"
+},
+{
+"source":"Chemicals",
+"target":"Other Chemicals",
+"value":"19647463.0"
+},
+{
+"source":"Aluminum Production",
+"target":"Stationary Combustion",
+"value":"4736089.0"
+},
+{
+"source":"Metals",
+"target":"Aluminum Production",
+"value":"4736089.0"
+},
+{
+"source":"Aluminum Production",
+"target":"No Stationary Combustion",
+"value":"520387.0"
+},
+{
+"source":"Metals",
+"target":"Aluminum Production",
+"value":"520387.0"
+},
+{
+"source":"Ferroalloy Production",
+"target":"Stationary Combustion",
+"value":"2286315.0"
+},
+{
+"source":"Metals",
+"target":"Ferroalloy Production",
+"value":"2286315.0"
+},
+{
+"source":"Iron and Steel Production",
+"target":"Stationary Combustion",
+"value":"81941330.0"
+},
+{
+"source":"Metals",
+"target":"Iron and Steel Production",
+"value":"81941330.0"
+},
+{
+"source":"Iron and Steel Production",
+"target":"No Stationary Combustion",
+"value":"40050.0"
+},
+{
+"source":"Metals",
+"target":"Iron and Steel Production",
+"value":"40050.0"
+},
+{
+"source":"Lead Production",
+"target":"Stationary Combustion",
+"value":"927922.0"
+},
+{
+"source":"Metals",
+"target":"Lead Production",
+"value":"927922.0"
+},
+{
+"source":"Zinc Production",
+"target":"Stationary Combustion",
+"value":"794430.0"
+},
+{
+"source":"Metals",
+"target":"Zinc Production",
+"value":"794430.0"
+},
+{
+"source":"Other Metals",
+"target":"Stationary Combustion",
+"value":"7613307.0"
+},
+{
+"source":"Metals",
+"target":"Other Metals",
+"value":"7613307.0"
+},
+{
+"source":"Cement Production",
+"target":"Stationary Combustion",
+"value":"52152321.0"
+},
+{
+"source":"Minerals",
+"target":"Cement Production",
+"value":"52152321.0"
+},
+{
+"source":"Cement Production",
+"target":"No Stationary Combustion",
+"value":"3334042.0"
+},
+{
+"source":"Minerals",
+"target":"Cement Production",
+"value":"3334042.0"
+},
+{
+"source":"Glass Production",
+"target":"Stationary Combustion",
+"value":"8149117.0"
+},
+{
+"source":"Minerals",
+"target":"Glass Production",
+"value":"8149117.0"
+},
+{
+"source":"Glass Production",
+"target":"No Stationary Combustion",
+"value":"40350.0"
+},
+{
+"source":"Minerals",
+"target":"Glass Production",
+"value":"40350.0"
+},
+{
+"source":"Lime Manufacturing",
+"target":"Stationary Combustion",
+"value":"29574829.0"
+},
+{
+"source":"Minerals",
+"target":"Lime Manufacturing",
+"value":"29574829.0"
+},
+{
+"source":"Lime Manufacturing",
+"target":"No Stationary Combustion",
+"value":"282949.0"
+},
+{
+"source":"Minerals",
+"target":"Lime Manufacturing",
+"value":"282949.0"
+},
+{
+"source":"Soda Ash Production",
+"target":"Stationary Combustion",
+"value":"5101184.0"
+},
+{
+"source":"Minerals",
+"target":"Soda Ash Production",
+"value":"5101184.0"
+},
+{
+"source":"Other Minerals",
+"target":"Stationary Combustion",
+"value":"3401162.0"
+},
+{
+"source":"Minerals",
+"target":"Other Minerals",
+"value":"3401162.0"
+},
+{
+"source":"Ethanol Production",
+"target":"Stationary Combustion",
+"value":"14742148.0"
+},
+{
+"source":"Other",
+"target":"Ethanol Production",
+"value":"14742148.0"
+},
+{
+"source":"Food Processing",
+"target":"Stationary Combustion",
+"value":"26418579.0"
+},
+{
+"source":"Other",
+"target":"Food Processing",
+"value":"26418579.0"
+},
+{
+"source":"Manufacturing",
+"target":"Stationary Combustion",
+"value":"15571844.0"
+},
+{
+"source":"Other",
+"target":"Manufacturing",
+"value":"15571844.0"
+},
+{
+"source":"Military",
+"target":"Stationary Combustion",
+"value":"2344243.0"
+},
+{
+"source":"Other",
+"target":"Military",
+"value":"2344243.0"
+},
+{
+"source":"Universities",
+"target":"Stationary Combustion",
+"value":"9591392.0"
+},
+{
+"source":"Other",
+"target":"Universities",
+"value":"9591392.0"
+},
+{
+"source":"Other Petroleum and Natural Gas Systems",
+"target":"Stationary Combustion",
+"value":"65664797.0"
+},
+{
+"source":"Petroleum and Natural Gas Systems",
+"target":"Other Petroleum and Natural Gas Systems",
+"value":"65664797.0"
+},
+{
+"source":"Electricity Generation",
+"target":"Stationary Combustion",
+"value":"1510515230.0"
+},
+{
+"source":"Power Plants",
+"target":"Electricity Generation",
+"value":"1510515230.0"
+},
+{
+"source":"Electricity Generation",
+"target":"No Stationary Combustion",
+"value":"740954720.0"
+},
+{
+"source":"Power Plants",
+"target":"Electricity Generation",
+"value":"740954720.0"
+},
+{
+"source":"Electricity Generation",
+"target":"Stationary Combustion",
+"value":"76368609.0"
+},
+{
+"source":"Power Plants",
+"target":"Electricity Generation",
+"value":"76368609.0"
+},
+{
+"source":"Pulp and Paper Production",
+"target":"Stationary Combustion",
+"value":"33343021.0"
+},
+{
+"source":"Pulp and Paper",
+"target":"Pulp and Paper Production",
+"value":"33343021.0"
+},
+{
+"source":"Other Paper Producers",
+"target":"Stationary Combustion",
+"value":"13977931.0"
+},
+{
+"source":"Pulp and Paper",
+"target":"Other Paper Producers",
+"value":"13977931.0"
+},
+{
+"source":"Petroleum Refineries",
+"target":"Stationary Combustion",
+"value":"177884105.0"
+},
+{
+"source":"Refineries",
+"target":"Petroleum Refineries",
+"value":"177884105.0"
+},
+{
+"source":"Municipal Landfills",
+"target":"Stationary Combustion",
+"value":"53114382.0"
+},
+{
+"source":"Waste",
+"target":"Municipal Landfills",
+"value":"53114382.0"
+},
+{
+"source":"Municipal Landfills",
+"target":"No Stationary Combustion",
+"value":"48330056.0"
+},
+{
+"source":"Waste",
+"target":"Municipal Landfills",
+"value":"48330056.0"
+},
+{
+"source":"Solid Waste Combustion",
+"target":"Stationary Combustion",
+"value":"8987274.0"
+},
+{
+"source":"Waste",
+"target":"Solid Waste Combustion",
+"value":"8987274.0"
+}
+],
+"nodes":[
+{
+"name":"Chemicals"
+},
+{
+"name":"Stationary Combustion"
+},
+{
+"name":"Adipic Acid Production"
+},
+{
+"name":"Ammonia Manufacturing"
+},
+{
+"name":"HCFC-22 Production from HFC-23 Destruction"
+},
+{
+"name":"Hydrogen Production"
+},
+{
+"name":"No Stationary Combustion"
+},
+{
+"name":"Nitric Acid Production"
+},
+{
+"name":"Petrochemical Production"
+},
+{
+"name":"Phosphoric Acid Production"
+},
+{
+"name":"Silicon Carbide Production"
+},
+{
+"name":"Titanium Dioxide Production"
+},
+{
+"name":"Other Chemicals"
+},
+{
+"name":"Metals"
+},
+{
+"name":"Aluminum Production"
+},
+{
+"name":"Ferroalloy Production"
+},
+{
+"name":"Iron and Steel Production"
+},
+{
+"name":"Lead Production"
+},
+{
+"name":"Zinc Production"
+},
+{
+"name":"Other Metals"
+},
+{
+"name":"Minerals"
+},
+{
+"name":"Cement Production"
+},
+{
+"name":"Glass Production"
+},
+{
+"name":"Lime Manufacturing"
+},
+{
+"name":"Soda Ash Production"
+},
+{
+"name":"Other Minerals"
+},
+{
+"name":"Other"
+},
+{
+"name":"Ethanol Production"
+},
+{
+"name":"Food Processing"
+},
+{
+"name":"Manufacturing"
+},
+{
+"name":"Military"
+},
+{
+"name":"Universities"
+},
+{
+"name":"Petroleum and Natural Gas Systems"
+},
+{
+"name":"Other Petroleum and Natural Gas Systems"
+},
+{
+"name":"Power Plants"
+},
+{
+"name":"Electricity Generation"
+},
+{
+"name":"Pulp and Paper"
+},
+{
+"name":"Pulp and Paper Production"
+},
+{
+"name":"Other Paper Producers"
+},
+{
+"name":"Refineries"
+},
+{
+"name":"Petroleum Refineries"
+},
+{
+"name":"Waste"
+},
+{
+"name":"Municipal Landfills"
+},
+{
+"name":"Solid Waste Combustion"
+}
+]
+}

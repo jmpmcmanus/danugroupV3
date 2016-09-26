@@ -1,0 +1,4 @@
+{% load i18n staticfiles %}
+<form method="get" action="{% url 'danugroup_news_search' %}">
+    <input type="text" value="{{ "     Search News..." }}" name="pattern" id="searchbox" onfocus="this.value=''" />
+</form>

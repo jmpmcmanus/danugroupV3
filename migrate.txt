@@ -1,0 +1,4 @@
+python manage.py migrate --run-syncdb
+python manage.py migrate
+python manage.py showmigrations
+python manage.py createsuperuser

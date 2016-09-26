@@ -1,0 +1,65 @@
+{"state": "Delaware",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 8, "key": 221112, "year": "2010", "emission_amount": 4030149.1439999999},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 1, "key": 324110, "year": "2010", "emission_amount": 130015.524},
+     {"emission_type": ["Inorganic Dye and Pigment Manufacturing"], "number_of_locations": 1, "key": 325131, "year": "2010", "emission_amount": 127938.92},
+     {"emission_type": ["Synthetic Organic Dye and Pigment Manufacturing"], "number_of_locations": 1, "key": 325132, "year": "2010", "emission_amount": 32205.628000000001},
+     {"emission_type": ["All Other Basic Organic Chemical Manufacturing"], "number_of_locations": 1, "key": 325199, "year": "2010", "emission_amount": 31579.779999999999},
+     {"emission_type": ["Plastics Material and Resin Manufacturing"], "number_of_locations": 1, "key": 325211, "year": "2010", "emission_amount": 28456.491999999998},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2010", "emission_amount": 121499.508},
+     {"emission_type": ["Research and Development in the Physical", " Engineering", " and Life Sciences (except Biotechnology)"], "number_of_locations": 1, "key": 541712, "year": "2010", "emission_amount": 76849.308000000005},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2010", "emission_amount": 135924.25},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2010", "emission_amount": 36204.343999999997}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 8, "key": 221112, "year": "2011", "emission_amount": 3824963.2510000006},
+     {"emission_type": ["Rendering and Meat Byproduct Processing"], "number_of_locations": 1, "key": 311613, "year": "2011", "emission_amount": 52994.762000000002},
+     {"emission_type": ["Poultry Processing"], "number_of_locations": 1, "key": 311615, "year": "2011", "emission_amount": 73365.449999999997},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 1, "key": 324110, "year": "2011", "emission_amount": 2253871.9019999998},
+     {"emission_type": ["Inorganic Dye and Pigment Manufacturing"], "number_of_locations": 1, "key": 325131, "year": "2011", "emission_amount": 115967.40399999999},
+     {"emission_type": ["Synthetic Organic Dye and Pigment Manufacturing"], "number_of_locations": 1, "key": 325132, "year": "2011", "emission_amount": 31419.031999999999},
+     {"emission_type": ["All Other Basic Organic Chemical Manufacturing"], "number_of_locations": 1, "key": 325199, "year": "2011", "emission_amount": 32833.476000000002},
+     {"emission_type": ["Plastics Material and Resin Manufacturing"], "number_of_locations": 1, "key": 325211, "year": "2011", "emission_amount": 28534.991999999998},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2011", "emission_amount": 133166.29999999999},
+     {"emission_type": ["Research and Development in the Physical", " Engineering", " and Life Sciences (except Biotechnology)"], "number_of_locations": 1, "key": 541712, "year": "2011", "emission_amount": 76932.630000000005},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2011", "emission_amount": 114122.75},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2011", "emission_amount": 36478.063999999998}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 8, "key": 221112, "year": "2012", "emission_amount": 4438211.227},
+     {"emission_type": ["Rendering and Meat Byproduct Processing"], "number_of_locations": 1, "key": 311613, "year": "2012", "emission_amount": 58436.529999999999},
+     {"emission_type": ["Poultry Processing"], "number_of_locations": 1, "key": 311615, "year": "2012", "emission_amount": 77570.865999999995},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 1, "key": 324110, "year": "2012", "emission_amount": 4026475.4819999998},
+     {"emission_type": ["Inorganic Dye and Pigment Manufacturing"], "number_of_locations": 1, "key": 325131, "year": "2012", "emission_amount": 104080.012},
+     {"emission_type": ["Synthetic Organic Dye and Pigment Manufacturing"], "number_of_locations": 1, "key": 325132, "year": "2012", "emission_amount": 26908.948},
+     {"emission_type": ["All Other Basic Organic Chemical Manufacturing"], "number_of_locations": 1, "key": 325199, "year": "2012", "emission_amount": 30264.236000000001},
+     {"emission_type": ["Plastics Material and Resin Manufacturing"], "number_of_locations": 1, "key": 325211, "year": "2012", "emission_amount": 28829.892},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2012", "emission_amount": 101619.97199999999},
+     {"emission_type": ["Research and Development in the Physical", " Engineering", " and Life Sciences (except Biotechnology)"], "number_of_locations": 1, "key": 541712, "year": "2012", "emission_amount": 74544.203999999998},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2012", "emission_amount": 160812.75},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2012", "emission_amount": 34762.555999999997}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 8, "key": 221112, "year": "2013", "emission_amount": 3814674.5589999999},
+     {"emission_type": ["Poultry Processing"], "number_of_locations": 2, "key": 311615, "year": "2013", "emission_amount": 132982.432},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 1, "key": 324110, "year": "2013", "emission_amount": 3703573.3020000001},
+     {"emission_type": ["Inorganic Dye and Pigment Manufacturing"], "number_of_locations": 1, "key": 325131, "year": "2013", "emission_amount": 102910.33},
+     {"emission_type": ["Synthetic Organic Dye and Pigment Manufacturing"], "number_of_locations": 1, "key": 325132, "year": "2013", "emission_amount": 29948.788},
+     {"emission_type": ["All Other Basic Organic Chemical Manufacturing"], "number_of_locations": 1, "key": 325199, "year": "2013", "emission_amount": 32917.476000000002},
+     {"emission_type": ["Plastics Material and Resin Manufacturing"], "number_of_locations": 1, "key": 325211, "year": "2013", "emission_amount": 29905.387999999999},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2013", "emission_amount": 96833.248000000007},
+     {"emission_type": ["Research and Development in the Physical", " Engineering", " and Life Sciences (except Biotechnology)"], "number_of_locations": 1, "key": 541712, "year": "2013", "emission_amount": 78248.148000000001},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2013", "emission_amount": 176637.5},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2013", "emission_amount": 39075.294000000002}
+   ]
+  }
+ ]
+}

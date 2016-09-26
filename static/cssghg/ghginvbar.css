@@ -1,0 +1,15 @@
+#chartContainer {
+   height: 400px;
+   width: 1250px;
+   text-align: center;
+   position: relative;
+   margin: 5px 0;
+}
+#ghginvbar {
+   display: block;
+   position: absolute;
+   background: #fff;
+   width: 100%;
+   height: 100%;
+   margin: 0;
+}

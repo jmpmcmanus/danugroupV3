@@ -1,0 +1,176 @@
+.fig1 {
+  height: 306px;
+  width: 500px;
+  background-image: url(../../imgghg/AltFig1USGHGEmissions.png);
+  background-repeat: no-repeat;
+}
+.fig2 {
+  height: 306px;
+  width: 500px;
+  background-image: url(../../imgghg/AltFig2USGHGEmissionsLULUCF.png);
+  background-repeat: no-repeat;
+}
+.fig3 {
+  height: 306px;
+  width: 500px;
+  background-image: url(../../imgghg/AltFig3USIndustrialGHG.png);
+  background-repeat: no-repeat;
+}
+.fig4 {
+  height: 306px;
+  width: 500px;
+  background-image: url(../../imgghg/AltFig4USEnergyGHG.png);
+  background-repeat: no-repeat;
+}
+.figs-5to8 {
+  position: relative;
+  height: 700px;
+  width: 600px;
+  background-image: url(../../imgghg/Figs5-8USGHGEmissionsEnergy.png);
+  background-repeat: no-repeat;
+}
+#fig-5 {
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  width: 300px;
+  height: 315px;
+  background-color: transparent;
+}
+#fig-6 {
+  position: absolute;
+  top: 50px;
+  left: 301px;
+  width: 300px;
+  height: 315px;
+  background-color: transparent;
+}
+#fig-7 {
+  position: absolute;
+  top: 371px;
+  left: 0px;
+  width: 300px;
+  height: 315px;
+  background-color: transparent;
+}
+#fig-8 {
+  position: absolute;
+  top: 371px;
+  left: 301px;
+  width: 300px;
+  height: 315px;
+  background-color: transparent;
+}
+@media all and (max-width: 800px) {
+  .figs-5to8 {
+    position: relative;
+    height: 350px;
+    width: 300px;
+    background-image: url(../../imgghg/Figs5-8USGHGEmissionsEnergyMobile.png);
+    background-repeat: no-repeat;
+  }
+  #fig-5 {
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    width: 150px;
+    height: 155px;
+    background-color: transparent;
+  }
+  #fig-6 {
+    position: absolute;
+    top: 25px;
+    left: 151px;
+    width: 150px;
+    height: 155px;
+    background-color: transparent;
+  }
+  #fig-7 {
+    position: absolute;
+    top: 185px;
+    left: 0px;
+    width: 150px;
+    height: 160px;
+    background-color: transparent;
+  }
+  #fig-8 {
+    position: absolute;
+    top: 185px;
+    left: 151px;
+    width: 150px;
+    height: 160px;
+    background-color: transparent;
+ }
+}
+.fig5 {
+  height: 465px;
+  width: 450px;
+  background-image: url(../../imgghg/Fig5USGHGRPEmissions2010.png);
+  background-repeat: no-repeat;
+}
+.fig6 {
+  height: 465px;
+  width: 450px;
+  background-image: url(../../imgghg/Fig6USGHGRPEnergy2010.png);
+  background-repeat: no-repeat;
+}
+.fig7 {
+  height: 465px;
+  width: 450px;
+  background-image: url(../../imgghg/Fig7USGHGRPEmissions2013.png);
+  background-repeat: no-repeat;
+}
+.fig8 {
+  height: 465px;
+  width: 450px;
+  background-image: url(../../imgghg/Fig8USGHGRPEnergy2013.png);
+  background-repeat: no-repeat;
+}
+.fig9 {
+  height: 434px;
+  width: 500px;
+  background-image: url(../../imgghg/AltFig9USEmissions2013.png);
+  background-repeat: no-repeat;
+}
+.fig10 {
+  height: 516px;
+  width: 500px;
+  background-image: url(../../imgghg/AltFig10USGHGSelectSectors2013.png);
+  background-repeat: no-repeat;
+}
+.fig11 {
+  height: 305px;
+  width: 500px;
+  background-image: url(../../imgghg/AltFig11GHGEmissions2013.png);
+  background-repeat: no-repeat;
+}
+.fig12 {
+  height: 270px;
+  width: 500px;
+  background-image: url(../../imgghg/AltFig12TexasGHGEmissions2013.png);
+  background-repeat: no-repeat;
+}
+.fig13 {
+  height: 365px;
+  width: 480px;
+  background-image: url(../../imgghg/Fig13CaliforniaGHGEmissions2013.png);
+  background-repeat: no-repeat;
+}
+.fig14 {    
+  height: 302px;
+  width: 500px;
+  background-image: url(../../imgghg/AltFig14GHGEmissions2013.png);
+  background-repeat: no-repeat;
+}
+.fig15 {    
+  height: 302px;
+  width: 500px;
+  background-image: url(../../imgghg/AltFig15GHGPerPersonEmissions2013.png);
+  background-repeat: no-repeat;
+}
+.fig16 {    
+  height: 302px;
+  width: 500px;
+  background-image: url(../../imgghg/AltFig16GHGPerPersonEmissions2013.png);
+  background-repeat: no-repeat;
+}

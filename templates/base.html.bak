@@ -1,0 +1,59 @@
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  <html class="no-js" dir="{% if LANGUAGE_BIDI %}rtl{% else %}ltr{% endif %}"
+      lang="{% firstof LANGUAGE_CODE 'en-us' %}">
+  <head>
+    <title>{% block title %}"DanuGroup.org, Interplay Between Environmental Issues, Technological Solutions, and Political Policy"{% endblock %}</title>
+    <meta name="robots" content="follow, all" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="cache-control" content="public, max-age=86400" />
+    <meta name="language" content="{{ LANGUAGE_CODE }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    {% block meta %}
+    {% endblock meta %}
+    {% block link %}
+    <link rel="stylesheet" type="text/css" href="/cssjquery/jquery.mobile-1.4.4.min.css" />
+    <link rel="shortcut icon" type="image/png" href="/imgdanu/favicon.ico"/>
+    {% endblock link %}
+    {% block script %}
+    <script src="/jsjquery/jquery-1.11.2.min.js"></script>
+    <script src="/jsjquery/jquery-1.11.2.min.map"></script>
+    <script src="/jsjquery/jquery.mobile-1.4.4.min.js"></script>
+    <script src="/jsjquery/jquery.mobile-1.4.4.min.map"></script>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+    <!--[if lt IE 9]><script type="text/javascript" src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    {% endblock script %}
+    {% block css %}
+      {% load pipeline %}
+      {% stylesheet 'danucss' %}
+    {% endblock %}
+    {% block extra-head %}{% endblock %}
+  </head>
+
+  <body>
+    <div data-role="page" style="background:#ffffff" data-quicklinks="true">
+       <div role="main" class="dg-content dg-fullwidth">
+         {% if device_info.width < 800 %}
+           {% include "header-panel.html" %}
+         {% elif device_info.width > 1600 %}
+           {% include "header-alt.html" %}
+         {% else %}
+           {% include "header.html" %}
+         {% endif %}
+         {% block content %}{% endblock %}
+         {% if device_info.width > 1600 %}
+           {% include "footer-alt.html" %}
+         {% else %}
+           {% include "footer.html" %}
+         {% endif %}
+       </div>
+       <div id="fb-root"></div>
+       {% block js %}
+         {% load pipeline %}
+         {% javascript 'danujs' %}
+       {% endblock %}
+    </div>
+  </body>
+</html>

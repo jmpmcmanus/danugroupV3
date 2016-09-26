@@ -1,0 +1,65 @@
+{"state": "Maine",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 5, "key": 221112, "year": "2010", "emission_amount": 2861931.2140000002},
+     {"emission_type": ["Frozen Fruit", " Juice", " and Vegetable Manufacturing"], "number_of_locations": 1, "key": 311411, "year": "2010", "emission_amount": 34914.0},
+     {"emission_type": ["All Other Miscellaneous Food Manufacturing"], "number_of_locations": 1, "key": 311999, "year": "2010", "emission_amount": 51200.199999999997},
+     {"emission_type": ["Pulp Mills"], "number_of_locations": 3, "key": 322110, "year": "2010", "emission_amount": 261376.05599999998},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 6, "key": 322121, "year": "2010", "emission_amount": 1837249.6159999999},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2010", "emission_amount": 341801.304},
+     {"emission_type": ["Ship Building and Repairing"], "number_of_locations": 1, "key": 336611, "year": "2010", "emission_amount": 70744.857999999993},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2010", "emission_amount": 157279.183751},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 3, "key": 562213, "year": "2010", "emission_amount": 239323.65999999997},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2010", "emission_amount": 29055.704000000002}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 5, "key": 221112, "year": "2011", "emission_amount": 2355420.406},
+     {"emission_type": ["Frozen Fruit", " Juice", " and Vegetable Manufacturing"], "number_of_locations": 1, "key": 311411, "year": "2011", "emission_amount": 38838.413999999997},
+     {"emission_type": ["All Other Miscellaneous Food Manufacturing"], "number_of_locations": 1, "key": 311999, "year": "2011", "emission_amount": 52574.949999999997},
+     {"emission_type": ["Pulp Mills"], "number_of_locations": 3, "key": 322110, "year": "2011", "emission_amount": 309920.79000000004},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 6, "key": 322121, "year": "2011", "emission_amount": 2065218.328},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2011", "emission_amount": 329437.28999999998},
+     {"emission_type": ["Semiconductor and Related Device Manufacturing"], "number_of_locations": 2, "key": 334413, "year": "2011", "emission_amount": 126526.14379999999},
+     {"emission_type": ["Ship Building and Repairing"], "number_of_locations": 1, "key": 336611, "year": "2011", "emission_amount": 52038.351999999999},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 1, "key": 486210, "year": "2011", "emission_amount": 30947.385999999999},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2011", "emission_amount": 213212.14377699999},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 3, "key": 562213, "year": "2011", "emission_amount": 256425.33600000001},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2011", "emission_amount": 29356.756000000001}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 5, "key": 221112, "year": "2012", "emission_amount": 1993477.8640000001},
+     {"emission_type": ["Frozen Fruit", " Juice", " and Vegetable Manufacturing"], "number_of_locations": 1, "key": 311411, "year": "2012", "emission_amount": 30392.966},
+     {"emission_type": ["All Other Miscellaneous Food Manufacturing"], "number_of_locations": 1, "key": 311999, "year": "2012", "emission_amount": 50271.849999999999},
+     {"emission_type": ["Pulp Mills"], "number_of_locations": 3, "key": 322110, "year": "2012", "emission_amount": 295037.78000000003},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 6, "key": 322121, "year": "2012", "emission_amount": 1916172.6129999999},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2012", "emission_amount": 314332.68400000001},
+     {"emission_type": ["Semiconductor and Related Device Manufacturing"], "number_of_locations": 2, "key": 334413, "year": "2012", "emission_amount": 139823.29819999999},
+     {"emission_type": ["Ship Building and Repairing"], "number_of_locations": 1, "key": 336611, "year": "2012", "emission_amount": 50775.557999999997},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 1, "key": 486210, "year": "2012", "emission_amount": 15196.696},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2012", "emission_amount": 104626.09348800001},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 3, "key": 562213, "year": "2012", "emission_amount": 228425.984},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2012", "emission_amount": 31671.310000000001}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 5, "key": 221112, "year": "2013", "emission_amount": 1675965.4839999999},
+     {"emission_type": ["Frozen Fruit", " Juice", " and Vegetable Manufacturing"], "number_of_locations": 1, "key": 311411, "year": "2013", "emission_amount": 25922.464},
+     {"emission_type": ["Pulp Mills"], "number_of_locations": 3, "key": 322110, "year": "2013", "emission_amount": 310016.53200000001},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 6, "key": 322121, "year": "2013", "emission_amount": 1676594.1899999999},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2013", "emission_amount": 347566.71799999999},
+     {"emission_type": ["Semiconductor and Related Device Manufacturing"], "number_of_locations": 2, "key": 334413, "year": "2013", "emission_amount": 146617.70480000001},
+     {"emission_type": ["Ship Building and Repairing"], "number_of_locations": 1, "key": 336611, "year": "2013", "emission_amount": 49306.510000000002},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 1, "key": 486210, "year": "2013", "emission_amount": 3673.8380000000002},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2013", "emission_amount": 86159.887999999992},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 2, "key": 562213, "year": "2013", "emission_amount": 156994.78399999999},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2013", "emission_amount": 32888.156000000003}
+   ]
+  }
+ ]
+}

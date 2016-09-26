@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block title %}{{ page_title }}{% endblock %}
+{% block meta %}
+    <meta name="keywords" content="environment, politics, technology, greenhouse gase, climate change, EPA Clean Power Plan" />
+    <meta name="description" content="DanuGroup's, contact web page." />
+    <meta name="author" content="Jim McManus" />
+{% endblock %}
+{% block content %}
+<div class="block" id="dgcontent">
+        <br /><br />
+        <h3>Contact DanuGroup</h3>
+        <br />
+        <div id="contact" class="clearfix">
+            <div id="c_form">
+                <form name="contactform" action="./" method="POST" class="contactform">
+                    {% csrf_token %}
+                    <table>
+                        <h4>Name: {{form.name|escape}}</h4>
+                        <h4>Email: {{form.email|escape}}</h4>
+                        <h4>Message: {{form.message|escape}}</h4>
+                    </table>
+                    <br />
+                    <input type="submit" value="Send Message"/>
+                </form>
+            </div>
+        </div>
+        <br /><br />
+</div>
+{% endblock %}
+

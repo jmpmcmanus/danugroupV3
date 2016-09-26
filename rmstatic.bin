@@ -1,0 +1,4 @@
+rm -r static/admin 
+rm -r static/css 
+rm -r static/js 
+rm -r static/zinnia

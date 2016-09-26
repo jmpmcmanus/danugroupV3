@@ -1,0 +1,13 @@
+<nav>
+  <ul class="breadcrumbs">
+    <b>DanuGroup's</b>
+    {% for crumb in breadcrumbs %}
+    <li>
+      {% if crumb.url %}
+      <a href="{{ crumb.url }}" title="{{ crumb.name }}">{{ crumb.name }}</a>
+      {% else %}
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</nav>

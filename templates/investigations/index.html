@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block fulltitle %}Danugroup Investigations{% block title %}{% endblock %}{% endblock %}
+
+{% block content %}
+{% load pipeline %}
+  {% block head_css_page %}
+  {% endblock head_css_page %}
+  <br /><br />
+  <a href="/investigations/ghgrp/" title="EPA's GreenHouse Gas Reporting Program" data-transition="fade">
+    <font size="4">
+     The U.S. Environmental Protection Agency`s Greenhouse Gas Reporting Program;
+    </font>
+    <font size="3">
+     A Tool For Regulating Greenhouse Gases:
+    </font>
+    <font size="3">
+     James McManus, DanuGroup.org, Jan. 1, 2015.
+    </font>
+    </a>
+    <br /><br />
+  {% block footer_javascript_page %}
+  {% endblock footer_javascript_page %}
+{% endblock %}

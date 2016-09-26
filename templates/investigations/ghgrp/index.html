@@ -1,0 +1,557 @@
+{% extends "base.html" %}
+{% block title %}{{ page_title }}{% endblock %}
+{% block meta %}
+    <meta name="keywords" content="environment, politics, technology, greenhouse gases, climate change, Supreme Court, California, tail pipe rule, EPA Clean Power Plan" />
+    <meta name="description" content="DanuGroup, investigates the history of regulating Greenhouse gasses (GHG) in the United States, and the development of the GHG Reporting Program at the EPA." />
+    <meta name="author" content="Jim McManus" />
+{% endblock %}
+{% block content %}
+{% load pipeline %}
+  {% block head_css_page %}
+    <link rel="stylesheet" type="text/css" href="/cssghg/ghgrp.css"/>
+    <link rel="stylesheet" type="text/css" href="/cssghg/figs.css"/>
+    <link rel="stylesheet" type="text/css" href="/cssghg/refs.css"/>
+  {% endblock head_css_page %}
+<br />
+<center>
+<b>
+<font size="5">
+  The U.S. Environmental Protection Agency`s Greenhouse Gas Reporting Program;
+</font>
+<br />
+<font size="4">
+  A Tool For Regulating Greenhouse Gases
+</font>
+</b>
+</center>
+<br />
+<div class="ui-grid-a ui-responsive">
+<div class="ui-block-a">
+<div class="ui-body ui-body-a" style="border:none;">
+<h4>INTRODUCTION</h4>
+<div class="dg-text">
+This is the first in a series of articles, that will examine point source greenhouse gas (GHG) emissions, in the
+United States (US), as well as the development of Renewable Energy to mitigate these emissions. This article looks at
+the history of regulating point source GHG, in the US, from Direct Emitters such as power utilities, industry and 
+farms. In the past few years the US has made significant progress towards this goal, by having the Environmental 
+Protection Agency's (EPA) develop the Greenhouse Gas Reporting Program (GHGRP)
+<a href="#[1]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[1]</a>
+, and propose the Clean Power Plan (CPP) 
+<a href="#[2]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">
+[2]</a>. The GHGRP, which began in 2010, collects GHG emissions from Direct Emitters, and for the first time provides 
+a comprehensive data set of GHG facility level measurements, for all major emitters, in the United States. The EPA is
+proposing to use this data too set GHG intensity rates (GHG/MWh), for electric power plants in each state, through the 
+CPP. Each State will be required to meet these rates by 2030, and show significant progress in achieving this goal 
+by 2020.
+</div>
+<br /><br />
+<h4>HISTORY</h4>
+<div class="dg-text">
+Attempts to regulate GHG in the US have been problematic. Since 1990, the EPA has produced an annual report
+<a href="#[3]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[3]</a> on 
+GHG Emissions and sinks. This report uses national energy data, national agricultural activities, and other national 
+statistics to provide a comprehensive accounting of total greenhouse gas emissions, from all man-made sources in the
+US. In 1992, the United States joined the United Nations Framework Convention on Climate Change (UNFCCC)
+<a href="#[4]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[4]</a>, and in 
+1997 it signed the Kyoto Protocol, but it has never been ratified by Congress
+<a href="#[5]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[5]</a>. With no legal binding to this treaty, 
+concerned parties, in the US, initiated a long legal effort to require the EPA to regulate GHG through the Clean Air 
+Act <a href="#[6]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[6]</a>. This effort culminated in 2007 with the U.S. Supreme Court ruling, in Massachusetts v. EPA, that stated GHG  
+air pollutants could be covered by the Clean Air Act, and in short required the EPA to make a decision on this 
+matter <a href="#[7]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[7]</a>.
+<br /><br />
+Between 2007 and 2010, Congress began taking a larger role, in this effort, by first passing legislation (FY2008
+Consolidated Appropriations Act.), which required the EPA to start a GHG reporting program, for all sectors of 
+the US economy
+<a href="#[8]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[8]</a>. This is the program, that now provides the data for this article. The US House of Representatives 
+went a step further, in 2010, by passing Waxman-Markey bill which was an attempt to create a national level 
+cap-and-trade system for GHG
+<a href="#[9]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[9]</a>, similar to what already exist for Acid Rain
+<a href="#[10]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[10]</a>. The cap-and-trade program for Acid 
+Rain has been extremely successful, but unfortunately the US Senate was not able to pass parallel legislation, 
+to the Waxman-Markey bill, and thus the overall effort failed <a href="#[11]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[11]</a>.
+<br /><br />
+In 2009, the EPA began the process of issuing a series of rules requiring the Mandatory Reporting of Greenhouse 
+Gases by large emitters
+<a href="#[8]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[8]</a>. This was in response to Congress's legislation, the year before, mentioned above. The  
+EPA eventually settled on facilities which are emitting greater than 25,000 tons/year <a href="#co2eq" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click for explination">(in CO<sub>2</sub>-equivalent terms)</a>
+of GHG, as the definition for large emitters.
+<br /><br />
+Meanwhile, in December 2009 the EPA finally acted upon the U.S. Supreme Court ruling, by issuing its "Endangerment
+Finding" <a href="#[12]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[12]</a>, which found that current and projected levels of six GHG's threaten the health and human welfare of
+current and future generations. The finding led directly to the "Tailpipe Rule", in which the EPA set GHG standards
+for new cars and light trucks. The rule also began the process of regulating GHG through the Clean Air Act (CAA), 
+because the EPA asserted that regulation of GHG from motor vehicle's automatically triggered certain permitting 
+requirements for stationary sources. This is a logical assertion since both are anthropogenic sources of GHG 
+emissions.
+<br /><br />
+The permitting process begins with a New Source Review (NSR), in which the EPA on a case-by-case bases examines 
+Direct Emitters to see if they are using the best available control technology to limit the emissions of GHG. The 
+"Prevention of Significant Deterioration" (PSD) provision, which is part of the CAA, requires all facilities emitting 
+more than 250 tons/year of a pollutant, to go through this process. In the case of GHG, especially CO<sub>2</sub>, this would 
+result in a huge number of facilities being permitted. Because of this, the EPA developed a Tailoring Rule
+<a href="#[13]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[13]</a>, to the 
+the PSD, which only requires facilities with at least 100,000 tons/year of CO<sub>2</sub>-equivalent emissions to be permitted. 
+This would result in facilities that are responsible for 86% of GHG emissions, from stationary sources, being permitted 
+under the CAA.
+<br /><br />
+The Coalition for Responsible Regulation, Inc. (CRR), a large consortium of businesses that own the bulk of stationary
+sources, challenged <a href="#[14]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[14]</a> 
+(Coalition for Responsible Regulation v. EPA) the EPA's Endangerment Finding and related 
+rulings. In 2012 United States Court of Appeals for the District of Columbia, upheld the Endangerment Finding and the
+Tailpipe Rule, while the Tailoring Rule was dismissed on technical grounds 
+<a href="#[15]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[15]</a>. In reviewing the lower courts ruling,
+the Supreme Court only agreed to a case on the Tailoring Rule. They were specifically interested in looking at whether
+the EPA over stepped its authority, by saying the Tailpipe Rule justified the regulator of stationary sources. Because
+of the Supreme Courts limiting this case to the Tailoring Rule, the Endangerment Finding and Tailpipe Rule are now 
+settled law. 
+<br /><br />
+D.C. Circuit Court of Appeals, combined the Tailoring Rule, from Coalition for Responsible Regulation v. EPA, with 
+another suite Texas v. EPA into a single suit, Utility Air Regulatory Group v. EPA 
+<a href="#[16]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[16]</a>, which the Supreme Court heard
+oral arguments for on February 24, 2014 <a href="#[17]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[17]</a>
+. In the second suite Texas and two industry groups (the Utility Air 
+Regulatory Group and the SIP/FIP advocacy group) were claiming the EPA overstepped its authority in permitting of GHG. 
+Part of the NSR process requires states to change their air quality state implementation plans to include GHG. Texas 
+refused to participate in this process, and in consequence filed a suite against the EPA. On June 23, 2014, in a 5-4 
+vote, the Supreme Court ruled against the EPA's Tailoring Rule and its new effort in permitting stationary source of
+GHG. However, in a separate part of the decision, all seven justices ruled the EPA could require facilities to limit 
+greenhouse gas emissions if they already qualified for the permit program because of emissions of conventional air 
+pollutants <a href="#[18]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[18]</a>. 
+<br /><br />
+Regional efforts to mitigate GHG began in 2001, with The New England Governors and Eastern Canadian Premiers (NEG-ECP)
+Climate Change Action Plan 2001 <a href="#[19]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[19]</a>
+. Shortly after that North Eastern State's, including New York, began discussions
+to develop a Regional Greenhouse Gas Initiative (RGGI) 
+<a href="#[20]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[20]</a>, which evolved into a cap-and-trade program by 2009 
+<a href="#[21]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[21]</a>. A
+similar effort on the West Cost <a href="#[22]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[22]</a>
+ has occurred, and at various times included most Western US State's and Canadian
+Provence's, but has never achieved the level of agreements as RGGI. However, the state of California has been the most
+aggressive state or provincial government, in North America, in initiating programs that mitigate GHG emissions. It has
+developed its own cap-and-trade program <a href="#[23]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[23]</a>
+, as well as an emissions control law, for automobiles, that began the
+process of pressuring the EPA to regulate GHG emissions from automobiles.
+</div>
+<br /><br />
+<h4>CURRENT STATE OF AFFAIRS</h4>
+<div class="dg-text">
+Even though the U.S. Congress never ratified the Kyoto Protocol, the U.S. has maintained its involvement in the United
+Nations Framework Convention on Climate Change (UNFCCC). Recently, the Obama administration has made significant
+progress in pushing the U.S. towards developing meaningful GHG emission standards. In June 2013, Obama issued a
+comprehensive Climate Action Plan <a href="#[24]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[24]</a>
+, in fulfillment of a pledge he made in 2009, to reduce America's GHG emissions 
+by 17 percent below 2005 levels. A year later the EPA issued a broad reaching Clean Power Plan 
+<a href="#[25]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[25]</a>, in response to the
+Presidents plan. The CPP is focused on Power Plants, and if successful it will cut GHG emission by 30%, in that sector 
+by 2030, relative to the base year of 2005.
+<br /><br />
+The CPP sets a goal, of GHG intensity rates (GHG/MWh), for each State which are to be achieved by 2030, with 
+significant progress towards the reduction by 2020. The EPA established the goals based on measurements, from each 
+state, of potential improvements in generating plant efficiency, possibility of using natural gas plants more,  
+potential use of renewable energy, and possible demand-side energy efficiency improvements. The goal will not limit 
+the amount of electricity produced, but focuses on how efficiently it is produced and used, in relation to the amount
+of GHG emitted in generating the electricity. Each State will be required to develop a plan on how to achieve the
+reductions, but they will have flexibility in how they meet the goal. The EPA will provide guidelines to help States 
+develop the plan, based on the CAA, Best System of Emission Reduction (BSER), which are similar to the measurements 
+used in creating the goal. A more thorough analysis of the CPP will be done in the next paper.
+<br /><br />
+The United States emitted approximately 6,220 (million) Mil MtCO<sub>2</sub>eq of GHG in 1990 
+<a href="#[fig.1]" title="Click to Go to Fig." data-ajax="false">[fig. 1]</a>. In signing Kyoto Protocol, in 1997, the
+US unofficially committed (US Senate never ratified Kyoto Protocol) it self to a target of reducing greenhouse gasses
+by 7% below 1990 levels, by the end 2012. In 2012 the US GHG emissions were 6,488 Mil MtCO<sub>2</sub>eq, just 4.5 % above 1990 
+emission levels, down from a maximum of 7,288 Mil MtCO<sub>2</sub>eq in 2007 <a href="#[fig.1]" title="Click to Go to Fig." data-ajax="false">[fig. 1]</a>. If you include reduction of GHG emissions due 
+to improved Land Use, Land Use Change, and Forestry (LULUCF) methods it was even closer. US GHG emissions, including
+reductions due to LULUCF, were 5,402 Mil MtCO<sub>2</sub>eq in 1990 <a href="#[fig.2]" title="Click to Go to Fig." data-ajax="false">[fig. 2]</a>, while in 2012 they were 5,546 Mil MtCO<sub>2</sub>eq <a href="#[fig.2]" title="Click to Go to Fig." data-ajax="false">[fig. 2]</a>, a 
+difference of only 2.6 %. What is most amazing about this, is that this mitigation was accomplished without the US 
+federal government making a positive contribution to the effort. In fact, as discussed above, the US government spent 
+most of this period trying to prevent state governments from enacting policies that would lead to reductions in GHG.
+</div>
+<br />
+<a id="[fig.1]"></a>
+{% if device_info.width < 800 %}
+<a href="#fig1" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-1"><img srcset="/imgghg/Fig1USGHGEmissionsMobile.png 300w" sizes="85vw" src="/imgghg/Fig1USGHGEmissionsMobile.png" alt="Fig. 1, Total Sources, by Gas, excluding Sinks" title="[fig. 1] Total Sources, by Gas,excluding Sinks (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% else %}
+<a href="#ghginvbarpopuptotals" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-1"><img srcset="/imgghg/Fig1USGHGEmissions.png 620w, /imgghg/AltFig1USGHGEmissions.png 500w" sizes="(min-width: 51em) 40vw, (max-width: 50em) 80vw" src="/imgghg/AltFig1USGHGEmissions.png" alt="Fig. 1, Total Sources, by Gas, excluding Sinks" title="[fig. 1] Total Sources, by Gas, excluding Sinks (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% endif %}
+<br />
+<a id="[fig.2]"></a>
+{% if device_info.width < 800 %}
+<a href="#fig2" data-rel="popup" data-position-to="window">
+  <center>
+      <div class="fig-2"><img srcset="/imgghg/Fig2USGHGEmissionsLULUCFMobile.png 300w" sizes="85vw" src="/imgghg/Fig2USGHGEmissionsLULUCFMobile.png" alt="Fig. 2, Total Sources, by Process, excluding Sinks" title="[fig. 2] Total Sources, by Process, excluding Sinks (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% else %}
+<a href="#ghginvbarpopuptotals" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-2"><img srcset="/imgghg/Fig2USGHGEmissionsLULUCF.png 620w, /imgghg/AltFig2USGHGEmissionsLULUCF.png 500w" sizes="(min-width: 51em) 40vw, (max-width: 50em) 80vw" src="/imgghg/AltFig2USGHGEmissionsLULUCF.png" alt="Fig. 2, Total Sources, by Process, excluding Sinks" title="[fig. 2] Total Sources, by Process, excluding Sinks (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% endif %}
+<br />
+<div class="dg-text">
+One of the strongest arguments against ratifying the Kyoto Protocol, was the possible negative effects it could have 
+on the US economy. The Bush Administration claimed signing the Kyoto Protocol would cost the US economy $400 Bil and 4.9 Mil 
+jobs <a href="#[26]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[26]</a>
+. The fear was that efforts to mitigate GHG emissions would lead to higher energy cost, and as a results 
+companies would move jobs over seas to countries that were not part of the Kyoto Protocol. In the year 2000, through a 
+bipartisan effort, the US established permanent normal trade relations 
+<a href="#[27]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[27]</a> with China. Ironically the opening up of 
+trade with China seems to have had many of the negative effects, decline in manufacturing jobs
+<a href="#[28]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[28]</a> and higher energy 
+cost <a href="#[29]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[29]</a>
+, that experts used against ratifying the Kyoto Protocol. This was very unfortunate, because we did not have 
+the benefit's of improved energy efficiency that ratification of Kyoto Protocol would have brought. When the price of 
+oil per barrel passed $100, for the first time on Jan. 2, 2008, Americans felt the direct impact from this rapid rise 
+in the cost of energy, instead of having a dampening effect of greater energy efficiency.
+<br /><br />
+The decline in manufacturing effect on GHG emissions is evident when comparing Industrial Process emissions, from the 
+late 1990's and early 2000's, where the emissions between 2001 and 2007 <a href="#[fig.3]" title="Click to Go to Fig." data-ajax="false">[fig. 3]</a> where much lower. During this same 
+period GHG emissions from Energy <a href="#[fig.4]" title="Click to Go to Fig." data-ajax="false">[fig. 4]</a>, including transportation, where increasing or staying level. However, this 
+trend began to revers in 2008, with higher petroleum prices, and then dramatically changed in 2009 with the collapse of 
+the US economy, in the Great Recession. Since then, GHG emissions, from Industrial Processes, have rebounded, but 
+emissions from Energy have continued to stay relatively low. Hopefully, this indicates greater energy efficiency, in 
+this sector.
+</div>
+<br />
+<a id="[fig.3]"></a>
+{% if device_info.width < 800 %}
+<a href="#fig3" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-3"><img srcset="/imgghg/Fig3USIndustrialGHGMobile.png 300w" sizes="85vw" src="/imgghg/Fig3USIndustrialGHGMobile.png" alt="Fig 3, Industrial Processes" title="[fig. 3] Industrial Processes (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% else %}
+<a href="#ghginvbarpopupindustry" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-3"><img srcset="/imgghg/Fig3USIndustrialGHG.png 620w, /imgghg/AltFig3USIndustrialGHG.png 500w" sizes="(min-width: 51em) 40vw, (max-width: 50em) 80vw" src="/imgghg/AltFig3USIndustrialGHG.png" alt="Fig. 3, Industrial Processes" title="[fig. 3] Industrial Processes (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% endif %}
+<br />
+<a id="[fig.4]"></a>
+{% if device_info.width < 800 %}
+  <a href="#fig4" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-4"><img srcset="/imgghg/Fig4USEnergyGHGMobile.png 300w" sizes="85vw" src="/imgghg/Fig4USEnergyGHGMobile.png" alt="Fig. 4, Energy Processes" title="[fig. 4] Energy Processes (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% else %}
+<a href="#ghginvbarpopupenergy" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-4"><img srcset="/imgghg/Fig4USEnergyGHG.png 620w, /imgghg/AltFig4USEnergyGHG.png 500w" sizes="(min-width: 51em) 40vw, (max-width: 50em) 80vw" src="/imgghg/AltFig4USEnergyGHG.png" alt="Fig. 4, Energy Processes" title="[fig. 4] Energy Processes (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% endif %}
+<br />
+<div class="dg-text">
+The EPA's GHG Reporting program began collecting data in 2010, but facilities are still being added as of 2012, which 
+is the latest data. This makes it difficult to compare data between years, since the emission totals are effected by
+the increased number of facilities reporting, as the program matures. Many facilities, such as power plants, were 
+submitting GHG data, to the EPA, before 2010 as part of other programs. One source of this data is the Emissions &
+Generation Resource Integrated Database (eGRID) 
+<a href="#[30]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[30]</a>, at the EPA, which contains environmental data on electric 
+power generated in the US. It includes data sources other than the EPA. The data used for the graphs, in this article, 
+are from the annual summary Excel files, acquired from the EPA's Greenhouse Gas website 
+<a href="#[31]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[31]</a>.
+<br /><br />
+A single reporting facility can have multiple processing, each of which can emit more than one type of GHG. This can 
+complicate categorizing facilities based on their processes and GHG emissions. A more detailed description of the data 
+and how values may vary, is provided in a separate article 
+<a href="#[32]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[32]</a>. The current article reference data values used on the 
+EPA's GHG Reporting web site <a href="#[33]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[33]</a>
+. These values will not be exactly the same as the ones shown in this article's graphs.
+The graphs are meant to provide users a broad analytic capability, enabling user to explore the data in ways that
+hopefully will provide them different perspectives on GHG emissions.
+</br />
+</div>
+</div>
+</div>
+<div class="ui-block-b">
+<div class="ui-body ui-body-a" style="border:none;">
+<div class="dg-text">
+In 2010 over 6,000 facilities reported GHG emissions. The total emissions from Direct Emitters that year was equivalent
+to over 3.2 (billion) Bil MtCO<sub>2</sub>eq <a href="#[figs.5-8]" title="Click to Go to Fig." data-ajax="false">[fig. 5]</a>. Power plants were by far the largest emitters, emitting more than 2.3 Bil MtCO<sub>2</sub>eq
+of GHG <a href="#[figs.5-8]" title="Click to Go to Fig." data-ajax="false">[fig. 6]</a>, or around 74% of total emissions. By 2013 the total number of facilities reporting had increased to
+7,868, with total emissions of 3.17 Bil MtCO<sub>2</sub>eq <a href="#[figs.5-8]" title="Click to Go to Fig." data-ajax="false">[fig. 7]</a>, Power plants, which had GHG emissions of 2.1 Bil 2</sub>eq, contributing 
+only 67% of emissions <a href="#[figs.5-8]" title="Click to Go to Fig." data-ajax="false">[fig. 8]</a>. The difference in total GHG emissions, from Direct Emitters, between 2010 and 2013 was
+approximately -21 Mil MtCO<sub>2</sub>eq. However, there was a decrease of approximately 227 Mil MtCO<sub>2</sub>eq, between 2010 and 2013 GHG 
+emissions from Power Plants. Comparing total GHG emissions between 2010 and 2013 is difficult, because there was an
+increase in the types of facilities report as the GHG Reporting Program official started in 2011, for instance  
+Petroleum and Natural Gas. However, comparisons of Power Plant GHG emissions between those years is more valid, since
+the EPA was collecting GHG emissions from that sector prior to establishing the GHG Reporting Program. 
+<br />
+<a id="[figs.5-8]"></a>
+{% if device_info.width < 800 %}
+<center>
+<div class="figs-5to8">
+<a href="#fig5" data-rel="popup" data-position-to="window">
+<div id="fig-5"><img src="/imgghg/transparentmobile.png" alt="Fig. 5, 2010 GHG Emissions from Direct Emitters" title="[fig. 5] 2010 GHG Emissions from Direct Emitters (Click to Access) [Created With D3]"></div>
+</a>
+<a href="#fig6" data-rel="popup" data-position-to="window">
+<div id="fig-6"><img src="/imgghg/transparentmobile.png" alt="Fig. 6, 2010 GHG Emissions from Power Plants" title="[fig. 6] 2010 GHG Emissions from Power Plants (Click to Access) [Created With D3]"></div>
+</a>
+<a href="#fig7" data-rel="popup" data-position-to="window">
+<div id="fig-7"><img src="/imgghg/transparentmobile.png" alt="Fig. 7, 2013 GHG Emissions from Direct Emitters" title="[fig. 7] 2013 GHG Emissions from Direct Emitters (Click to Access) [Created With D3]"></div>
+</a>
+<a href="#fig8" data-rel="popup" data-position-to="window">
+<div id="fig-8"><img src="/imgghg/transparentmobile.png" alt="Fig. 8, 2013 GHG Emissions from Power Plants" title="[fig. 8] 2013 GHG Emissions from Power Plants (Click to Access) [Created With D3]"></div>
+</a>
+</div>
+</center>
+{% else %}
+<center>
+<div class="figs-5to8">
+  <a href="#ghgsectorgasemissionspopup" data-rel="popup" data-position-to="window">
+    <div id="fig-5"><img src="/imgghg/transparent.png" alt="Fig. 5, 2010 GHG Emissions from Direct Emitters" title="[fig. 5] 2010 GHG Emissions from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </a>
+  <a href="#ghgsectorgasemissionspopup2010" data-rel="popup" data-position-to="window">
+    <div id="fig-6"><img src="/imgghg/transparent.png" alt="Fig. 6, 2010 GHG Emissions from Power Plants" title="[fig. 6] 2010 GHG Emissions from Power Plants (Click to Access) [Created With D3]"></div>
+  </a>
+  <a href="#ghgsectorgasemissionspopup" data-rel="popup" data-position-to="window">
+    <div id="fig-7"><img src="/imgghg/transparent.png" alt="Fig. 7, 2013 GHG Emissions from Direct Emitters" title="[fig. 7] 2013 GHG Emissions from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </a>
+  <a href="#ghgsectorgasemissionspopup2013" data-rel="popup" data-position-to="window">
+    <div id="fig-8"><img src="/imgghg/transparent.png" alt="Fig. 8, 2013 GHG Emissions from Power Plants" title="[fig. 8] 2013 GHG Emissions from Power Plants (Click to Access) [Created With D3]"></div>
+  </a>
+</div>
+</center>
+{% endif %}
+In 2013, emissions, from Direct Emitters, of CO<sub>2</sub> were over 2.89 Bil MtCO<sub>2</sub>eq, while emissions of CH4 and N2O were 224 and 36 
+Mil MtCO<sub>2</sub>eq <a href="#[fig.9]" title="Click to Go to Fig." data-ajax="false">[fig. 9]</a>, respectively. Electricity Generation accounted for 2.1 Bil MtCO<sub>2</sub>eq, or 73% of CO<sub>2</sub> emission <a href="#[fig.10]" title="Click to Go to Fig." data-ajax="false">[fig. 10]</a>. The 
+The next highest CO<sub>2</sub> emitters were Petroleum Refineries with emissions of 177.5 Mil MtCO<sub>2</sub>eq (6%), and Iron & Steel 
+Production with 84 Mil MtCO<sub>2</sub>eq <a href="#[fig.10]" title="Click to Go to Fig." data-ajax="false">[fig. 10]</a> (3%). The only other case were a single industry dominates the emissions of a GHG,
+are Municipal Landfills, with Methane (CH4) emissions of 92 Mil MtCO<sub>2</sub>eq, or 41% <a href="#[fig.10]" title="Click to Go to Fig." data-ajax="false">[fig. 10]</a>.
+</div>
+<br />
+<a id="[fig.9]"></a>
+{% if device_info.width < 800 %}
+<a href="#fig9" data-rel="popup" data-position-to="window">
+  <center>
+      <div class="fig-9"><img srcset="/imgghg/Fig9USEmissions2013Mobile.png 300w" sizes="85vw" src="/imgghg/Fig9USEmissions2013Mobile.png" alt="Fig. 9, 2013 Primary Gas Emissions, from Direct Emitters of GHG" title="[fig. 9] 2013 Primary Gas Emissions, from Direct Emitters of GHG (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% else %}
+<a href="#ghgsectorgaspopup" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-9"><img srcset="/imgghg/Fig9USEmissions2013.png 620w, /imgghg/AltFig9USEmissions2013.png 500w" sizes="(min-width: 51em) 40vw, (max-width: 50em) 80vw" src="/imgghg/AltFig9USEmissions2013.png" alt="Fig. 9, 2013 Primary Gas Emissions, from Direct Emitters of GHG" title="[fig. 9] 2013 Primary Gas Emissions, from Direct Emitters of GHG (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% endif %}
+<br />
+<a id="[fig.10]"></a>
+{% if device_info.width < 800 %}
+<a href="#fig10" data-rel="popup" data-position-to="window">
+  <center>
+      <div class="fig-10"><img srcset="/imgghg/Fig10USGHGSelectSectors2013Mobile.png 300w" sizes="85vw" src="/imgghg/Fig10USGHGSelectSectors2013Mobile.png" alt="Fig. 10, 2013 Primary Source Emissions, from Direct Emitters of GHG" title="[fig. 10] 2013 Primary Source Emissions, from Direct Emitters of GHG (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% else %}
+<a href="#ghgsectorgaspopup" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-10"><img srcset="/imgghg/Fig10USGHGSelectSectors2013.png 620w, /imgghg/AltFig10USGHGSelectSectors2013.png 500w" sizes="(min-width: 51em) 40vw, (max-width: 50em) 80vw" src="/imgghg/AltFig10USGHGSelectSectors2013.png" alt="Fig. 10, 2013 Primary Source Emissions, from Direct Emitters of GHG" title="[fig. 10] 2013 Primary Source Emissions, from Direct Emitters of GHG (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% endif %}
+<br />
+<div class="dg-text">
+There is a general relationship between GHG emissions from States, and their population. States with larger population
+generally have higher GHG emissions, than State with smaller populations. Of course this is obvious, so one must always
+look at per person GHG emissions, when comparing GHG emissions between states, or nations. 
+<br /><br />
+In 2013 Texas, with a population of 26,448,193, had the highest GHG emissions, from Direct Emitters, with 409.11
+Mil MtCO<sub>2</sub>eq <a href="#[fig.11]" title="Click to Go to Fig." data-ajax="false">[fig. 11]</a>. This is despite it not having the largest population. California, with a population of 38,332,521, 
+had GHG emissions of 112.47 Mil MtCO<sub>2</sub>eq <a href="#[fig.11]" title="Click to Go to Fig." data-ajax="false">[fig. 11]</a>. Both states have a wide variety of emitters, including high GHG emitting 
+industries such as Petroleum Refineries, where Texas and California had GHG emissions of 65.21 <a href="#[fig. 12]" title="Click to Go to Fig." data-ajax="false">[fig. 12]</a> and 
+30.63 <a href="#[fig. 13]" title="Click to Go to Fig." data-ajax="false">[fig. 13]</a> Mil MtCO<sub>2</sub>eq, respectively. However, in the case of both States the largest source of GHG emissions by far
+are from fossil fuel electric power generation, where Texas has GHG emissions of 233.87 Mil MtCO<sub>2</sub>eq <a href="#[fig.12]" title="Click to Go to Fig." data-ajax="false">[fig. 12]</a>, while 
+California has only 43.17 Mil MtCO<sub>2</sub>eq <a href="#[fig.13]" title="Click to Go to Fig." data-ajax="false">[fig. 13]</a>. This shows the success of California's long term commitment to renewable 
+energy and energy efficiency. In fact it ranks eighth out of all states in total GHG emissions, from Direct Emitters. 
+The States that are ranked before California all tend to have relatively large populations, and a wide variety of GHG 
+emitting industries.
+</div>
+<br />
+<a id="[fig.11]"></a>
+{% if device_info.width < 800 %}
+<a href="#fig11" data-rel="popup" data-position-to="window">
+  <center>
+      <div class="fig-11"><img srcset="/imgghg/Fig11GHGEmissions2013Mobile.png 300w" sizes="85vw" src="/imgghg/Fig11GHGEmissions2013Mobile.png" alt="Fig. 11, 2013 GHG Emissions, by State, from Direct Emitters" title="[fig. 11] 2013 GHG Emissions, by State, from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% else %}
+<a href="#ghgmappopupe" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-11"><img srcset="/imgghg/Fig11GHGEmissions2013.png 620w, /imgghg/AltFig11GHGEmissions2013.png 500w" sizes="(min-width: 51em) 40vw, (max-width: 50em) 80vw" src="/imgghg/AltFig11GHGEmissions2013.png" alt="Fig. 11, 2013 GHG Emissions, by State, from Direct Emitters" title="[fig. 11] 2013 GHG Emissions, by State, from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% endif %}
+<br />
+<a id="[fig.12]"></a>
+{% if device_info.width < 800 %}
+<a href="#fig12" data-rel="popup" data-position-to="window">
+  <center>
+      <div class="fig-12"><img srcset="/imgghg/Fig12TexasGHGEmissions2013Mobile.png 300w" sizes="85vw" src="/imgghg/Fig12TexasGHGEmissions2013Mobile.png" alt="Fig. 12, 2013 GHG Emissions, by Source, for Texas from Direct Emitters" title="[fig. 12] 2013 GHG Emissions, by Source, for Texas from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% else %}
+<a href="#ghgmappopupetx" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-12"><img srcset="/imgghg/Fig12TexasGHGEmissions2013.png 620w, /imgghg/AltFig12TexasGHGEmissions2013.png 500w" sizes="(min-width: 51em) 40vw, (max-width: 50em) 80vw" src="/imgghg/AltFig12TexasGHGEmissions2013.png" alt="Fig. 12, 2013 GHG Emissions, by Source, for Texas from Direct Emitters" title="[fig. 12] 2013 GHG Emissions, by Source, for Texas from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% endif %}
+<br />
+<a id="[fig.13]"></a>
+{% if device_info.width < 800 %}
+<a href="#fig13" data-rel="popup" data-position-to="window">
+  <center>
+      <div class="fig-13"><img srcset="/imgghg/Fig13CaliforniaGHGEmissions2013Mobile.png 300w" sizes="85vw" src="/imgghg/Fig13CaliforniaGHGEmissions2013Mobile.png" alt="Fig. 13, 2013 GHG Emissions, by Source, for California from Direct Emitters" title="[fig. 13] 2013 GHG Emissions, by Source, for California from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% else %}
+<a href="#ghgmappopupeca" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-13"><img srcset="/imgghg/Fig13CaliforniaGHGEmissions2013.png 620w, /imgghg/AltFig13CaliforniaGHGEmissions2013.png 500w" sizes="(min-width: 51em) 40vw, (max-width: 50em) 80vw" src="/imgghg/AltFig13CaliforniaGHGEmissions2013.png" alt="Fig. 13, 2013 GHG Emissions, by Source, for California from Direct Emitters" title="[fig. 13] 2013 GHG Emissions, by Source, for California from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% endif %}
+<br />
+<div class="dg-text">
+Two states that stand out, in this group, are Louisiana and Indiana, which have moderate populations of 4,625,470 
+and 6,570,902, but high GHG emissions of 136.53 Mil MtCO<sub>2</sub>eq and 157.43 Mil MtCO<sub>2</sub>eq, respectively <a href="#[fig.14]" title="Click to Go to Fig." data-ajax="false">[fig. 14]</a>. Louisiana 
+has a large petrochemical industry, so when you look at GHG emissions from just electric power plants it drops out of 
+the top GHG emitting states. However, Indiana stays in the top ranking, where Texas still hold the number one position. 
+This is because Indian, as well as its neighboring states in the Midwest, have large numbers of coal burning power 
+plants <a href="#[34]" data-rel="popup" data-position-to="window" data-transition="pop" style="text-decoration:none" title="Click to See Reference">[34]</a>
+, along with being a major coal producing area. The effects of coal on GHG emissions are even more evident if 
+you look at per person emissions, where large coal producing states of Wyoming (115.8 Mil MtCO<sub>2</sub>eq/Pop), North Dakota 
+(51.15 Mil MtCO<sub>2</sub>eq/Pop) and West Virginia (47.32 Mil MtCO<sub>2</sub>eq/Pop) are the highest ranks <a href="#[fig.15]" title="Click to Go to Fig." data-ajax="false">[fig. 15]</a>. This is even the case when you 
+just look at per person power emissions, where they still hold the top ranks, showing that these states are also big 
+electricity producers for other states. What really jumps out when looking at per person emissions is that large 
+population stats, such as Texas, (15.47 Mil MtCO<sub>2</sub>eq/Pop) have relatively low per person emissions <a href="#[fig.16]" title="Click to Go to Fig." data-ajax="false">[fig. 16]</a>. The lowest per 
+person emitters are states such as California (2.93 Mil MtCO<sub>2</sub>eq/Pop) and New York (2.18 Mil MtCO<sub>2</sub>eq/Pop), which have been active 
+in pushing for energy efficiency and developing renewable energy, a well as states, such as Idaho (2.62 Mil MtCO<sub>2</sub>eq/Pop), 
+that have abundant hydroelectric energy <a href="#[fig.16]" title="Click to Go to Fig." data-ajax="false">[fig. 16]</a>.
+</div>
+<br />
+<a id="[fig.14]"></a>
+{% if device_info.width < 800 %}
+<a href="#fig14" data-rel="popup" data-position-to="window">
+  <center>
+      <div class="fig-14"><img srcset="/imgghg/Fig14GHGEmissions2013Mobile.png 300w" sizes="85vw" src="/imgghg/Fig14GHGEmissions2013Mobile.png" alt="Fig. 14, 2013 GHG Emissions, by State, from Direct Emitters" title="[fig. 14] 2013 GHG Emissions, by State, from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% else %}
+<a href="#ghgmappopupe" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-14"><img srcset="/imgghg/Fig14GHGEmissions2013.png 620w, /imgghg/AltFig14GHGEmissions2013.png 500w" sizes="(min-width: 51em) 40vw, (max-width: 50em) 80vw" src="/imgghg/AltFig14GHGEmissions2013.png" alt="Fig. 14, 2013 GHG Emissions, by State, from Direct Emitters" title="[fig. 14] 2013 GHG Emissions, by State, from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% endif %}
+<br />
+<a id="[fig.15]"></a>
+{% if device_info.width < 800 %}
+<a href="#fig15" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-15"><img srcset="/imgghg/Fig15GHGPerPersonEmissions2013Mobile.png 300w" sizes="85vw" src="/imgghg/Fig15GHGPerPersonEmissions2013Mobile.png" alt="Fig. 15, 2013 GHG Per capita Emissions, by State, from Direct Emitters" title="[fig. 15] 2013 GHG Per capita Emissions, by State, from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% else %}
+<a href="#ghgmappopupppe" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-15"><img srcset="/imgghg/Fig15GHGPerPersonEmissions2013.png 620w, /imgghg/AltFig15GHGPerPersonEmissions2013.png 500w" sizes="(min-width: 51em) 40vw, (max-width: 50em) 80vw" src="/imgghg/AltFig15GHGPerPersonEmissions2013.png" alt="Fig. 15, 2013 GHG Per capita Emissions, by State, from Direct Emitters" title="[fig. 15] 2013 GHG Per capita Emissions, by State, from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% endif %}
+<br />
+<a id="[fig.16]"></a>
+{% if device_info.width < 800 %}
+<a href="#fig16" data-rel="popup" data-position-to="window">
+  <center>
+      <div class="fig-16"><img srcset="/imgghg/Fig16GHGPerPersonEmissions2013Mobile.png 300w" sizes="85vw" src="/imgghg/Fig16GHGPerPersonEmissions2013Mobile.png" alt="Fig. 16, 2013 GHG Per capita Emissions, by State, from Direct Emitters" title="[fig. 16] 2013 GHG Per capita Emissions, by State, from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% else %}
+<a href="#ghgmappopupppe" data-rel="popup" data-position-to="window">
+  <center>
+    <div class="fig-16"><img srcset="/imgghg/Fig16GHGPerPersonEmissions2013.png 620w, /imgghg/AltFig16GHGPerPersonEmissions2013.png 500w" sizes="(min-width: 51em) 40vw, (max-width: 50em) 80vw" src="/imgghg/AltFig16GHGPerPersonEmissions2013.png" alt="Fig. 16, 2013 GHG Per capita Emissions, by State, from Direct Emitters" title="[fig. 16] 2013 GHG Per capita Emissions, by State, from Direct Emitters (Click to Access) [Created With D3]"></div>
+  </center>
+</a>
+{% endif %}
+<br />
+<h4>CONCLUSIONS</h4>
+<div class="dg-text">
+Even though there has been significant progress in regulating GHG emissions in the US, there is still great uncertainty
+about how successful the current regulations will be, and weather they will lead to additional attempts to curtail GHG
+emissions.  However, it is certain that there will be continued pressure to proceed along this path.  Most GHG emitters
+in the electric power industry all ready support regulating GHG emission, so now the question is more about how to 
+proceed. The next article, in this series, will take a closer look at the CPP, examining specific State cases, 
+describing how the EPA derived the GHG intensity rates, and possible scenarios the States could use to achieve these
+rates.
+</div>
+</div>
+</div>
+</div><!-- /grid-a -->
+<div class="social-button-container" style="position: relative; z-index: 999;">
+  <div class="social-button">
+    <div class="fb-like" data-href="https://www.danugroup.org/investigations/ghgrp/" data-layout="button" data-action="like" data-show-faces="true" data-width="100" data-share="true"></div>
+  </div>
+  <div class="social-button">
+    <a class="twitter-share-button" href="https://twitter.com/intent/tweet" data-url="https://www.danugroup.org/investigations/ghgrp/" data-width="100" data-count="none"></a>
+  </div>
+  {% if device_info.width < 800 %}
+    </div>
+    <div class="social-button-container" style="position: relative; z-index: 999;">
+      <div class="social-button" style="margin-left: 20px;">
+        <script type="IN/Share" data-url="http://www.danugroup.org/investigations/ghgrp/"></script>
+      </div>
+      <div class="social-button">
+        <div class="g-plusone" data-size="medium" data-width="100" data-annotation="none"></div>
+      </div>
+      <div class="social-button">
+        <a href="//www.reddit.com/submit" onclick="window.location = '//www.reddit.com/submit?url=' + 'https://www.danugroup.org/investigations/ghgrp/'; return false"> <img src="//www.redditstatic.com/spreddit1.gif" alt="submit to reddit" border="0" /> </a>
+  {% else %}
+    <div class="social-button" style="margin-top: 20px;">
+      <script type="IN/Share" data-url="http://www.danugroup.org/investigations/ghgrp/"></script>
+    </div>
+    <div class="social-button" style="margin-top: 20px;">
+      <div class="g-plusone" data-size="medium" data-width="100" data-annotation="none"></div>
+    </div>
+    <div class="social-button" style="margin-top: 20px;">
+      <a href="//www.reddit.com/submit" onclick="window.location = '//www.reddit.com/submit?url=' + 'https://www.danugroup.org/investigations/ghgrp/'; return false"> <img src="//www.redditstatic.com/spreddit1.gif" alt="submit to reddit" border="0" /> </a>
+  {% endif %}
+  </div>
+</div>
+<hr />
+<div class="ui-body ui-body-a" style="border:none;">
+{% include "investigations/ghgrp/ghgrefs.html" %}
+{% if device_info.width < 800 %}
+  {% include "investigations/ghgrp/altfigs.html" %}
+{% else %}
+  {% include "investigations/ghgrp/ghgfigs.html" %}
+{% endif %}
+{% include "investigations/ghgrp/co2eq.html" %}
+</div>
+  {% block footer_javascript_page %}
+     <script type="application/ecmascript" src="/jsghg/ghginvbarpopuptotals.js"></script>
+     <script type="application/ecmascript" src="/jsghg/ghginvbarpopupindustry.js"></script>
+     <script type="application/ecmascript" src="/jsghg/ghginvbarpopupenergy.js"></script>
+     <script type="application/ecmascript" src="/jsghg/ghgsectorgasemissionspopup.js"></script>
+     <script type="application/ecmascript" src="/jsghg/ghgsectorgasemissionspopup2010.js"></script>
+     <script type="application/ecmascript" src="/jsghg/ghgsectorgasemissionspopup2013.js"></script>
+     <script type="application/ecmascript" src="/jsghg/ghgsectorgaspopup.js"></script>
+     <script type="application/ecmascript" src="/jsghg/ghgmappopupe.js"></script>
+     <script type="application/ecmascript" src="/jsghg/ghgmappopupetx.js"></script>
+     <script type="application/ecmascript" src="/jsghg/ghgmappopupeca.js"></script>
+     <script type="application/ecmascript" src="/jsghg/ghgmappopupppe.js"></script>
+  {% endblock footer_javascript_page %}
+{% endblock %}

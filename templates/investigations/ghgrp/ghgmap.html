@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/cssghg/ghgmap.css"/>
+{% include "investigations/ghgrp/code.html" %}
+</head>
+<body>
+   <form>
+     <p>
+       <label>Emission Type:  <select id="field"></select></label>
+       <label>during: <select id="year"></select></label>
+     </p>
+   </form>
+   <div id="ghgmap-container">
+     <svg id="ghgmap"></svg>
+   </div>
+   <script type="application/ecmascript" src="/jsghg/topojson.js"></script>
+   <script type="application/ecmascript" src="/jsghg/cartogram.js"></script>
+   <script type="application/ecmascript" src="/jsghg/bubblechart.js"></script>
+   <script type="application/ecmascript" src="/jsghg/ghgmap.js"></script>
+</body>
+</html>

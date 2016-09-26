@@ -1,0 +1,200 @@
+#menu {
+    position: relative;
+    list-style:none;
+    min-width: 540px;
+    max-width: 900px;
+    width: 55%;
+    height:43px;
+    padding:0% 0% 0% 2%;
+    margin:10px 0px 0px 0px;
+    /* Rounded Corners */
+      -moz-border-radius: 0px 10px 10px 0px;
+      -webkit-border-radius: 0px 10px 10px 0px;
+      border-radius: 0px 10px 10px 0px;
+    /* Background color */
+    background: #002500;
+}
+#menu li {
+    float:left;
+    display:block;
+    text-align:center;
+    position:relative;
+    padding:8px 0px 4px 0px;
+    border:none;
+}
+#menu li:hover {
+    background: #002500;
+}
+#menu li a {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px; 
+    color: white;
+    display:block;
+    outline:0;
+    text-decoration:none;
+    text-shadow: 1px 1px 1px #000000;
+}
+#menu li:visited a {
+    color:white;
+}
+#menu li:active a {
+    color:white;
+}
+#menu li:focus a {
+    color:white;
+}
+#menu li:hover a {
+    color:#B82E00;
+    text-shadow: 1px 1px 1px #000000;
+}
+#menu li .drop {
+    padding-right:21px;
+    background:url("img/drop1.png") no-repeat right 8px;
+}
+#menu li:hover .drop {
+    background:url("img/drop2.png") no-repeat right 7px;
+}
+#menu li .submenu {
+    margin-left:21px;
+}
+#menu li:hover .submenu {
+    margin-left:20px;
+}
+.dropdown_1column, 
+.dropdown_2columns, 
+.dropdown_3columns, 
+.dropdown_4columns,
+.dropdown_5columns {
+    width: 180px;
+    margin:4px auto;
+    position:absolute;
+    left: -99em; /* Hides the drop down */
+    text-align:left;
+    padding:10px 5px 10px 5px;
+    border:1px solid #777777;
+    background: #003600;
+    /* Rounded Corners */
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    z-index: 5000;
+}
+#menu li:hover .dropdown_1column, 
+#menu li:hover .dropdown_2columns, 
+#menu li:hover .dropdown_3columns,
+#menu li:hover .dropdown_4columns,
+#menu li:hover .dropdown_5columns {
+    left:-1px;
+    top:auto;
+}
+#menu li:hover .align_right {
+    left:auto;
+    right:-1px;
+    top:auto;
+}
+#menu li:hover div a {
+    font-size:12px;
+    color:#ffffff;
+}
+#menu li:hover div a:hover {
+    color:#B82E00;
+    text-shadow: 1px 1px 1px #000000;
+}
+#menu li ul {
+    list-style:none;
+    padding:0;
+    margin:0px 0px 12px 0px;
+}
+#menu li ul li {
+    font-size:12px;
+    line-height:24px;
+    position:relative;
+    text-shadow: 1px 1px 1px #;
+    padding:0;
+    margin:0;
+    float:none;
+    text-align:left;
+    width:150px;
+}
+#menu li ul li:hover {
+    background:none;
+    border:none;
+    padding:0;
+    margin:0;
+}
+/* Panel: Toolbars, dividers, slider track */
+#menu .panel {
+    display:block;
+    position:relative;
+    margin:0px 0px 0px 20px;
+    padding:8px 0px 0px 32px;
+    font-size:18px;
+    background-image:url("img/menu-alt-1.png");
+    background-repeat:no-repeat;
+    background-position: 0px 8px;
+}
+#menu .panel: hover {
+    background-image:url("img/menu-alt-2.png");
+    background-repeat:no-repeat;
+    background-position: 0px 8px;
+}
+#menu a {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    color: white;
+    display:block;
+    outline:0;
+    text-decoration:none;
+    text-shadow: 1px 1px 1px #000000;
+}
+#menu a:hover {
+    color:#B82E00;
+    text-shadow: 1px 1px 1px #000000;
+}
+.ui-page-theme-menu,
+.ui-body-menu,
+.ui-panel-page-container-menu {
+    background-color: #003500 /*{menu-body-background-color}*/;
+    border-color: #8c8c8c /*{menu-body-border}*/;
+    color: #003500 /*{menu-body-color}*/;
+}
+.ui-body-menu {
+    border-width: 1px;
+    border-style: solid;
+}
+/* Links */
+.ui-page-theme-menu a,
+html .ui-bar-menu a,
+html .ui-body-menu a,
+html body .ui-group-theme-menu a {
+    color: white;
+    text-shadow: 1px 1px 1px #000000;
+}
+.ui-page-theme-a a:visited {
+    color: white;
+    text-shadow: 1px 1px 1px #000000;
+}
+.ui-page-theme-menu a:hover {
+    color: #B82E00 /*{a-link-hover}*/;
+    text-shadow: 1px 1px 1px #000000;
+}
+.ui-page-theme-a a:active {
+    color: #B82E00;
+    text-shadow: 1px 1px 1px #000000;
+}
+.closepanel {
+    display:block;
+    position:relative;
+    margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 0px; //30px;
+    background-image:url("img/close-menu.png");
+    background-repeat:no-repeat;
+    background-position: 0px 0px;
+    height: 26px;
+}
+.closepanel: hover {
+    background-image:url("img/close-menu-red.png");
+    background-repeat:no-repeat;
+    background-position: 0px 0px;
+    height: 26px;
+}

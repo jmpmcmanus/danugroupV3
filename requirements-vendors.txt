@@ -1,0 +1,12 @@
+Django==1.9
+django-blog-zinnia==0.18
+python-social-auth
+django-pipeline
+cssmin
+pillow
+django_xmlrpc
+mots_vides
+generic
+django-tagging
+django-mptt
+django-contrib-comments

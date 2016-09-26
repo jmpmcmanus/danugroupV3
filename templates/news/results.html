@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block title %}{{ "Search results for" }} '{{ pattern }}'{% endblock title %}
+{% block meta-description %}{{ "Search results for" }} '{{ pattern }}'{% endblock meta-description %}
+{% block body-class %}{{ block.super }} search 
+  {% if search_results %}
+    search-results
+  {% else %}
+    search-no-results
+  {% endif %}
+{% endblock body-class %}
+{% block content %}
+  <div class="ui-grid-a ui-responsive">
+    <br />
+    <div class="ui-block-a" style="width:65%">
+      <h3>{{ "Search results for" }} '{{ pattern }}'</h3>
+      <div id="danunews">
+        <ul>
+        {% if not error %}
+        {% for search_result in search_results %}
+          <li class="danunews">
+            {% autoescape off %}
+            <a href={{ search_result.url }} target=_blank title="{{ search_result.title }}">
+              {{ search_result.title }}
+            </a>
+            {% endautoescape %}
+          </li>
+        {% empty %}
+        <li class="danunews">{{ "Nothing found for " }}{{ pattern }}</li>
+        {% endfor %}
+        {% endif %}
+        </ul>
+        <div class="pagination">
+         <span class="step-links">
+           {% if search_results.has_previous %}
+             <a href="?pattern={{ pattern }}&page={{ search_results.previous_page_number }}">previous</a>
+           {% endif %}
+           <span class="current">
+             Page {{ search_results.number }} of {{ search_results.paginator.num_pages }}.
+           </span>
+           {% if search_results.has_next %}
+             <a href="?pattern={{ pattern }}&page={{ search_results.next_page_number }}">next</a>
+           {% endif %}
+         </span>
+        </div>
+        <br />
+      </div>
+    </div>
+    <div class="ui-block-b" style="width:35%">
+      <div id="searchnews">
+        {% include "news/tags/search_form.html" %}
+      </div>
+    </div>
+  </div>
+{% endblock content %}

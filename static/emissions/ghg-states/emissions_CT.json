@@ -1,0 +1,88 @@
+{"state": "Connecticut",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 16, "key": 221112, "year": "2010", "emission_amount": 7806672.385999999},
+     {"emission_type": ["Other Electric Power Generation - solar electric power generation"], "number_of_locations": 1, "key": 221119, "year": "2010", "emission_amount": 234088.94},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2010", "emission_amount": 83336.059999999998},
+     {"emission_type": ["Other Snack Food Manufacturing"], "number_of_locations": 1, "key": 311919, "year": "2010", "emission_amount": 39888.190000000002},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 3, "key": 322121, "year": "2010", "emission_amount": 261246.32199999999},
+     {"emission_type": ["Paperboard Mills"], "number_of_locations": 1, "key": 322130, "year": "2010", "emission_amount": 91603.504000000001},
+     {"emission_type": ["Pharmaceutical Preparation Manufacturing"], "number_of_locations": 1, "key": 325412, "year": "2010", "emission_amount": 28864.34},
+     {"emission_type": ["Copper Rolling", " Drawing", " and Extruding"], "number_of_locations": 1, "key": 331421, "year": "2010", "emission_amount": 0.0},
+     {"emission_type": ["Aircraft Manufacturing"], "number_of_locations": 1, "key": 336411, "year": "2010", "emission_amount": 28144.689999999999},
+     {"emission_type": ["Aircraft Engine and Engine Parts Manufacturing"], "number_of_locations": 2, "key": 336412, "year": "2010", "emission_amount": 156858.302},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 2, "key": 486210, "year": "2010", "emission_amount": 72575.179999999993},
+     {"emission_type": ["Research and Development in the Physical", " Engineering", " and Life Sciences (except Biotechnology)"], "number_of_locations": 1, "key": 541712, "year": "2010", "emission_amount": 120888.02},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2010", "emission_amount": 252930.89012500001},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 6, "key": 562213, "year": "2010", "emission_amount": 786348.79999999993},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 3, "key": 611310, "year": "2010", "emission_amount": 282964.74400000001},
+     {"emission_type": ["Casino Hotels"], "number_of_locations": 1, "key": 721120, "year": "2010", "emission_amount": 26606.484},
+     {"emission_type": ["National Security"], "number_of_locations": 1, "key": 928110, "year": "2010", "emission_amount": 34061.82}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 16, "key": 221112, "year": "2011", "emission_amount": 6328068.0130000003},
+     {"emission_type": ["Other Electric Power Generation - solar electric power generation"], "number_of_locations": 1, "key": 221119, "year": "2011", "emission_amount": 153118.35000000001},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2011", "emission_amount": 84755.868000000002},
+     {"emission_type": ["Other Snack Food Manufacturing"], "number_of_locations": 1, "key": 311919, "year": "2011", "emission_amount": 40755.048000000003},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 3, "key": 322121, "year": "2011", "emission_amount": 263726.84999999998},
+     {"emission_type": ["Paperboard Mills"], "number_of_locations": 2, "key": 322130, "year": "2011", "emission_amount": 136315.99599999998},
+     {"emission_type": ["Pharmaceutical Preparation Manufacturing"], "number_of_locations": 1, "key": 325412, "year": "2011", "emission_amount": 25890.802},
+     {"emission_type": ["Copper Rolling", " Drawing", " and Extruding"], "number_of_locations": 1, "key": 331421, "year": "2011", "emission_amount": 2902.3879999999999},
+     {"emission_type": ["Aircraft Manufacturing"], "number_of_locations": 1, "key": 336411, "year": "2011", "emission_amount": 36458.196000000004},
+     {"emission_type": ["Aircraft Engine and Engine Parts Manufacturing"], "number_of_locations": 2, "key": 336412, "year": "2011", "emission_amount": 123461.466},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 3, "key": 486210, "year": "2011", "emission_amount": 127357.448},
+     {"emission_type": ["Research and Development in Biotechnology"], "number_of_locations": 1, "key": 541711, "year": "2011", "emission_amount": 115698.386},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2011", "emission_amount": 135231.31337300001},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 6, "key": 562213, "year": "2011", "emission_amount": 770760.77599999995},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 3, "key": 611310, "year": "2011", "emission_amount": 313068.76799999998},
+     {"emission_type": ["Casino Hotels"], "number_of_locations": 1, "key": 721120, "year": "2011", "emission_amount": 25237.0},
+     {"emission_type": ["National Security"], "number_of_locations": 1, "key": 928110, "year": "2011", "emission_amount": 32398.387999999999}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 16, "key": 221112, "year": "2012", "emission_amount": 6262225.9929999989},
+     {"emission_type": ["Other Electric Power Generation - solar electric power generation"], "number_of_locations": 1, "key": 221119, "year": "2012", "emission_amount": 203092.58199999999},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2012", "emission_amount": 82943.320000000007},
+     {"emission_type": ["Other Snack Food Manufacturing"], "number_of_locations": 1, "key": 311919, "year": "2012", "emission_amount": 39673.498},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 3, "key": 322121, "year": "2012", "emission_amount": 263408.97600000002},
+     {"emission_type": ["Paperboard Mills"], "number_of_locations": 2, "key": 322130, "year": "2012", "emission_amount": 143593.73200000002},
+     {"emission_type": ["Pharmaceutical Preparation Manufacturing"], "number_of_locations": 1, "key": 325412, "year": "2012", "emission_amount": 24663.130000000001},
+     {"emission_type": ["Copper Rolling", " Drawing", " and Extruding"], "number_of_locations": 1, "key": 331421, "year": "2012", "emission_amount": 2785.6399999999999},
+     {"emission_type": ["Aircraft Manufacturing"], "number_of_locations": 1, "key": 336411, "year": "2012", "emission_amount": 55967.339999999997},
+     {"emission_type": ["Aircraft Engine and Engine Parts Manufacturing"], "number_of_locations": 2, "key": 336412, "year": "2012", "emission_amount": 109310.42599999999},
+     {"emission_type": ["Other Aircraft Parts and Auxiliary Equipment Manufacturing"], "number_of_locations": 1, "key": 336413, "year": "2012", "emission_amount": 27589.687999999998},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 3, "key": 486210, "year": "2012", "emission_amount": 136661.76000000001},
+     {"emission_type": ["Research and Development in Biotechnology"], "number_of_locations": 1, "key": 541711, "year": "2012", "emission_amount": 99154.820000000007},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2012", "emission_amount": 99324.963327000005},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 6, "key": 562213, "year": "2012", "emission_amount": 850653.37},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 3, "key": 611310, "year": "2012", "emission_amount": 300130.33400000003},
+     {"emission_type": ["Casino Hotels"], "number_of_locations": 1, "key": 721120, "year": "2012", "emission_amount": 24580.599999999999},
+     {"emission_type": ["National Security"], "number_of_locations": 1, "key": 928110, "year": "2012", "emission_amount": 42741.402000000002}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 16, "key": 221112, "year": "2013", "emission_amount": 6636607.6020000009},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2013", "emission_amount": 86113.216},
+     {"emission_type": ["Other Snack Food Manufacturing"], "number_of_locations": 1, "key": 311919, "year": "2013", "emission_amount": 39344.703999999998},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 3, "key": 322121, "year": "2013", "emission_amount": 253200.04200000002},
+     {"emission_type": ["Paperboard Mills"], "number_of_locations": 2, "key": 322130, "year": "2013", "emission_amount": 44614.303999999996},
+     {"emission_type": ["Pharmaceutical Preparation Manufacturing"], "number_of_locations": 1, "key": 325412, "year": "2013", "emission_amount": 25902.993999999999},
+     {"emission_type": ["Aircraft Manufacturing"], "number_of_locations": 1, "key": 336411, "year": "2013", "emission_amount": 56560.68},
+     {"emission_type": ["Aircraft Engine and Engine Parts Manufacturing"], "number_of_locations": 2, "key": 336412, "year": "2013", "emission_amount": 122150.416},
+     {"emission_type": ["Other Aircraft Parts and Auxiliary Equipment Manufacturing"], "number_of_locations": 1, "key": 336413, "year": "2013", "emission_amount": 27573.351999999999},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 3, "key": 486210, "year": "2013", "emission_amount": 133112.128},
+     {"emission_type": ["Research and Development in Biotechnology"], "number_of_locations": 1, "key": 541711, "year": "2013", "emission_amount": 85677.922000000006},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2013", "emission_amount": 91839.106},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 6, "key": 562213, "year": "2013", "emission_amount": 844590.47599999991},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 3, "key": 611310, "year": "2013", "emission_amount": 309743.09600000002},
+     {"emission_type": ["Casino Hotels"], "number_of_locations": 1, "key": 721120, "year": "2013", "emission_amount": 27238.200000000001},
+     {"emission_type": ["National Security"], "number_of_locations": 1, "key": 928110, "year": "2013", "emission_amount": 33005.262000000002}
+   ]
+  }
+ ]
+}

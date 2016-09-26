@@ -1,0 +1,68 @@
+{"state": "Nevada",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Gold Ore Mining"], "number_of_locations": 3, "key": 212221, "year": "2010", "emission_amount": 443661.19799999997},
+     {"emission_type": ["All Other Nonmetallic Mineral Mining"], "number_of_locations": 1, "key": 212399, "year": "2010", "emission_amount": 29297.240000000002},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 20, "key": 221112, "year": "2010", "emission_amount": 17040415.838369999},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 1, "key": 322121, "year": "2010", "emission_amount": 30093.93},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 1, "key": 324110, "year": "2010", "emission_amount": 15880.34},
+     {"emission_type": ["All Other Basic Inorganic Chemical Manufacturing"], "number_of_locations": 2, "key": 325188, "year": "2010", "emission_amount": 31696.880000000001},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2010", "emission_amount": 420643.50599999999},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 2, "key": 327410, "year": "2010", "emission_amount": 1404767.7560000001},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 1, "key": 327420, "year": "2010", "emission_amount": 41862.589999999997},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 2, "key": 486210, "year": "2010", "emission_amount": 146761.5},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2010", "emission_amount": 249787.6882},
+     {"emission_type": ["Casino Hotels"], "number_of_locations": 3, "key": 721120, "year": "2010", "emission_amount": 202999.34399999998}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Gold Ore Mining"], "number_of_locations": 3, "key": 212221, "year": "2011", "emission_amount": 455699.07199999999},
+     {"emission_type": ["All Other Nonmetallic Mineral Mining"], "number_of_locations": 1, "key": 212399, "year": "2011", "emission_amount": 34215.072},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 20, "key": 221112, "year": "2011", "emission_amount": 14847618.683250001},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 1, "key": 322121, "year": "2011", "emission_amount": 30997.98},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 1, "key": 324110, "year": "2011", "emission_amount": 15347.799999999999},
+     {"emission_type": ["All Other Basic Inorganic Chemical Manufacturing"], "number_of_locations": 1, "key": 325188, "year": "2011", "emission_amount": 30726.148000000001},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2011", "emission_amount": 432651.23999999999},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 2, "key": 327410, "year": "2011", "emission_amount": 1530755.318},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 1, "key": 327420, "year": "2011", "emission_amount": 46675.32},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 2, "key": 486210, "year": "2011", "emission_amount": 170519.91999999998},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2011", "emission_amount": 162765.63800000001},
+     {"emission_type": ["Casino Hotels"], "number_of_locations": 3, "key": 721120, "year": "2011", "emission_amount": 203398.38400000002}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Gold Ore Mining"], "number_of_locations": 3, "key": 212221, "year": "2012", "emission_amount": 409448.14800000004},
+     {"emission_type": ["All Other Nonmetallic Mineral Mining"], "number_of_locations": 1, "key": 212399, "year": "2012", "emission_amount": 33700.923999999999},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 20, "key": 221112, "year": "2012", "emission_amount": 14819827.057999998},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 1, "key": 322121, "year": "2012", "emission_amount": 30344.98},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 1, "key": 324110, "year": "2012", "emission_amount": 14615.062},
+     {"emission_type": ["All Other Basic Inorganic Chemical Manufacturing"], "number_of_locations": 1, "key": 325188, "year": "2012", "emission_amount": 26533.400000000001},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2012", "emission_amount": 396821.67999999999},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 2, "key": 327410, "year": "2012", "emission_amount": 1539011.574},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 1, "key": 327420, "year": "2012", "emission_amount": 79126.429999999993},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 3, "key": 486210, "year": "2012", "emission_amount": 258019.56200000001},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2012", "emission_amount": 331440.51303600002},
+     {"emission_type": ["Casino Hotels"], "number_of_locations": 3, "key": 721120, "year": "2012", "emission_amount": 199471.64799999999}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Gold Ore Mining"], "number_of_locations": 3, "key": 212221, "year": "2013", "emission_amount": 372444.44199999998},
+     {"emission_type": ["All Other Nonmetallic Mineral Mining"], "number_of_locations": 1, "key": 212399, "year": "2013", "emission_amount": 34693.32},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 19, "key": 221112, "year": "2013", "emission_amount": 15709572.097999997},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 1, "key": 322121, "year": "2013", "emission_amount": 30087.036},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 1, "key": 324110, "year": "2013", "emission_amount": 14889.556},
+     {"emission_type": ["All Other Basic Inorganic Chemical Manufacturing"], "number_of_locations": 1, "key": 325188, "year": "2013", "emission_amount": 24862.756000000001},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2013", "emission_amount": 437996.13199999998},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 2, "key": 327410, "year": "2013", "emission_amount": 1551373.2179999999},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 2, "key": 327420, "year": "2013", "emission_amount": 150906.04200000002},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 3, "key": 486210, "year": "2013", "emission_amount": 211293.76799999998},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2013", "emission_amount": 296374.22999999998},
+     {"emission_type": ["Casino Hotels"], "number_of_locations": 3, "key": 721120, "year": "2013", "emission_amount": 203565.35800000001}
+   ]
+  }
+ ]
+}

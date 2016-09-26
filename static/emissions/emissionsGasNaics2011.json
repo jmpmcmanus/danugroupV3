@@ -1,0 +1,5021 @@
+{
+"links":[
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Agriculture, Forestry, Fishing and Hunting",
+"value":"330405.0"
+},
+{
+"source":"Agriculture, Forestry, Fishing and Hunting",
+"target":"Other Food Crops Grown Under Cover",
+"value":"80292.0"
+},
+{
+"source":"Agriculture, Forestry, Fishing and Hunting",
+"target":"Sugarcane Farming",
+"value":"126470.0"
+},
+{
+"source":"Agriculture, Forestry, Fishing and Hunting",
+"target":"Postharvest Crop Activities (except Cotton Ginning)",
+"value":"123642.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Mining",
+"value":"94593303.0"
+},
+{
+"source":"Mining",
+"target":"Crude Petroleum and Natural Gas Extraction",
+"value":"50028470.0"
+},
+{
+"source":"Mining",
+"target":"Natural Gas Liquid Extraction",
+"value":"21998730.0"
+},
+{
+"source":"Mining",
+"target":"Bituminous Coal and Lignite Surface Mining",
+"value":"20258.0"
+},
+{
+"source":"Mining",
+"target":"Bituminous Coal Underground Mining",
+"value":"646995.0"
+},
+{
+"source":"Mining",
+"target":"Anthracite Mining",
+"value":"81637.0"
+},
+{
+"source":"Mining",
+"target":"Iron Ore Mining",
+"value":"5563957.0"
+},
+{
+"source":"Mining",
+"target":"Gold Ore Mining",
+"value":"479952.0"
+},
+{
+"source":"Mining",
+"target":"Lead Ore and Zinc Ore Mining",
+"value":"164844.0"
+},
+{
+"source":"Mining",
+"target":"Copper Ore and Nickel Ore Mining",
+"value":"746165.0"
+},
+{
+"source":"Mining",
+"target":"Dimension Stone Mining and Quarrying",
+"value":"4.0"
+},
+{
+"source":"Mining",
+"target":"Crushed and Broken Limestone Mining and Quarrying",
+"value":"575439.0"
+},
+{
+"source":"Mining",
+"target":"Crushed and Broken Granite Mining and Quarrying",
+"value":"28360.0"
+},
+{
+"source":"Mining",
+"target":"Industrial Sand Mining",
+"value":"62607.0"
+},
+{
+"source":"Mining",
+"target":"Kaolin and Ball Clay Mining",
+"value":"982167.0"
+},
+{
+"source":"Mining",
+"target":"Clay and Ceramic and Refractory Minerals Mining",
+"value":"297629.0"
+},
+{
+"source":"Mining",
+"target":"Potash Soda and Borate Mineral Mining",
+"value":"7181963.0"
+},
+{
+"source":"Mining",
+"target":"Phosphate Rock Mining",
+"value":"400069.0"
+},
+{
+"source":"Mining",
+"target":"All Other Nonmetallic Mineral Mining",
+"value":"298120.0"
+},
+{
+"source":"Mining",
+"target":"Support Activities for Oil and Gas Operations",
+"value":"4913999.0"
+},
+{
+"source":"Mining",
+"target":"Support Activities for Coal Mining",
+"value":"16.0"
+},
+{
+"source":"Mining",
+"target":"Support Activities for Nonmetallic Minerals (except Fuels) Mining",
+"value":"121924.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Utilities",
+"value":"2191632081.0"
+},
+{
+"source":"Utilities",
+"target":"Hydroelectric Power Generation",
+"value":"442553.0"
+},
+{
+"source":"Utilities",
+"target":"Fossil Fuel Electric Power Generation",
+"value":"2172627082.0"
+},
+{
+"source":"Utilities",
+"target":"Nuclear Electric Power Generation",
+"value":"4682.0"
+},
+{
+"source":"Utilities",
+"target":"Other Electric Power Generation - solar electric power generation",
+"value":"4498032.0"
+},
+{
+"source":"Utilities",
+"target":"Electric Bulk Power Transmission and Control",
+"value":"21918.0"
+},
+{
+"source":"Utilities",
+"target":"Electric Power Distribution",
+"value":"602881.0"
+},
+{
+"source":"Utilities",
+"target":"Natural Gas Distribution",
+"value":"5001818.0"
+},
+{
+"source":"Utilities",
+"target":"Water Supply and Irrigation Systems",
+"value":"186102.0"
+},
+{
+"source":"Utilities",
+"target":"Sewage Treatment Facilities",
+"value":"242933.0"
+},
+{
+"source":"Utilities",
+"target":"Steam and Air-Conditioning Supply",
+"value":"8004080.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Construction",
+"value":"83680.0"
+},
+{
+"source":"Construction",
+"target":"Oil and Gas Pipeline and Related Structures Construction",
+"value":"79212.0"
+},
+{
+"source":"Construction",
+"target":"Power and Communication Line and Related Structures Construction",
+"value":"4468.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Manufacturing",
+"value":"644809439.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Animal Food Manufacturing",
+"value":"172636.0"
+},
+{
+"source":"Manufacturing",
+"target":"Malt Manufacturing",
+"value":"169469.0"
+},
+{
+"source":"Manufacturing",
+"target":"Wet Corn Milling",
+"value":"16870533.0"
+},
+{
+"source":"Manufacturing",
+"target":"Soybean Processing",
+"value":"2707089.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Oilseed Processing",
+"value":"58860.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fats and Oils Refining and Blending",
+"value":"247748.0"
+},
+{
+"source":"Manufacturing",
+"target":"Breakfast Cereal Manufacturing",
+"value":"325279.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cane Sugar Refining",
+"value":"518287.0"
+},
+{
+"source":"Manufacturing",
+"target":"Beet Sugar Manufacturing",
+"value":"4158280.0"
+},
+{
+"source":"Manufacturing",
+"target":"Confectionery Manufacturing from Purchased Chocolate",
+"value":"38935.0"
+},
+{
+"source":"Manufacturing",
+"target":"Frozen Fruit Juice and Vegetable Manufacturing",
+"value":"1088164.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fruit and Vegetable Canning",
+"value":"986212.0"
+},
+{
+"source":"Manufacturing",
+"target":"Specialty Canning",
+"value":"286064.0"
+},
+{
+"source":"Manufacturing",
+"target":"Dried and Dehydrated Food Manufacturing",
+"value":"146160.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fluid Milk Manufacturing",
+"value":"79756.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cheese Manufacturing",
+"value":"303536.0"
+},
+{
+"source":"Manufacturing",
+"target":"Dry Condensed and Evaporated Dairy Product Manufacturing",
+"value":"415814.0"
+},
+{
+"source":"Manufacturing",
+"target":"Animal (except Poultry) Slaughtering",
+"value":"1217123.0"
+},
+{
+"source":"Manufacturing",
+"target":"Meat Processed from Carcasses",
+"value":"152743.0"
+},
+{
+"source":"Manufacturing",
+"target":"Rendering and Meat Byproduct Processing",
+"value":"851297.0"
+},
+{
+"source":"Manufacturing",
+"target":"Poultry Processing",
+"value":"471638.0"
+},
+{
+"source":"Manufacturing",
+"target":"Seafood Canning",
+"value":"23278.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fresh and Frozen Seafood Processing",
+"value":"43759.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cookie and Cracker Manufacturing",
+"value":"28359.0"
+},
+{
+"source":"Manufacturing",
+"target":"Roasted Nuts and Peanut Butter Manufacturing",
+"value":"25979.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Snack Food Manufacturing",
+"value":"276777.0"
+},
+{
+"source":"Manufacturing",
+"target":"Coffee and Tea Manufacturing",
+"value":"129578.0"
+},
+{
+"source":"Manufacturing",
+"target":"Spice and Extract Manufacturing",
+"value":"603214.0"
+},
+{
+"source":"Manufacturing",
+"target":"Perishable Prepared Food Manufacturing",
+"value":"25505.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Food Manufacturing",
+"value":"314240.0"
+},
+{
+"source":"Manufacturing",
+"target":"Breweries",
+"value":"1116151.0"
+},
+{
+"source":"Manufacturing",
+"target":"Wineries",
+"value":"3591.0"
+},
+{
+"source":"Manufacturing",
+"target":"Distilleries",
+"value":"574295.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cigarette Manufacturing",
+"value":"127055.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Tobacco Product Manufacturing",
+"value":"122765.0"
+},
+{
+"source":"Manufacturing",
+"target":"Broadwoven Fabric Mills",
+"value":"155534.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonwoven Fabric Mills",
+"value":"54800.0"
+},
+{
+"source":"Manufacturing",
+"target":"Broadwoven Fabric Finishing Mills",
+"value":"236922.0"
+},
+{
+"source":"Manufacturing",
+"target":"Textile and Fabric Finishing (except Broadwoven Fabric) Mills",
+"value":"180530.0"
+},
+{
+"source":"Manufacturing",
+"target":"Carpet and Rug Mills",
+"value":"210035.0"
+},
+{
+"source":"Manufacturing",
+"target":"Sawmills",
+"value":"17112.0"
+},
+{
+"source":"Manufacturing",
+"target":"Hardwood Veneer and Plywood Manufacturing",
+"value":"209.0"
+},
+{
+"source":"Manufacturing",
+"target":"Softwood Veneer and Plywood Manufacturing",
+"value":"1915.0"
+},
+{
+"source":"Manufacturing",
+"target":"Reconstituted Wood Product Manufacturing",
+"value":"421558.0"
+},
+{
+"source":"Manufacturing",
+"target":"Pulp Mills",
+"value":"6532165.0"
+},
+{
+"source":"Manufacturing",
+"target":"Paper (except Newsprint) Mills",
+"value":"22374483.0"
+},
+{
+"source":"Manufacturing",
+"target":"Newsprint Mills",
+"value":"1661965.0"
+},
+{
+"source":"Manufacturing",
+"target":"Paperboard Mills",
+"value":"10643502.0"
+},
+{
+"source":"Manufacturing",
+"target":"Setup Paperboard Box Manufacturing",
+"value":"124947.0"
+},
+{
+"source":"Manufacturing",
+"target":"Coated and Laminated Paper Manufacturing",
+"value":"66845.0"
+},
+{
+"source":"Manufacturing",
+"target":"Uncoated Paper and Multiwall Bag Manufacturing",
+"value":"331.0"
+},
+{
+"source":"Manufacturing",
+"target":"Sanitary Paper Product Manufacturing",
+"value":"221247.0"
+},
+{
+"source":"Manufacturing",
+"target":"Commercial Gravure Printing",
+"value":"69123.0"
+},
+{
+"source":"Manufacturing",
+"target":"Petroleum Refineries",
+"value":"196683596.0"
+},
+{
+"source":"Manufacturing",
+"target":"Asphalt Paving Mixture and Block Manufacturing",
+"value":"148984.0"
+},
+{
+"source":"Manufacturing",
+"target":"Petroleum Lubricating Oil and Grease Manufacturing",
+"value":"100936.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Petroleum and Coal Products Manufacturing",
+"value":"7616163.0"
+},
+{
+"source":"Manufacturing",
+"target":"Petrochemical Manufacturing",
+"value":"17066883.0"
+},
+{
+"source":"Manufacturing",
+"target":"Industrial Gas Manufacturing",
+"value":"21924339.0"
+},
+{
+"source":"Manufacturing",
+"target":"Inorganic Dye and Pigment Manufacturing",
+"value":"2039916.0"
+},
+{
+"source":"Manufacturing",
+"target":"Synthetic Organic Dye and Pigment Manufacturing",
+"value":"31387.0"
+},
+{
+"source":"Manufacturing",
+"target":"Alkalies and Chlorine Manufacturing",
+"value":"14719940.0"
+},
+{
+"source":"Manufacturing",
+"target":"Carbon Black Manufacturing",
+"value":"3573396.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Basic Inorganic Chemical Manufacturing",
+"value":"3124432.0"
+},
+{
+"source":"Manufacturing",
+"target":"Gum and Wood Chemical Manufacturing",
+"value":"72516.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cyclic Crude and Intermediate Manufacturing",
+"value":"1466821.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ethyl Alcohol Manufacturing",
+"value":"18109364.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Basic Organic Chemical Manufacturing",
+"value":"25386029.0"
+},
+{
+"source":"Manufacturing",
+"target":"Plastics Material and Resin Manufacturing",
+"value":"17883338.0"
+},
+{
+"source":"Manufacturing",
+"target":"Synthetic Rubber Manufacturing",
+"value":"1380557.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cellulosic Organic Fiber Manufacturing",
+"value":"973388.0"
+},
+{
+"source":"Manufacturing",
+"target":"Noncellulosic Organic Fiber Manufacturing",
+"value":"471560.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nitrogenous Fertilizer Manufacturing",
+"value":"20542120.0"
+},
+{
+"source":"Manufacturing",
+"target":"Phosphatic Fertilizer Manufacturing",
+"value":"2061281.0"
+},
+{
+"source":"Manufacturing",
+"target":"Pesticide and Other Agricultural Chemical Manufacturing",
+"value":"716740.0"
+},
+{
+"source":"Manufacturing",
+"target":"Medicinal and Botanical Manufacturing",
+"value":"526562.0"
+},
+{
+"source":"Manufacturing",
+"target":"Pharmaceutical Preparation Manufacturing",
+"value":"1503201.0"
+},
+{
+"source":"Manufacturing",
+"target":"Biological Product (except Diagnostic) Manufacturing",
+"value":"332006.0"
+},
+{
+"source":"Manufacturing",
+"target":"Paint and Coating Manufacturing",
+"value":"3359.0"
+},
+{
+"source":"Manufacturing",
+"target":"Soap and Other Detergent Manufacturing",
+"value":"323071.0"
+},
+{
+"source":"Manufacturing",
+"target":"Polish and Other Sanitation Good Manufacturing",
+"value":"21944.0"
+},
+{
+"source":"Manufacturing",
+"target":"Surface Active Agent Manufacturing",
+"value":"139752.0"
+},
+{
+"source":"Manufacturing",
+"target":"Explosives Manufacturing",
+"value":"434820.0"
+},
+{
+"source":"Manufacturing",
+"target":"Photographic Film Paper Plate and Chemical Manufacturing",
+"value":"997191.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Chemical Product and Preparation Manufacturing",
+"value":"1095523.0"
+},
+{
+"source":"Manufacturing",
+"target":"Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing",
+"value":"385439.0"
+},
+{
+"source":"Manufacturing",
+"target":"Unlaminated Plastics Profile Shape Manufacturing",
+"value":"97108.0"
+},
+{
+"source":"Manufacturing",
+"target":"Laminated Plastics Plate Sheet (except Packaging) and Shape Manufacturing",
+"value":"27339.0"
+},
+{
+"source":"Manufacturing",
+"target":"Polystyrene Foam Product Manufacturing",
+"value":"111101.0"
+},
+{
+"source":"Manufacturing",
+"target":"Tire Manufacturing (except Retreading)",
+"value":"783828.0"
+},
+{
+"source":"Manufacturing",
+"target":"Rubber Product Manufacturing for Mechanical Use",
+"value":"28630.0"
+},
+{
+"source":"Manufacturing",
+"target":"Vitreous China Plumbing Fixture and China and Earthenware Bathroom Accessories Manufacturing",
+"value":"25782.0"
+},
+{
+"source":"Manufacturing",
+"target":"Brick and Structural Clay Tile Manufacturing",
+"value":"81418.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ceramic Wall and Floor Tile Manufacturing",
+"value":"258676.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonclay Refractory Manufacturing",
+"value":"431546.0"
+},
+{
+"source":"Manufacturing",
+"target":"Flat Glass Manufacturing",
+"value":"3148394.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Pressed and Blown Glass and Glassware Manufacturing",
+"value":"1102858.0"
+},
+{
+"source":"Manufacturing",
+"target":"Glass Container Manufacturing",
+"value":"3287606.0"
+},
+{
+"source":"Manufacturing",
+"target":"Glass Product Manufacturing Made of Purchased Glass",
+"value":"138190.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cement Manufacturing",
+"value":"54317161.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Concrete Product Manufacturing",
+"value":"25701.0"
+},
+{
+"source":"Manufacturing",
+"target":"Lime Manufacturing",
+"value":"25410243.0"
+},
+{
+"source":"Manufacturing",
+"target":"Gypsum Product Manufacturing",
+"value":"1746244.0"
+},
+{
+"source":"Manufacturing",
+"target":"Abrasive Product Manufacturing",
+"value":"195845.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ground or Treated Mineral and Earth Manufacturing",
+"value":"775018.0"
+},
+{
+"source":"Manufacturing",
+"target":"Mineral Wool Manufacturing",
+"value":"933061.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Nonmetallic Mineral Product Manufacturing",
+"value":"896398.0"
+},
+{
+"source":"Manufacturing",
+"target":"Iron and Steel Mills",
+"value":"80808408.0"
+},
+{
+"source":"Manufacturing",
+"target":"Electrometallurgical Ferroalloy Product Manufacturing",
+"value":"2348309.0"
+},
+{
+"source":"Manufacturing",
+"target":"Iron and Steel Pipe and Tube Manufacturing from Purchased Steel",
+"value":"477973.0"
+},
+{
+"source":"Manufacturing",
+"target":"Rolled Steel Shape Manufacturing",
+"value":"644240.0"
+},
+{
+"source":"Manufacturing",
+"target":"Alumina Refining",
+"value":"1824378.0"
+},
+{
+"source":"Manufacturing",
+"target":"Primary Aluminum Production",
+"value":"9953881.0"
+},
+{
+"source":"Manufacturing",
+"target":"Secondary Smelting and Alloying of Aluminum",
+"value":"864620.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Sheet Plate and Foil Manufacturing",
+"value":"1197388.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Extruded Product Manufacturing",
+"value":"201427.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Aluminum Rolling and Drawing",
+"value":"34750.0"
+},
+{
+"source":"Manufacturing",
+"target":"Primary Smelting and Refining of Copper",
+"value":"217166.0"
+},
+{
+"source":"Manufacturing",
+"target":"Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum)",
+"value":"893772.0"
+},
+{
+"source":"Manufacturing",
+"target":"Copper Rolling Drawing and Extruding",
+"value":"42387.0"
+},
+{
+"source":"Manufacturing",
+"target":"Secondary Smelting Refining and Alloying of Copper",
+"value":"50558.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonferrous Metal (except Copper and Aluminum) Rolling Drawing and Extruding",
+"value":"199101.0"
+},
+{
+"source":"Manufacturing",
+"target":"Secondary Smelting Refining and Alloying of Nonferrous Metal (except Copper and Aluminum)",
+"value":"1836510.0"
+},
+{
+"source":"Manufacturing",
+"target":"Iron Foundries",
+"value":"1820149.0"
+},
+{
+"source":"Manufacturing",
+"target":"Steel Foundries (except Investment)",
+"value":"55721.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Die-Casting Foundries",
+"value":"137082.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Foundries (except Die-Casting)",
+"value":"99842.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Nonferrous Foundries (except Die-Casting)",
+"value":"30745.0"
+},
+{
+"source":"Manufacturing",
+"target":"Iron and Steel Forging",
+"value":"268838.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonferrous Forging",
+"value":"165886.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cutlery and Flatware (except Precious) Manufacturing",
+"value":"53626.0"
+},
+{
+"source":"Manufacturing",
+"target":"Hardware Manufacturing",
+"value":"25399.0"
+},
+{
+"source":"Manufacturing",
+"target":"Metal Heat Treating",
+"value":"35471.0"
+},
+{
+"source":"Manufacturing",
+"target":"Metal Coating Engraving (except Jewelry and Silverware) and Allied Services to Manufacturers",
+"value":"129586.0"
+},
+{
+"source":"Manufacturing",
+"target":"Electroplating Plating Polishing Anodizing and Coloring",
+"value":"193705.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ball and Roller Bearing Manufacturing",
+"value":"10631.0"
+},
+{
+"source":"Manufacturing",
+"target":"Small Arms Ammunition Manufacturing",
+"value":"70417.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ammunition (except Small Arms) Manufacturing",
+"value":"59012.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fabricated Pipe and Pipe Fitting Manufacturing",
+"value":"29328.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Fabricated Metal Product Manufacturing",
+"value":"70107.0"
+},
+{
+"source":"Manufacturing",
+"target":"Farm Machinery and Equipment Manufacturing",
+"value":"88899.0"
+},
+{
+"source":"Manufacturing",
+"target":"Construction Machinery Manufacturing",
+"value":"236849.0"
+},
+{
+"source":"Manufacturing",
+"target":"Mining Machinery and Equipment Manufacturing",
+"value":"14411.0"
+},
+{
+"source":"Manufacturing",
+"target":"Photographic and Photocopying Equipment Manufacturing",
+"value":"38726.0"
+},
+{
+"source":"Manufacturing",
+"target":"Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing",
+"value":"53835.0"
+},
+{
+"source":"Manufacturing",
+"target":"Industrial Mold Manufacturing",
+"value":"93034.0"
+},
+{
+"source":"Manufacturing",
+"target":"Rolling Mill Machinery and Equipment Manufacturing",
+"value":"31995.0"
+},
+{
+"source":"Manufacturing",
+"target":"Turbine and Turbine Generator Set Units Manufacturing",
+"value":"40709.0"
+},
+{
+"source":"Manufacturing",
+"target":"Speed Changer Industrial High-Speed Drive and Gear Manufacturing",
+"value":"25019.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Engine Equipment Manufacturing",
+"value":"142817.0"
+},
+{
+"source":"Manufacturing",
+"target":"Welding and Soldering Equipment Manufacturing",
+"value":"32877.0"
+},
+{
+"source":"Manufacturing",
+"target":"Electron Tube Manufacturing",
+"value":"599646.0"
+},
+{
+"source":"Manufacturing",
+"target":"Semiconductor and Related Device Manufacturing",
+"value":"675717.0"
+},
+{
+"source":"Manufacturing",
+"target":"Electric Lamp Bulb and Part Manufacturing",
+"value":"46319.0"
+},
+{
+"source":"Manufacturing",
+"target":"Household Laundry Equipment Manufacturing",
+"value":"48574.0"
+},
+{
+"source":"Manufacturing",
+"target":"Power Distribution and Specialty Transformer Manufacturing",
+"value":"311.0"
+},
+{
+"source":"Manufacturing",
+"target":"Switchgear and Switchboard Apparatus Manufacturing",
+"value":"10100.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Communication and Energy Wire Manufacturing",
+"value":"31061.0"
+},
+{
+"source":"Manufacturing",
+"target":"Carbon and Graphite Product Manufacturing",
+"value":"259413.0"
+},
+{
+"source":"Manufacturing",
+"target":"Automobile Manufacturing",
+"value":"1015977.0"
+},
+{
+"source":"Manufacturing",
+"target":"Light Truck and Utility Vehicle Manufacturing",
+"value":"993815.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Body Manufacturing",
+"value":"50573.0"
+},
+{
+"source":"Manufacturing",
+"target":"Gasoline Engine and Engine Parts Manufacturing",
+"value":"68368.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing",
+"value":"95420.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Transmission and Power Train Parts Manufacturing",
+"value":"197116.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Metal Stamping",
+"value":"18112.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Motor Vehicle Parts Manufacturing",
+"value":"172195.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aircraft Manufacturing",
+"value":"377577.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aircraft Engine and Engine Parts Manufacturing",
+"value":"405038.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Aircraft Parts and Auxiliary Equipment Manufacturing",
+"value":"104680.0"
+},
+{
+"source":"Manufacturing",
+"target":"Guided Missile and Space Vehicle Manufacturing",
+"value":"27707.0"
+},
+{
+"source":"Manufacturing",
+"target":"Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing",
+"value":"93431.0"
+},
+{
+"source":"Manufacturing",
+"target":"Railroad Rolling Stock Manufacturing",
+"value":"95434.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ship Building and Repairing",
+"value":"134857.0"
+},
+{
+"source":"Manufacturing",
+"target":"Military Armored Vehicle Tank and Tank Component Manufacturing",
+"value":"29227.0"
+},
+{
+"source":"Manufacturing",
+"target":"Office Furniture (except Wood) Manufacturing",
+"value":"43325.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Manufacturing",
+"value":"233778.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Wholesale Trade",
+"value":"1290190.0"
+},
+{
+"source":"Wholesale Trade",
+"target":"Automobile and Other Motor Vehicle Merchant Wholesalers",
+"value":"1125406.0"
+},
+{
+"source":"Wholesale Trade",
+"target":"Motor Vehicle Supplies and New Parts Merchant Wholesalers",
+"value":"5762.0"
+},
+{
+"source":"Wholesale Trade",
+"target":"Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers - gas household appliances",
+"value":"60442.0"
+},
+{
+"source":"Wholesale Trade",
+"target":"Petroleum Bulk Stations and Terminals",
+"value":"98580.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Transportation and Warehousing",
+"value":"24944170.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Scheduled Passenger Air Transportation",
+"value":"93118.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Pipeline Transportation of Crude Oil",
+"value":"337892.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Pipeline Transportation of Natural Gas",
+"value":"23973298.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"All Other Pipeline Transportation",
+"value":"44933.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Other Airport Operations",
+"value":"158191.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Other Support Activities for Air Transportation",
+"value":"147184.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Support Activities for Rail Transportation",
+"value":"60379.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Port and Harbor Operations",
+"value":"53248.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"General Warehousing and Storage",
+"value":"500.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Other Warehousing and Storage",
+"value":"75427.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Finance and Insurance",
+"value":"19282.0"
+},
+{
+"source":"Finance and Insurance",
+"target":"Trusts Estates and Agency Accounts",
+"value":"19282.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Real Estate and Rental and Leasing",
+"value":"307928.0"
+},
+{
+"source":"Real Estate and Rental and Leasing",
+"target":"Lessors of Residential Buildings and Dwellings",
+"value":"267160.0"
+},
+{
+"source":"Real Estate and Rental and Leasing",
+"target":"Lessors of Nonresidential Buildings (except Miniwarehouses)",
+"value":"40768.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Professional, Scientific, and Technical Services",
+"value":"836864.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"Testing Laboratories",
+"value":"73422.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"Administrative Management and General Management Consulting Services",
+"value":"9649.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"Research and Development in Biotechnology",
+"value":"145657.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"Research and Development in the Physical Engineering and Life Sciences (except Biotechnology)",
+"value":"580944.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"All Other Professional Scientific and Technical Services",
+"value":"27191.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Administrative and Support and Waste Management and Remediation Services",
+"value":"12789927.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Facilities Support Services",
+"value":"2389834.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"All Other Support Services",
+"value":"460.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Solid Waste Collection",
+"value":"369.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Hazardous Waste Treatment and Disposal",
+"value":"3696.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Solid Waste Landfill",
+"value":"907859.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Solid Waste Combustors and Incinerators",
+"value":"9487563.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Materials Recovery Facilities",
+"value":"146.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Educational Services",
+"value":"9434459.0"
+},
+{
+"source":"Educational Services",
+"target":"Colleges Universities and Professional Schools",
+"value":"9415469.0"
+},
+{
+"source":"Educational Services",
+"target":"Fine Arts Schools",
+"value":"18990.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Health Care and Social Assistance",
+"value":"1012388.0"
+},
+{
+"source":"Health Care and Social Assistance",
+"target":"Offices of Physicians (except Mental Health Specialists)",
+"value":"72429.0"
+},
+{
+"source":"Health Care and Social Assistance",
+"target":"General Medical and Surgical Hospitals",
+"value":"939959.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Arts, Entertainment, and Recreation",
+"value":"243527.0"
+},
+{
+"source":"Arts, Entertainment, and Recreation",
+"target":"Amusement and Theme Parks",
+"value":"243527.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Accommodation and Food Services",
+"value":"228399.0"
+},
+{
+"source":"Accommodation and Food Services",
+"target":"Casino Hotels",
+"value":"228399.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Other Services (except Public Administration)",
+"value":"118273.0"
+},
+{
+"source":"Other Services (except Public Administration)",
+"target":"Other Similar Organizations (except Business Professional Labor and Political Organizations)",
+"value":"118273.0"
+},
+{
+"source":"CO2 emissions (non-biogenic)",
+"target":"Public Administration",
+"value":"3484317.0"
+},
+{
+"source":"Public Administration",
+"target":"Other General Government Support",
+"value":"74642.0"
+},
+{
+"source":"Public Administration",
+"target":"Correctional Institutions",
+"value":"155914.0"
+},
+{
+"source":"Public Administration",
+"target":"Administration of Education Programs",
+"value":"294209.0"
+},
+{
+"source":"Public Administration",
+"target":"Regulation and Administration of Communications Electric Gas and Other Utilities",
+"value":"33343.0"
+},
+{
+"source":"Public Administration",
+"target":"National Security",
+"value":"2926209.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Agriculture, Forestry, Fishing and Hunting",
+"value":"40007.0"
+},
+{
+"source":"Agriculture, Forestry, Fishing and Hunting",
+"target":"Other Food Crops Grown Under Cover",
+"value":"32.0"
+},
+{
+"source":"Agriculture, Forestry, Fishing and Hunting",
+"target":"Sugarcane Farming",
+"value":"39926.0"
+},
+{
+"source":"Agriculture, Forestry, Fishing and Hunting",
+"target":"Postharvest Crop Activities (except Cotton Ginning)",
+"value":"49.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Mining",
+"value":"33763409.0"
+},
+{
+"source":"Mining",
+"target":"Crude Petroleum and Natural Gas Extraction",
+"value":"2574327.0"
+},
+{
+"source":"Mining",
+"target":"Natural Gas Liquid Extraction",
+"value":"1418511.0"
+},
+{
+"source":"Mining",
+"target":"Bituminous Coal and Lignite Surface Mining",
+"value":"816731.0"
+},
+{
+"source":"Mining",
+"target":"Bituminous Coal Underground Mining",
+"value":"26733056.0"
+},
+{
+"source":"Mining",
+"target":"Anthracite Mining",
+"value":"1477564.0"
+},
+{
+"source":"Mining",
+"target":"Iron Ore Mining",
+"value":"2706.0"
+},
+{
+"source":"Mining",
+"target":"Gold Ore Mining",
+"value":"416.0"
+},
+{
+"source":"Mining",
+"target":"Lead Ore and Zinc Ore Mining",
+"value":"142.0"
+},
+{
+"source":"Mining",
+"target":"Copper Ore and Nickel Ore Mining",
+"value":"5379.0"
+},
+{
+"source":"Mining",
+"target":"Dimension Stone Mining and Quarrying",
+"value":"12.0"
+},
+{
+"source":"Mining",
+"target":"Crushed and Broken Limestone Mining and Quarrying",
+"value":"297.0"
+},
+{
+"source":"Mining",
+"target":"Crushed and Broken Granite Mining and Quarrying",
+"value":"11.0"
+},
+{
+"source":"Mining",
+"target":"Industrial Sand Mining",
+"value":"249.0"
+},
+{
+"source":"Mining",
+"target":"Kaolin and Ball Clay Mining",
+"value":"616.0"
+},
+{
+"source":"Mining",
+"target":"Clay and Ceramic and Refractory Minerals Mining",
+"value":"480.0"
+},
+{
+"source":"Mining",
+"target":"Potash Soda and Borate Mineral Mining",
+"value":"10983.0"
+},
+{
+"source":"Mining",
+"target":"Phosphate Rock Mining",
+"value":"135.0"
+},
+{
+"source":"Mining",
+"target":"All Other Nonmetallic Mineral Mining",
+"value":"439.0"
+},
+{
+"source":"Mining",
+"target":"Support Activities for Oil and Gas Operations",
+"value":"365175.0"
+},
+{
+"source":"Mining",
+"target":"Support Activities for Coal Mining",
+"value":"355992.0"
+},
+{
+"source":"Mining",
+"target":"Support Activities for Nonmetallic Minerals (except Fuels) Mining",
+"value":"186.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Utilities",
+"value":"3674699.0"
+},
+{
+"source":"Utilities",
+"target":"Hydroelectric Power Generation",
+"value":"1054.0"
+},
+{
+"source":"Utilities",
+"target":"Fossil Fuel Electric Power Generation",
+"value":"3435831.0"
+},
+{
+"source":"Utilities",
+"target":"Nuclear Electric Power Generation",
+"value":"4.0"
+},
+{
+"source":"Utilities",
+"target":"Other Electric Power Generation - solar electric power generation",
+"value":"34452.0"
+},
+{
+"source":"Utilities",
+"target":"Electric Bulk Power Transmission and Control",
+"value":"9.0"
+},
+{
+"source":"Utilities",
+"target":"Electric Power Distribution",
+"value":"112.0"
+},
+{
+"source":"Utilities",
+"target":"Natural Gas Distribution",
+"value":"191447.0"
+},
+{
+"source":"Utilities",
+"target":"Water Supply and Irrigation Systems",
+"value":"83.0"
+},
+{
+"source":"Utilities",
+"target":"Sewage Treatment Facilities",
+"value":"162.0"
+},
+{
+"source":"Utilities",
+"target":"Steam and Air-Conditioning Supply",
+"value":"11546.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Construction",
+"value":"219.0"
+},
+{
+"source":"Construction",
+"target":"Oil and Gas Pipeline and Related Structures Construction",
+"value":"218.0"
+},
+{
+"source":"Construction",
+"target":"Power and Communication Line and Related Structures Construction",
+"value":"0.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Manufacturing",
+"value":"12234944.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Animal Food Manufacturing",
+"value":"67.0"
+},
+{
+"source":"Manufacturing",
+"target":"Malt Manufacturing",
+"value":"69.0"
+},
+{
+"source":"Manufacturing",
+"target":"Wet Corn Milling",
+"value":"809142.0"
+},
+{
+"source":"Manufacturing",
+"target":"Soybean Processing",
+"value":"5319.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Oilseed Processing",
+"value":"6675.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fats and Oils Refining and Blending",
+"value":"321.0"
+},
+{
+"source":"Manufacturing",
+"target":"Breakfast Cereal Manufacturing",
+"value":"130.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cane Sugar Refining",
+"value":"8204.0"
+},
+{
+"source":"Manufacturing",
+"target":"Beet Sugar Manufacturing",
+"value":"495479.0"
+},
+{
+"source":"Manufacturing",
+"target":"Confectionery Manufacturing from Purchased Chocolate",
+"value":"15.0"
+},
+{
+"source":"Manufacturing",
+"target":"Frozen Fruit Juice and Vegetable Manufacturing",
+"value":"143529.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fruit and Vegetable Canning",
+"value":"7022.0"
+},
+{
+"source":"Manufacturing",
+"target":"Specialty Canning",
+"value":"204.0"
+},
+{
+"source":"Manufacturing",
+"target":"Dried and Dehydrated Food Manufacturing",
+"value":"56.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fluid Milk Manufacturing",
+"value":"51.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cheese Manufacturing",
+"value":"128.0"
+},
+{
+"source":"Manufacturing",
+"target":"Dry Condensed and Evaporated Dairy Product Manufacturing",
+"value":"170.0"
+},
+{
+"source":"Manufacturing",
+"target":"Animal (except Poultry) Slaughtering",
+"value":"513231.0"
+},
+{
+"source":"Manufacturing",
+"target":"Meat Processed from Carcasses",
+"value":"365.0"
+},
+{
+"source":"Manufacturing",
+"target":"Rendering and Meat Byproduct Processing",
+"value":"147679.0"
+},
+{
+"source":"Manufacturing",
+"target":"Poultry Processing",
+"value":"616415.0"
+},
+{
+"source":"Manufacturing",
+"target":"Seafood Canning",
+"value":"23.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fresh and Frozen Seafood Processing",
+"value":"45.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cookie and Cracker Manufacturing",
+"value":"21.0"
+},
+{
+"source":"Manufacturing",
+"target":"Roasted Nuts and Peanut Butter Manufacturing",
+"value":"10.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Snack Food Manufacturing",
+"value":"252.0"
+},
+{
+"source":"Manufacturing",
+"target":"Coffee and Tea Manufacturing",
+"value":"95.0"
+},
+{
+"source":"Manufacturing",
+"target":"Spice and Extract Manufacturing",
+"value":"1074.0"
+},
+{
+"source":"Manufacturing",
+"target":"Perishable Prepared Food Manufacturing",
+"value":"10.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Food Manufacturing",
+"value":"148.0"
+},
+{
+"source":"Manufacturing",
+"target":"Breweries",
+"value":"2465.0"
+},
+{
+"source":"Manufacturing",
+"target":"Wineries",
+"value":"57.0"
+},
+{
+"source":"Manufacturing",
+"target":"Distilleries",
+"value":"2883.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cigarette Manufacturing",
+"value":"193.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Tobacco Product Manufacturing",
+"value":"291.0"
+},
+{
+"source":"Manufacturing",
+"target":"Broadwoven Fabric Mills",
+"value":"262.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonwoven Fabric Mills",
+"value":"22.0"
+},
+{
+"source":"Manufacturing",
+"target":"Broadwoven Fabric Finishing Mills",
+"value":"418.0"
+},
+{
+"source":"Manufacturing",
+"target":"Textile and Fabric Finishing (except Broadwoven Fabric) Mills",
+"value":"140.0"
+},
+{
+"source":"Manufacturing",
+"target":"Carpet and Rug Mills",
+"value":"239.0"
+},
+{
+"source":"Manufacturing",
+"target":"Sawmills",
+"value":"19559.0"
+},
+{
+"source":"Manufacturing",
+"target":"Hardwood Veneer and Plywood Manufacturing",
+"value":"133.0"
+},
+{
+"source":"Manufacturing",
+"target":"Softwood Veneer and Plywood Manufacturing",
+"value":"1844.0"
+},
+{
+"source":"Manufacturing",
+"target":"Reconstituted Wood Product Manufacturing",
+"value":"8373.0"
+},
+{
+"source":"Manufacturing",
+"target":"Pulp Mills",
+"value":"1443460.0"
+},
+{
+"source":"Manufacturing",
+"target":"Paper (except Newsprint) Mills",
+"value":"2697728.0"
+},
+{
+"source":"Manufacturing",
+"target":"Newsprint Mills",
+"value":"298364.0"
+},
+{
+"source":"Manufacturing",
+"target":"Paperboard Mills",
+"value":"2003681.0"
+},
+{
+"source":"Manufacturing",
+"target":"Setup Paperboard Box Manufacturing",
+"value":"50.0"
+},
+{
+"source":"Manufacturing",
+"target":"Coated and Laminated Paper Manufacturing",
+"value":"27.0"
+},
+{
+"source":"Manufacturing",
+"target":"Uncoated Paper and Multiwall Bag Manufacturing",
+"value":"0.0"
+},
+{
+"source":"Manufacturing",
+"target":"Sanitary Paper Product Manufacturing",
+"value":"1416.0"
+},
+{
+"source":"Manufacturing",
+"target":"Commercial Gravure Printing",
+"value":"130.0"
+},
+{
+"source":"Manufacturing",
+"target":"Petroleum Refineries",
+"value":"798496.0"
+},
+{
+"source":"Manufacturing",
+"target":"Asphalt Paving Mixture and Block Manufacturing",
+"value":"121.0"
+},
+{
+"source":"Manufacturing",
+"target":"Petroleum Lubricating Oil and Grease Manufacturing",
+"value":"41.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Petroleum and Coal Products Manufacturing",
+"value":"7767.0"
+},
+{
+"source":"Manufacturing",
+"target":"Petrochemical Manufacturing",
+"value":"45525.0"
+},
+{
+"source":"Manufacturing",
+"target":"Industrial Gas Manufacturing",
+"value":"2893.0"
+},
+{
+"source":"Manufacturing",
+"target":"Inorganic Dye and Pigment Manufacturing",
+"value":"105294.0"
+},
+{
+"source":"Manufacturing",
+"target":"Synthetic Organic Dye and Pigment Manufacturing",
+"value":"12.0"
+},
+{
+"source":"Manufacturing",
+"target":"Alkalies and Chlorine Manufacturing",
+"value":"90615.0"
+},
+{
+"source":"Manufacturing",
+"target":"Carbon Black Manufacturing",
+"value":"67.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Basic Inorganic Chemical Manufacturing",
+"value":"2318.0"
+},
+{
+"source":"Manufacturing",
+"target":"Gum and Wood Chemical Manufacturing",
+"value":"29.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cyclic Crude and Intermediate Manufacturing",
+"value":"794.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ethyl Alcohol Manufacturing",
+"value":"661346.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Basic Organic Chemical Manufacturing",
+"value":"157516.0"
+},
+{
+"source":"Manufacturing",
+"target":"Plastics Material and Resin Manufacturing",
+"value":"226843.0"
+},
+{
+"source":"Manufacturing",
+"target":"Synthetic Rubber Manufacturing",
+"value":"1449.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cellulosic Organic Fiber Manufacturing",
+"value":"35421.0"
+},
+{
+"source":"Manufacturing",
+"target":"Noncellulosic Organic Fiber Manufacturing",
+"value":"672.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nitrogenous Fertilizer Manufacturing",
+"value":"3058.0"
+},
+{
+"source":"Manufacturing",
+"target":"Phosphatic Fertilizer Manufacturing",
+"value":"252.0"
+},
+{
+"source":"Manufacturing",
+"target":"Pesticide and Other Agricultural Chemical Manufacturing",
+"value":"1116.0"
+},
+{
+"source":"Manufacturing",
+"target":"Medicinal and Botanical Manufacturing",
+"value":"669.0"
+},
+{
+"source":"Manufacturing",
+"target":"Pharmaceutical Preparation Manufacturing",
+"value":"934.0"
+},
+{
+"source":"Manufacturing",
+"target":"Biological Product (except Diagnostic) Manufacturing",
+"value":"151.0"
+},
+{
+"source":"Manufacturing",
+"target":"Paint and Coating Manufacturing",
+"value":"1.0"
+},
+{
+"source":"Manufacturing",
+"target":"Soap and Other Detergent Manufacturing",
+"value":"583.0"
+},
+{
+"source":"Manufacturing",
+"target":"Polish and Other Sanitation Good Manufacturing",
+"value":"37.0"
+},
+{
+"source":"Manufacturing",
+"target":"Surface Active Agent Manufacturing",
+"value":"60.0"
+},
+{
+"source":"Manufacturing",
+"target":"Explosives Manufacturing",
+"value":"1024.0"
+},
+{
+"source":"Manufacturing",
+"target":"Photographic Film Paper Plate and Chemical Manufacturing",
+"value":"2310.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Chemical Product and Preparation Manufacturing",
+"value":"165315.0"
+},
+{
+"source":"Manufacturing",
+"target":"Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing",
+"value":"414.0"
+},
+{
+"source":"Manufacturing",
+"target":"Unlaminated Plastics Profile Shape Manufacturing",
+"value":"124.0"
+},
+{
+"source":"Manufacturing",
+"target":"Laminated Plastics Plate Sheet (except Packaging) and Shape Manufacturing",
+"value":"55.0"
+},
+{
+"source":"Manufacturing",
+"target":"Polystyrene Foam Product Manufacturing",
+"value":"44.0"
+},
+{
+"source":"Manufacturing",
+"target":"Tire Manufacturing (except Retreading)",
+"value":"890.0"
+},
+{
+"source":"Manufacturing",
+"target":"Rubber Product Manufacturing for Mechanical Use",
+"value":"24.0"
+},
+{
+"source":"Manufacturing",
+"target":"Vitreous China Plumbing Fixture and China and Earthenware Bathroom Accessories Manufacturing",
+"value":"10.0"
+},
+{
+"source":"Manufacturing",
+"target":"Brick and Structural Clay Tile Manufacturing",
+"value":"23.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ceramic Wall and Floor Tile Manufacturing",
+"value":"102.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonclay Refractory Manufacturing",
+"value":"557.0"
+},
+{
+"source":"Manufacturing",
+"target":"Flat Glass Manufacturing",
+"value":"949.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Pressed and Blown Glass and Glassware Manufacturing",
+"value":"837.0"
+},
+{
+"source":"Manufacturing",
+"target":"Glass Container Manufacturing",
+"value":"928.0"
+},
+{
+"source":"Manufacturing",
+"target":"Glass Product Manufacturing Made of Purchased Glass",
+"value":"55.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cement Manufacturing",
+"value":"50695.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Concrete Product Manufacturing",
+"value":"10.0"
+},
+{
+"source":"Manufacturing",
+"target":"Lime Manufacturing",
+"value":"25315.0"
+},
+{
+"source":"Manufacturing",
+"target":"Gypsum Product Manufacturing",
+"value":"691.0"
+},
+{
+"source":"Manufacturing",
+"target":"Abrasive Product Manufacturing",
+"value":"12682.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ground or Treated Mineral and Earth Manufacturing",
+"value":"1047.0"
+},
+{
+"source":"Manufacturing",
+"target":"Mineral Wool Manufacturing",
+"value":"543.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Nonmetallic Mineral Product Manufacturing",
+"value":"820.0"
+},
+{
+"source":"Manufacturing",
+"target":"Iron and Steel Mills",
+"value":"245243.0"
+},
+{
+"source":"Manufacturing",
+"target":"Electrometallurgical Ferroalloy Product Manufacturing",
+"value":"9091.0"
+},
+{
+"source":"Manufacturing",
+"target":"Iron and Steel Pipe and Tube Manufacturing from Purchased Steel",
+"value":"189.0"
+},
+{
+"source":"Manufacturing",
+"target":"Rolled Steel Shape Manufacturing",
+"value":"238.0"
+},
+{
+"source":"Manufacturing",
+"target":"Alumina Refining",
+"value":"17196.0"
+},
+{
+"source":"Manufacturing",
+"target":"Primary Aluminum Production",
+"value":"55225.0"
+},
+{
+"source":"Manufacturing",
+"target":"Secondary Smelting and Alloying of Aluminum",
+"value":"13415.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Sheet Plate and Foil Manufacturing",
+"value":"478.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Extruded Product Manufacturing",
+"value":"69.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Aluminum Rolling and Drawing",
+"value":"14.0"
+},
+{
+"source":"Manufacturing",
+"target":"Primary Smelting and Refining of Copper",
+"value":"87.0"
+},
+{
+"source":"Manufacturing",
+"target":"Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum)",
+"value":"292.0"
+},
+{
+"source":"Manufacturing",
+"target":"Copper Rolling Drawing and Extruding",
+"value":"17.0"
+},
+{
+"source":"Manufacturing",
+"target":"Secondary Smelting Refining and Alloying of Copper",
+"value":"20.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonferrous Metal (except Copper and Aluminum) Rolling Drawing and Extruding",
+"value":"79.0"
+},
+{
+"source":"Manufacturing",
+"target":"Secondary Smelting Refining and Alloying of Nonferrous Metal (except Copper and Aluminum)",
+"value":"239.0"
+},
+{
+"source":"Manufacturing",
+"target":"Iron Foundries",
+"value":"152576.0"
+},
+{
+"source":"Manufacturing",
+"target":"Steel Foundries (except Investment)",
+"value":"21.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Die-Casting Foundries",
+"value":"10839.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Foundries (except Die-Casting)",
+"value":"76595.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Nonferrous Foundries (except Die-Casting)",
+"value":"12.0"
+},
+{
+"source":"Manufacturing",
+"target":"Iron and Steel Forging",
+"value":"114.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonferrous Forging",
+"value":"1344.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cutlery and Flatware (except Precious) Manufacturing",
+"value":"21.0"
+},
+{
+"source":"Manufacturing",
+"target":"Hardware Manufacturing",
+"value":"10.0"
+},
+{
+"source":"Manufacturing",
+"target":"Metal Heat Treating",
+"value":"14.0"
+},
+{
+"source":"Manufacturing",
+"target":"Metal Coating Engraving (except Jewelry and Silverware) and Allied Services to Manufacturers",
+"value":"51.0"
+},
+{
+"source":"Manufacturing",
+"target":"Electroplating Plating Polishing Anodizing and Coloring",
+"value":"92.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ball and Roller Bearing Manufacturing",
+"value":"4.0"
+},
+{
+"source":"Manufacturing",
+"target":"Small Arms Ammunition Manufacturing",
+"value":"28.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ammunition (except Small Arms) Manufacturing",
+"value":"131.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fabricated Pipe and Pipe Fitting Manufacturing",
+"value":"12.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Fabricated Metal Product Manufacturing",
+"value":"30.0"
+},
+{
+"source":"Manufacturing",
+"target":"Farm Machinery and Equipment Manufacturing",
+"value":"138.0"
+},
+{
+"source":"Manufacturing",
+"target":"Construction Machinery Manufacturing",
+"value":"124.0"
+},
+{
+"source":"Manufacturing",
+"target":"Mining Machinery and Equipment Manufacturing",
+"value":"5.0"
+},
+{
+"source":"Manufacturing",
+"target":"Photographic and Photocopying Equipment Manufacturing",
+"value":"281.0"
+},
+{
+"source":"Manufacturing",
+"target":"Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing",
+"value":"21.0"
+},
+{
+"source":"Manufacturing",
+"target":"Industrial Mold Manufacturing",
+"value":"7.0"
+},
+{
+"source":"Manufacturing",
+"target":"Rolling Mill Machinery and Equipment Manufacturing",
+"value":"3.0"
+},
+{
+"source":"Manufacturing",
+"target":"Turbine and Turbine Generator Set Units Manufacturing",
+"value":"18.0"
+},
+{
+"source":"Manufacturing",
+"target":"Speed Changer Industrial High-Speed Drive and Gear Manufacturing",
+"value":"11.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Engine Equipment Manufacturing",
+"value":"83.0"
+},
+{
+"source":"Manufacturing",
+"target":"Welding and Soldering Equipment Manufacturing",
+"value":"13.0"
+},
+{
+"source":"Manufacturing",
+"target":"Electron Tube Manufacturing",
+"value":"193.0"
+},
+{
+"source":"Manufacturing",
+"target":"Semiconductor and Related Device Manufacturing",
+"value":"266.0"
+},
+{
+"source":"Manufacturing",
+"target":"Electric Lamp Bulb and Part Manufacturing",
+"value":"16.0"
+},
+{
+"source":"Manufacturing",
+"target":"Household Laundry Equipment Manufacturing",
+"value":"19.0"
+},
+{
+"source":"Manufacturing",
+"target":"Power Distribution and Specialty Transformer Manufacturing",
+"value":"0.0"
+},
+{
+"source":"Manufacturing",
+"target":"Switchgear and Switchboard Apparatus Manufacturing",
+"value":"4.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Communication and Energy Wire Manufacturing",
+"value":"14.0"
+},
+{
+"source":"Manufacturing",
+"target":"Carbon and Graphite Product Manufacturing",
+"value":"65.0"
+},
+{
+"source":"Manufacturing",
+"target":"Automobile Manufacturing",
+"value":"907.0"
+},
+{
+"source":"Manufacturing",
+"target":"Light Truck and Utility Vehicle Manufacturing",
+"value":"410.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Body Manufacturing",
+"value":"20.0"
+},
+{
+"source":"Manufacturing",
+"target":"Gasoline Engine and Engine Parts Manufacturing",
+"value":"74.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing",
+"value":"193.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Transmission and Power Train Parts Manufacturing",
+"value":"83.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Metal Stamping",
+"value":"7.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Motor Vehicle Parts Manufacturing",
+"value":"68.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aircraft Manufacturing",
+"value":"156.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aircraft Engine and Engine Parts Manufacturing",
+"value":"260.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Aircraft Parts and Auxiliary Equipment Manufacturing",
+"value":"41.0"
+},
+{
+"source":"Manufacturing",
+"target":"Guided Missile and Space Vehicle Manufacturing",
+"value":"11.0"
+},
+{
+"source":"Manufacturing",
+"target":"Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing",
+"value":"64.0"
+},
+{
+"source":"Manufacturing",
+"target":"Railroad Rolling Stock Manufacturing",
+"value":"44.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ship Building and Repairing",
+"value":"82.0"
+},
+{
+"source":"Manufacturing",
+"target":"Military Armored Vehicle Tank and Tank Component Manufacturing",
+"value":"52.0"
+},
+{
+"source":"Manufacturing",
+"target":"Office Furniture (except Wood) Manufacturing",
+"value":"81.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Manufacturing",
+"value":"91.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Wholesale Trade",
+"value":"2990.0"
+},
+{
+"source":"Wholesale Trade",
+"target":"Automobile and Other Motor Vehicle Merchant Wholesalers",
+"value":"2790.0"
+},
+{
+"source":"Wholesale Trade",
+"target":"Motor Vehicle Supplies and New Parts Merchant Wholesalers",
+"value":"2.0"
+},
+{
+"source":"Wholesale Trade",
+"target":"Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers - gas household appliances",
+"value":"142.0"
+},
+{
+"source":"Wholesale Trade",
+"target":"Petroleum Bulk Stations and Terminals",
+"value":"56.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Transportation and Warehousing",
+"value":"4024243.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Scheduled Passenger Air Transportation",
+"value":"45.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Pipeline Transportation of Crude Oil",
+"value":"195.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Pipeline Transportation of Natural Gas",
+"value":"4023680.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"All Other Pipeline Transportation",
+"value":"18.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Other Airport Operations",
+"value":"64.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Other Support Activities for Air Transportation",
+"value":"64.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Support Activities for Rail Transportation",
+"value":"124.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Port and Harbor Operations",
+"value":"21.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"General Warehousing and Storage",
+"value":"0.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Other Warehousing and Storage",
+"value":"30.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Finance and Insurance",
+"value":"8.0"
+},
+{
+"source":"Finance and Insurance",
+"target":"Trusts Estates and Agency Accounts",
+"value":"8.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Real Estate and Rental and Leasing",
+"value":"123.0"
+},
+{
+"source":"Real Estate and Rental and Leasing",
+"target":"Lessors of Residential Buildings and Dwellings",
+"value":"107.0"
+},
+{
+"source":"Real Estate and Rental and Leasing",
+"target":"Lessors of Nonresidential Buildings (except Miniwarehouses)",
+"value":"16.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Professional, Scientific, and Technical Services",
+"value":"420.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"Testing Laboratories",
+"value":"29.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"Administrative Management and General Management Consulting Services",
+"value":"4.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"Research and Development in Biotechnology",
+"value":"59.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"Research and Development in the Physical Engineering and Life Sciences (except Biotechnology)",
+"value":"317.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"All Other Professional Scientific and Technical Services",
+"value":"11.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Administrative and Support and Waste Management and Remediation Services",
+"value":"77553897.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Facilities Support Services",
+"value":"19538.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"All Other Support Services",
+"value":"0.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Solid Waste Collection",
+"value":"349997.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Hazardous Waste Treatment and Disposal",
+"value":"47962.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Solid Waste Landfill",
+"value":"76697195.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Solid Waste Combustors and Incinerators",
+"value":"381665.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Materials Recovery Facilities",
+"value":"57539.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Educational Services",
+"value":"9772.0"
+},
+{
+"source":"Educational Services",
+"target":"Colleges Universities and Professional Schools",
+"value":"9750.0"
+},
+{
+"source":"Educational Services",
+"target":"Fine Arts Schools",
+"value":"22.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Health Care and Social Assistance",
+"value":"668.0"
+},
+{
+"source":"Health Care and Social Assistance",
+"target":"Offices of Physicians (except Mental Health Specialists)",
+"value":"30.0"
+},
+{
+"source":"Health Care and Social Assistance",
+"target":"General Medical and Surgical Hospitals",
+"value":"638.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Arts, Entertainment, and Recreation",
+"value":"104.0"
+},
+{
+"source":"Arts, Entertainment, and Recreation",
+"target":"Amusement and Theme Parks",
+"value":"104.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Accommodation and Food Services",
+"value":"91.0"
+},
+{
+"source":"Accommodation and Food Services",
+"target":"Casino Hotels",
+"value":"91.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Other Services (except Public Administration)",
+"value":"47.0"
+},
+{
+"source":"Other Services (except Public Administration)",
+"target":"Other Similar Organizations (except Business Professional Labor and Political Organizations)",
+"value":"47.0"
+},
+{
+"source":"Methane (CH4) emissions",
+"target":"Public Administration",
+"value":"347839.0"
+},
+{
+"source":"Public Administration",
+"target":"Other General Government Support",
+"value":"76472.0"
+},
+{
+"source":"Public Administration",
+"target":"Correctional Institutions",
+"value":"154.0"
+},
+{
+"source":"Public Administration",
+"target":"Administration of Education Programs",
+"value":"393.0"
+},
+{
+"source":"Public Administration",
+"target":"Administration of Air and Water Resource and Solid Waste Management Programs",
+"value":"140017.0"
+},
+{
+"source":"Public Administration",
+"target":"Regulation and Administration of Communications Electric Gas and Other Utilities",
+"value":"13.0"
+},
+{
+"source":"Public Administration",
+"target":"National Security",
+"value":"130789.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Agriculture, Forestry, Fishing and Hunting",
+"value":"5480.0"
+},
+{
+"source":"Agriculture, Forestry, Fishing and Hunting",
+"target":"Other Food Crops Grown Under Cover",
+"value":"49.0"
+},
+{
+"source":"Agriculture, Forestry, Fishing and Hunting",
+"target":"Sugarcane Farming",
+"value":"5358.0"
+},
+{
+"source":"Agriculture, Forestry, Fishing and Hunting",
+"target":"Postharvest Crop Activities (except Cotton Ginning)",
+"value":"72.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Mining",
+"value":"404778.0"
+},
+{
+"source":"Mining",
+"target":"Crude Petroleum and Natural Gas Extraction",
+"value":"26533.0"
+},
+{
+"source":"Mining",
+"target":"Natural Gas Liquid Extraction",
+"value":"336881.0"
+},
+{
+"source":"Mining",
+"target":"Bituminous Coal and Lignite Surface Mining",
+"value":"94.0"
+},
+{
+"source":"Mining",
+"target":"Bituminous Coal Underground Mining",
+"value":"1222.0"
+},
+{
+"source":"Mining",
+"target":"Anthracite Mining",
+"value":"334.0"
+},
+{
+"source":"Mining",
+"target":"Iron Ore Mining",
+"value":"5728.0"
+},
+{
+"source":"Mining",
+"target":"Gold Ore Mining",
+"value":"1023.0"
+},
+{
+"source":"Mining",
+"target":"Lead Ore and Zinc Ore Mining",
+"value":"412.0"
+},
+{
+"source":"Mining",
+"target":"Copper Ore and Nickel Ore Mining",
+"value":"2808.0"
+},
+{
+"source":"Mining",
+"target":"Dimension Stone Mining and Quarrying",
+"value":"33.0"
+},
+{
+"source":"Mining",
+"target":"Crushed and Broken Limestone Mining and Quarrying",
+"value":"639.0"
+},
+{
+"source":"Mining",
+"target":"Crushed and Broken Granite Mining and Quarrying",
+"value":"16.0"
+},
+{
+"source":"Mining",
+"target":"Industrial Sand Mining",
+"value":"37.0"
+},
+{
+"source":"Mining",
+"target":"Kaolin and Ball Clay Mining",
+"value":"1095.0"
+},
+{
+"source":"Mining",
+"target":"Clay and Ceramic and Refractory Minerals Mining",
+"value":"1000.0"
+},
+{
+"source":"Mining",
+"target":"Potash Soda and Borate Mineral Mining",
+"value":"23243.0"
+},
+{
+"source":"Mining",
+"target":"Phosphate Rock Mining",
+"value":"399.0"
+},
+{
+"source":"Mining",
+"target":"All Other Nonmetallic Mineral Mining",
+"value":"931.0"
+},
+{
+"source":"Mining",
+"target":"Support Activities for Oil and Gas Operations",
+"value":"1965.0"
+},
+{
+"source":"Mining",
+"target":"Support Activities for Nonmetallic Minerals (except Fuels) Mining",
+"value":"385.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Utilities",
+"value":"9475262.0"
+},
+{
+"source":"Utilities",
+"target":"Hydroelectric Power Generation",
+"value":"2263.0"
+},
+{
+"source":"Utilities",
+"target":"Fossil Fuel Electric Power Generation",
+"value":"9379255.0"
+},
+{
+"source":"Utilities",
+"target":"Nuclear Electric Power Generation",
+"value":"12.0"
+},
+{
+"source":"Utilities",
+"target":"Other Electric Power Generation - solar electric power generation",
+"value":"67074.0"
+},
+{
+"source":"Utilities",
+"target":"Electric Bulk Power Transmission and Control",
+"value":"13.0"
+},
+{
+"source":"Utilities",
+"target":"Electric Power Distribution",
+"value":"210.0"
+},
+{
+"source":"Utilities",
+"target":"Natural Gas Distribution",
+"value":"1437.0"
+},
+{
+"source":"Utilities",
+"target":"Water Supply and Irrigation Systems",
+"value":"122.0"
+},
+{
+"source":"Utilities",
+"target":"Sewage Treatment Facilities",
+"value":"336.0"
+},
+{
+"source":"Utilities",
+"target":"Steam and Air-Conditioning Supply",
+"value":"24540.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Construction",
+"value":"38.0"
+},
+{
+"source":"Construction",
+"target":"Oil and Gas Pipeline and Related Structures Construction",
+"value":"38.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Manufacturing",
+"value":"25272542.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Animal Food Manufacturing",
+"value":"101.0"
+},
+{
+"source":"Manufacturing",
+"target":"Malt Manufacturing",
+"value":"105.0"
+},
+{
+"source":"Manufacturing",
+"target":"Wet Corn Milling",
+"value":"66106.0"
+},
+{
+"source":"Manufacturing",
+"target":"Soybean Processing",
+"value":"8497.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Oilseed Processing",
+"value":"44.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fats and Oils Refining and Blending",
+"value":"654.0"
+},
+{
+"source":"Manufacturing",
+"target":"Breakfast Cereal Manufacturing",
+"value":"193.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cane Sugar Refining",
+"value":"15864.0"
+},
+{
+"source":"Manufacturing",
+"target":"Beet Sugar Manufacturing",
+"value":"16918.0"
+},
+{
+"source":"Manufacturing",
+"target":"Confectionery Manufacturing from Purchased Chocolate",
+"value":"23.0"
+},
+{
+"source":"Manufacturing",
+"target":"Frozen Fruit Juice and Vegetable Manufacturing",
+"value":"1290.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fruit and Vegetable Canning",
+"value":"656.0"
+},
+{
+"source":"Manufacturing",
+"target":"Specialty Canning",
+"value":"806.0"
+},
+{
+"source":"Manufacturing",
+"target":"Dried and Dehydrated Food Manufacturing",
+"value":"85.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fluid Milk Manufacturing",
+"value":"104.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cheese Manufacturing",
+"value":"200.0"
+},
+{
+"source":"Manufacturing",
+"target":"Dry Condensed and Evaporated Dairy Product Manufacturing",
+"value":"255.0"
+},
+{
+"source":"Manufacturing",
+"target":"Animal (except Poultry) Slaughtering",
+"value":"1199.0"
+},
+{
+"source":"Manufacturing",
+"target":"Meat Processed from Carcasses",
+"value":"45.0"
+},
+{
+"source":"Manufacturing",
+"target":"Rendering and Meat Byproduct Processing",
+"value":"1320.0"
+},
+{
+"source":"Manufacturing",
+"target":"Poultry Processing",
+"value":"859.0"
+},
+{
+"source":"Manufacturing",
+"target":"Seafood Canning",
+"value":"64.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fresh and Frozen Seafood Processing",
+"value":"123.0"
+},
+{
+"source":"Manufacturing",
+"target":"Roasted Nuts and Peanut Butter Manufacturing",
+"value":"15.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Snack Food Manufacturing",
+"value":"486.0"
+},
+{
+"source":"Manufacturing",
+"target":"Coffee and Tea Manufacturing",
+"value":"162.0"
+},
+{
+"source":"Manufacturing",
+"target":"Spice and Extract Manufacturing",
+"value":"2229.0"
+},
+{
+"source":"Manufacturing",
+"target":"Perishable Prepared Food Manufacturing",
+"value":"15.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Food Manufacturing",
+"value":"425.0"
+},
+{
+"source":"Manufacturing",
+"target":"Breweries",
+"value":"3644.0"
+},
+{
+"source":"Manufacturing",
+"target":"Wineries",
+"value":"105.0"
+},
+{
+"source":"Manufacturing",
+"target":"Distilleries",
+"value":"1267.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cigarette Manufacturing",
+"value":"400.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Tobacco Product Manufacturing",
+"value":"627.0"
+},
+{
+"source":"Manufacturing",
+"target":"Broadwoven Fabric Mills",
+"value":"547.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonwoven Fabric Mills",
+"value":"32.0"
+},
+{
+"source":"Manufacturing",
+"target":"Broadwoven Fabric Finishing Mills",
+"value":"997.0"
+},
+{
+"source":"Manufacturing",
+"target":"Textile and Fabric Finishing (except Broadwoven Fabric) Mills",
+"value":"264.0"
+},
+{
+"source":"Manufacturing",
+"target":"Carpet and Rug Mills",
+"value":"533.0"
+},
+{
+"source":"Manufacturing",
+"target":"Sawmills",
+"value":"13376.0"
+},
+{
+"source":"Manufacturing",
+"target":"Hardwood Veneer and Plywood Manufacturing",
+"value":"259.0"
+},
+{
+"source":"Manufacturing",
+"target":"Softwood Veneer and Plywood Manufacturing",
+"value":"3572.0"
+},
+{
+"source":"Manufacturing",
+"target":"Reconstituted Wood Product Manufacturing",
+"value":"10430.0"
+},
+{
+"source":"Manufacturing",
+"target":"Pulp Mills",
+"value":"575899.0"
+},
+{
+"source":"Manufacturing",
+"target":"Paper (except Newsprint) Mills",
+"value":"768084.0"
+},
+{
+"source":"Manufacturing",
+"target":"Newsprint Mills",
+"value":"69384.0"
+},
+{
+"source":"Manufacturing",
+"target":"Paperboard Mills",
+"value":"593896.0"
+},
+{
+"source":"Manufacturing",
+"target":"Setup Paperboard Box Manufacturing",
+"value":"73.0"
+},
+{
+"source":"Manufacturing",
+"target":"Coated and Laminated Paper Manufacturing",
+"value":"39.0"
+},
+{
+"source":"Manufacturing",
+"target":"Uncoated Paper and Multiwall Bag Manufacturing",
+"value":"0.0"
+},
+{
+"source":"Manufacturing",
+"target":"Sanitary Paper Product Manufacturing",
+"value":"2710.0"
+},
+{
+"source":"Manufacturing",
+"target":"Commercial Gravure Printing",
+"value":"40.0"
+},
+{
+"source":"Manufacturing",
+"target":"Petroleum Refineries",
+"value":"475446.0"
+},
+{
+"source":"Manufacturing",
+"target":"Asphalt Paving Mixture and Block Manufacturing",
+"value":"234.0"
+},
+{
+"source":"Manufacturing",
+"target":"Petroleum Lubricating Oil and Grease Manufacturing",
+"value":"60.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Petroleum and Coal Products Manufacturing",
+"value":"13484.0"
+},
+{
+"source":"Manufacturing",
+"target":"Petrochemical Manufacturing",
+"value":"198326.0"
+},
+{
+"source":"Manufacturing",
+"target":"Industrial Gas Manufacturing",
+"value":"998.0"
+},
+{
+"source":"Manufacturing",
+"target":"Inorganic Dye and Pigment Manufacturing",
+"value":"1704.0"
+},
+{
+"source":"Manufacturing",
+"target":"Synthetic Organic Dye and Pigment Manufacturing",
+"value":"18.0"
+},
+{
+"source":"Manufacturing",
+"target":"Alkalies and Chlorine Manufacturing",
+"value":"11767.0"
+},
+{
+"source":"Manufacturing",
+"target":"Carbon Black Manufacturing",
+"value":"100.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Basic Inorganic Chemical Manufacturing",
+"value":"1289161.0"
+},
+{
+"source":"Manufacturing",
+"target":"Gum and Wood Chemical Manufacturing",
+"value":"45.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cyclic Crude and Intermediate Manufacturing",
+"value":"14625.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ethyl Alcohol Manufacturing",
+"value":"20997.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Basic Organic Chemical Manufacturing",
+"value":"1291239.0"
+},
+{
+"source":"Manufacturing",
+"target":"Plastics Material and Resin Manufacturing",
+"value":"10713324.0"
+},
+{
+"source":"Manufacturing",
+"target":"Synthetic Rubber Manufacturing",
+"value":"2881.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cellulosic Organic Fiber Manufacturing",
+"value":"4436.0"
+},
+{
+"source":"Manufacturing",
+"target":"Noncellulosic Organic Fiber Manufacturing",
+"value":"1381.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nitrogenous Fertilizer Manufacturing",
+"value":"8548087.0"
+},
+{
+"source":"Manufacturing",
+"target":"Phosphatic Fertilizer Manufacturing",
+"value":"414.0"
+},
+{
+"source":"Manufacturing",
+"target":"Pesticide and Other Agricultural Chemical Manufacturing",
+"value":"2312.0"
+},
+{
+"source":"Manufacturing",
+"target":"Medicinal and Botanical Manufacturing",
+"value":"1461.0"
+},
+{
+"source":"Manufacturing",
+"target":"Pharmaceutical Preparation Manufacturing",
+"value":"1704.0"
+},
+{
+"source":"Manufacturing",
+"target":"Biological Product (except Diagnostic) Manufacturing",
+"value":"276.0"
+},
+{
+"source":"Manufacturing",
+"target":"Paint and Coating Manufacturing",
+"value":"2.0"
+},
+{
+"source":"Manufacturing",
+"target":"Soap and Other Detergent Manufacturing",
+"value":"1235.0"
+},
+{
+"source":"Manufacturing",
+"target":"Polish and Other Sanitation Good Manufacturing",
+"value":"94.0"
+},
+{
+"source":"Manufacturing",
+"target":"Surface Active Agent Manufacturing",
+"value":"89.0"
+},
+{
+"source":"Manufacturing",
+"target":"Explosives Manufacturing",
+"value":"20121.0"
+},
+{
+"source":"Manufacturing",
+"target":"Photographic Film Paper Plate and Chemical Manufacturing",
+"value":"4815.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Chemical Product and Preparation Manufacturing",
+"value":"3370.0"
+},
+{
+"source":"Manufacturing",
+"target":"Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing",
+"value":"816.0"
+},
+{
+"source":"Manufacturing",
+"target":"Unlaminated Plastics Profile Shape Manufacturing",
+"value":"250.0"
+},
+{
+"source":"Manufacturing",
+"target":"Laminated Plastics Plate Sheet (except Packaging) and Shape Manufacturing",
+"value":"101.0"
+},
+{
+"source":"Manufacturing",
+"target":"Polystyrene Foam Product Manufacturing",
+"value":"66.0"
+},
+{
+"source":"Manufacturing",
+"target":"Tire Manufacturing (except Retreading)",
+"value":"1096.0"
+},
+{
+"source":"Manufacturing",
+"target":"Rubber Product Manufacturing for Mechanical Use",
+"value":"70.0"
+},
+{
+"source":"Manufacturing",
+"target":"Vitreous China Plumbing Fixture and China and Earthenware Bathroom Accessories Manufacturing",
+"value":"15.0"
+},
+{
+"source":"Manufacturing",
+"target":"Brick and Structural Clay Tile Manufacturing",
+"value":"35.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ceramic Wall and Floor Tile Manufacturing",
+"value":"153.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonclay Refractory Manufacturing",
+"value":"1107.0"
+},
+{
+"source":"Manufacturing",
+"target":"Flat Glass Manufacturing",
+"value":"1419.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Pressed and Blown Glass and Glassware Manufacturing",
+"value":"927.0"
+},
+{
+"source":"Manufacturing",
+"target":"Glass Container Manufacturing",
+"value":"1370.0"
+},
+{
+"source":"Manufacturing",
+"target":"Glass Product Manufacturing Made of Purchased Glass",
+"value":"81.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cement Manufacturing",
+"value":"111003.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Concrete Product Manufacturing",
+"value":"15.0"
+},
+{
+"source":"Manufacturing",
+"target":"Lime Manufacturing",
+"value":"54114.0"
+},
+{
+"source":"Manufacturing",
+"target":"Gypsum Product Manufacturing",
+"value":"1025.0"
+},
+{
+"source":"Manufacturing",
+"target":"Abrasive Product Manufacturing",
+"value":"224.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ground or Treated Mineral and Earth Manufacturing",
+"value":"2138.0"
+},
+{
+"source":"Manufacturing",
+"target":"Mineral Wool Manufacturing",
+"value":"987.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Nonmetallic Mineral Product Manufacturing",
+"value":"1748.0"
+},
+{
+"source":"Manufacturing",
+"target":"Iron and Steel Mills",
+"value":"17637.0"
+},
+{
+"source":"Manufacturing",
+"target":"Electrometallurgical Ferroalloy Product Manufacturing",
+"value":"54.0"
+},
+{
+"source":"Manufacturing",
+"target":"Iron and Steel Pipe and Tube Manufacturing from Purchased Steel",
+"value":"278.0"
+},
+{
+"source":"Manufacturing",
+"target":"Rolled Steel Shape Manufacturing",
+"value":"353.0"
+},
+{
+"source":"Manufacturing",
+"target":"Alumina Refining",
+"value":"1083.0"
+},
+{
+"source":"Manufacturing",
+"target":"Primary Aluminum Production",
+"value":"32975.0"
+},
+{
+"source":"Manufacturing",
+"target":"Secondary Smelting and Alloying of Aluminum",
+"value":"507.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Sheet Plate and Foil Manufacturing",
+"value":"732.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Extruded Product Manufacturing",
+"value":"102.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Aluminum Rolling and Drawing",
+"value":"21.0"
+},
+{
+"source":"Manufacturing",
+"target":"Primary Smelting and Refining of Copper",
+"value":"128.0"
+},
+{
+"source":"Manufacturing",
+"target":"Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum)",
+"value":"443.0"
+},
+{
+"source":"Manufacturing",
+"target":"Copper Rolling Drawing and Extruding",
+"value":"25.0"
+},
+{
+"source":"Manufacturing",
+"target":"Secondary Smelting Refining and Alloying of Copper",
+"value":"31.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonferrous Metal (except Copper and Aluminum) Rolling Drawing and Extruding",
+"value":"116.0"
+},
+{
+"source":"Manufacturing",
+"target":"Secondary Smelting Refining and Alloying of Nonferrous Metal (except Copper and Aluminum)",
+"value":"459.0"
+},
+{
+"source":"Manufacturing",
+"target":"Iron Foundries",
+"value":"6176.0"
+},
+{
+"source":"Manufacturing",
+"target":"Steel Foundries (except Investment)",
+"value":"32.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Die-Casting Foundries",
+"value":"91.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Foundries (except Die-Casting)",
+"value":"58.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Nonferrous Foundries (except Die-Casting)",
+"value":"18.0"
+},
+{
+"source":"Manufacturing",
+"target":"Iron and Steel Forging",
+"value":"174.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonferrous Forging",
+"value":"96.0"
+},
+{
+"source":"Manufacturing",
+"target":"Cutlery and Flatware (except Precious) Manufacturing",
+"value":"32.0"
+},
+{
+"source":"Manufacturing",
+"target":"Hardware Manufacturing",
+"value":"15.0"
+},
+{
+"source":"Manufacturing",
+"target":"Metal Heat Treating",
+"value":"21.0"
+},
+{
+"source":"Manufacturing",
+"target":"Metal Coating Engraving (except Jewelry and Silverware) and Allied Services to Manufacturers",
+"value":"75.0"
+},
+{
+"source":"Manufacturing",
+"target":"Electroplating Plating Polishing Anodizing and Coloring",
+"value":"163.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ball and Roller Bearing Manufacturing",
+"value":"6.0"
+},
+{
+"source":"Manufacturing",
+"target":"Small Arms Ammunition Manufacturing",
+"value":"41.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ammunition (except Small Arms) Manufacturing",
+"value":"281.0"
+},
+{
+"source":"Manufacturing",
+"target":"Fabricated Pipe and Pipe Fitting Manufacturing",
+"value":"17.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Fabricated Metal Product Manufacturing",
+"value":"50.0"
+},
+{
+"source":"Manufacturing",
+"target":"Farm Machinery and Equipment Manufacturing",
+"value":"286.0"
+},
+{
+"source":"Manufacturing",
+"target":"Construction Machinery Manufacturing",
+"value":"207.0"
+},
+{
+"source":"Manufacturing",
+"target":"Mining Machinery and Equipment Manufacturing",
+"value":"7.0"
+},
+{
+"source":"Manufacturing",
+"target":"Photographic and Photocopying Equipment Manufacturing",
+"value":"22.0"
+},
+{
+"source":"Manufacturing",
+"target":"Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing",
+"value":"32.0"
+},
+{
+"source":"Manufacturing",
+"target":"Industrial Mold Manufacturing",
+"value":"12.0"
+},
+{
+"source":"Manufacturing",
+"target":"Rolling Mill Machinery and Equipment Manufacturing",
+"value":"12.0"
+},
+{
+"source":"Manufacturing",
+"target":"Turbine and Turbine Generator Set Units Manufacturing",
+"value":"30.0"
+},
+{
+"source":"Manufacturing",
+"target":"Speed Changer Industrial High-Speed Drive and Gear Manufacturing",
+"value":"16.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Engine Equipment Manufacturing",
+"value":"197.0"
+},
+{
+"source":"Manufacturing",
+"target":"Welding and Soldering Equipment Manufacturing",
+"value":"19.0"
+},
+{
+"source":"Manufacturing",
+"target":"Electron Tube Manufacturing",
+"value":"284.0"
+},
+{
+"source":"Manufacturing",
+"target":"Semiconductor and Related Device Manufacturing",
+"value":"231986.0"
+},
+{
+"source":"Manufacturing",
+"target":"Electric Lamp Bulb and Part Manufacturing",
+"value":"23.0"
+},
+{
+"source":"Manufacturing",
+"target":"Household Laundry Equipment Manufacturing",
+"value":"28.0"
+},
+{
+"source":"Manufacturing",
+"target":"Power Distribution and Specialty Transformer Manufacturing",
+"value":"0.0"
+},
+{
+"source":"Manufacturing",
+"target":"Switchgear and Switchboard Apparatus Manufacturing",
+"value":"7.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Communication and Energy Wire Manufacturing",
+"value":"24.0"
+},
+{
+"source":"Manufacturing",
+"target":"Carbon and Graphite Product Manufacturing",
+"value":"3732.0"
+},
+{
+"source":"Manufacturing",
+"target":"Automobile Manufacturing",
+"value":"1806.0"
+},
+{
+"source":"Manufacturing",
+"target":"Light Truck and Utility Vehicle Manufacturing",
+"value":"628.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Body Manufacturing",
+"value":"29.0"
+},
+{
+"source":"Manufacturing",
+"target":"Gasoline Engine and Engine Parts Manufacturing",
+"value":"149.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing",
+"value":"409.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Transmission and Power Train Parts Manufacturing",
+"value":"131.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Metal Stamping",
+"value":"11.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Motor Vehicle Parts Manufacturing",
+"value":"100.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aircraft Manufacturing",
+"value":"244.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aircraft Engine and Engine Parts Manufacturing",
+"value":"613.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Aircraft Parts and Auxiliary Equipment Manufacturing",
+"value":"66.0"
+},
+{
+"source":"Manufacturing",
+"target":"Guided Missile and Space Vehicle Manufacturing",
+"value":"16.0"
+},
+{
+"source":"Manufacturing",
+"target":"Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing",
+"value":"139.0"
+},
+{
+"source":"Manufacturing",
+"target":"Railroad Rolling Stock Manufacturing",
+"value":"82.0"
+},
+{
+"source":"Manufacturing",
+"target":"Ship Building and Repairing",
+"value":"201.0"
+},
+{
+"source":"Manufacturing",
+"target":"Military Armored Vehicle Tank and Tank Component Manufacturing",
+"value":"110.0"
+},
+{
+"source":"Manufacturing",
+"target":"Office Furniture (except Wood) Manufacturing",
+"value":"170.0"
+},
+{
+"source":"Manufacturing",
+"target":"All Other Miscellaneous Manufacturing",
+"value":"433.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Wholesale Trade",
+"value":"6359.0"
+},
+{
+"source":"Wholesale Trade",
+"target":"Automobile and Other Motor Vehicle Merchant Wholesalers",
+"value":"5991.0"
+},
+{
+"source":"Wholesale Trade",
+"target":"Motor Vehicle Supplies and New Parts Merchant Wholesalers",
+"value":"3.0"
+},
+{
+"source":"Wholesale Trade",
+"target":"Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers - gas household appliances",
+"value":"303.0"
+},
+{
+"source":"Wholesale Trade",
+"target":"Petroleum Bulk Stations and Terminals",
+"value":"61.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Transportation and Warehousing",
+"value":"14734.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Scheduled Passenger Air Transportation",
+"value":"88.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Pipeline Transportation of Crude Oil",
+"value":"453.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Pipeline Transportation of Natural Gas",
+"value":"13615.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"All Other Pipeline Transportation",
+"value":"26.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Other Airport Operations",
+"value":"98.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Other Support Activities for Air Transportation",
+"value":"111.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Support Activities for Rail Transportation",
+"value":"264.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Port and Harbor Operations",
+"value":"31.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"General Warehousing and Storage",
+"value":"0.0"
+},
+{
+"source":"Transportation and Warehousing",
+"target":"Other Warehousing and Storage",
+"value":"47.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Finance and Insurance",
+"value":"11.0"
+},
+{
+"source":"Finance and Insurance",
+"target":"Trusts Estates and Agency Accounts",
+"value":"11.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Real Estate and Rental and Leasing",
+"value":"292.0"
+},
+{
+"source":"Real Estate and Rental and Leasing",
+"target":"Lessors of Residential Buildings and Dwellings",
+"value":"267.0"
+},
+{
+"source":"Real Estate and Rental and Leasing",
+"target":"Lessors of Nonresidential Buildings (except Miniwarehouses)",
+"value":"25.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Professional, Scientific, and Technical Services",
+"value":"788.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"Testing Laboratories",
+"value":"44.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"Administrative Management and General Management Consulting Services",
+"value":"6.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"Research and Development in Biotechnology",
+"value":"91.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"Research and Development in the Physical Engineering and Life Sciences (except Biotechnology)",
+"value":"631.0"
+},
+{
+"source":"Professional, Scientific, and Technical Services",
+"target":"All Other Professional Scientific and Technical Services",
+"value":"16.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Administrative and Support and Waste Management and Remediation Services",
+"value":"376909.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Facilities Support Services",
+"value":"5460.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"All Other Support Services",
+"value":"3.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Solid Waste Collection",
+"value":"67.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Hazardous Waste Treatment and Disposal",
+"value":"40.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Solid Waste Landfill",
+"value":"21107.0"
+},
+{
+"source":"Administrative and Support and Waste Management and Remediation Services",
+"target":"Solid Waste Combustors and Incinerators",
+"value":"350232.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Educational Services",
+"value":"21905.0"
+},
+{
+"source":"Educational Services",
+"target":"Colleges Universities and Professional Schools",
+"value":"21860.0"
+},
+{
+"source":"Educational Services",
+"target":"Fine Arts Schools",
+"value":"44.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Health Care and Social Assistance",
+"value":"1591.0"
+},
+{
+"source":"Health Care and Social Assistance",
+"target":"Offices of Physicians (except Mental Health Specialists)",
+"value":"31.0"
+},
+{
+"source":"Health Care and Social Assistance",
+"target":"General Medical and Surgical Hospitals",
+"value":"1560.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Arts, Entertainment, and Recreation",
+"value":"160.0"
+},
+{
+"source":"Arts, Entertainment, and Recreation",
+"target":"Amusement and Theme Parks",
+"value":"160.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Accommodation and Food Services",
+"value":"134.0"
+},
+{
+"source":"Accommodation and Food Services",
+"target":"Casino Hotels",
+"value":"134.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Other Services (except Public Administration)",
+"value":"72.0"
+},
+{
+"source":"Other Services (except Public Administration)",
+"target":"Other Similar Organizations (except Business Professional Labor and Political Organizations)",
+"value":"72.0"
+},
+{
+"source":"Nitrous Oxide (N2O) emissions",
+"target":"Public Administration",
+"value":"9603.0"
+},
+{
+"source":"Public Administration",
+"target":"Other General Government Support",
+"value":"44.0"
+},
+{
+"source":"Public Administration",
+"target":"Correctional Institutions",
+"value":"304.0"
+},
+{
+"source":"Public Administration",
+"target":"Administration of Education Programs",
+"value":"2298.0"
+},
+{
+"source":"Public Administration",
+"target":"Regulation and Administration of Communications Electric Gas and Other Utilities",
+"value":"20.0"
+},
+{
+"source":"Public Administration",
+"target":"National Security",
+"value":"6937.0"
+},
+{
+"source":"SF6 emissions",
+"target":"Manufacturing",
+"value":"2247006.0"
+},
+{
+"source":"Manufacturing",
+"target":"Photographic Film Paper Plate and Chemical Manufacturing",
+"value":"1107.0"
+},
+{
+"source":"Manufacturing",
+"target":"Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum)",
+"value":"537597.0"
+},
+{
+"source":"Manufacturing",
+"target":"Secondary Smelting Refining and Alloying of Nonferrous Metal (except Copper and Aluminum)",
+"value":"382680.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Die-Casting Foundries",
+"value":"243947.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nonferrous (except Aluminum) Die-Casting Foundries",
+"value":"188827.0"
+},
+{
+"source":"Manufacturing",
+"target":"Other Nonferrous Foundries (except Die-Casting)",
+"value":"153581.0"
+},
+{
+"source":"Manufacturing",
+"target":"Semiconductor and Related Device Manufacturing",
+"value":"360302.0"
+},
+{
+"source":"Manufacturing",
+"target":"Power Distribution and Specialty Transformer Manufacturing",
+"value":"9125.0"
+},
+{
+"source":"Manufacturing",
+"target":"Switchgear and Switchboard Apparatus Manufacturing",
+"value":"346156.0"
+},
+{
+"source":"Manufacturing",
+"target":"Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing",
+"value":"23685.0"
+},
+{
+"source":"NF3 emissions",
+"target":"Manufacturing",
+"value":"692668.0"
+},
+{
+"source":"Manufacturing",
+"target":"Semiconductor and Related Device Manufacturing",
+"value":"692668.0"
+},
+{
+"source":"HFC emissions",
+"target":"Manufacturing",
+"value":"7099791.0"
+},
+{
+"source":"Manufacturing",
+"target":"Industrial Gas Manufacturing",
+"value":"6929126.0"
+},
+{
+"source":"Manufacturing",
+"target":"Plastics Material and Resin Manufacturing",
+"value":"4874.0"
+},
+{
+"source":"Manufacturing",
+"target":"Photographic Film Paper Plate and Chemical Manufacturing",
+"value":"143.0"
+},
+{
+"source":"Manufacturing",
+"target":"Secondary Smelting Refining and Alloying of Nonferrous Metal (except Copper and Aluminum)",
+"value":"9730.0"
+},
+{
+"source":"Manufacturing",
+"target":"Aluminum Die-Casting Foundries",
+"value":"3796.0"
+},
+{
+"source":"Manufacturing",
+"target":"Semiconductor and Related Device Manufacturing",
+"value":"152122.0"
+},
+{
+"source":"PFC emissions",
+"target":"Manufacturing",
+"value":"5472429.0"
+},
+{
+"source":"Manufacturing",
+"target":"Photographic Film Paper Plate and Chemical Manufacturing",
+"value":"6038.0"
+},
+{
+"source":"Manufacturing",
+"target":"Primary Aluminum Production",
+"value":"2942425.0"
+},
+{
+"source":"Manufacturing",
+"target":"Semiconductor and Related Device Manufacturing",
+"value":"2523503.0"
+},
+{
+"source":"Manufacturing",
+"target":"Switchgear and Switchboard Apparatus Manufacturing",
+"value":"463.0"
+}
+],
+"nodes":[
+{
+"name":"CO2 emissions (non-biogenic)"
+},
+{
+"name":"Agriculture, Forestry, Fishing and Hunting"
+},
+{
+"name":"Other Food Crops Grown Under Cover"
+},
+{
+"name":"Sugarcane Farming"
+},
+{
+"name":"Postharvest Crop Activities (except Cotton Ginning)"
+},
+{
+"name":"Mining"
+},
+{
+"name":"Crude Petroleum and Natural Gas Extraction"
+},
+{
+"name":"Natural Gas Liquid Extraction"
+},
+{
+"name":"Bituminous Coal and Lignite Surface Mining"
+},
+{
+"name":"Bituminous Coal Underground Mining"
+},
+{
+"name":"Anthracite Mining"
+},
+{
+"name":"Iron Ore Mining"
+},
+{
+"name":"Gold Ore Mining"
+},
+{
+"name":"Lead Ore and Zinc Ore Mining"
+},
+{
+"name":"Copper Ore and Nickel Ore Mining"
+},
+{
+"name":"Dimension Stone Mining and Quarrying"
+},
+{
+"name":"Crushed and Broken Limestone Mining and Quarrying"
+},
+{
+"name":"Crushed and Broken Granite Mining and Quarrying"
+},
+{
+"name":"Industrial Sand Mining"
+},
+{
+"name":"Kaolin and Ball Clay Mining"
+},
+{
+"name":"Clay and Ceramic and Refractory Minerals Mining"
+},
+{
+"name":"Potash Soda and Borate Mineral Mining"
+},
+{
+"name":"Phosphate Rock Mining"
+},
+{
+"name":"All Other Nonmetallic Mineral Mining"
+},
+{
+"name":"Support Activities for Oil and Gas Operations"
+},
+{
+"name":"Support Activities for Coal Mining"
+},
+{
+"name":"Support Activities for Nonmetallic Minerals (except Fuels) Mining"
+},
+{
+"name":"Utilities"
+},
+{
+"name":"Hydroelectric Power Generation"
+},
+{
+"name":"Fossil Fuel Electric Power Generation"
+},
+{
+"name":"Nuclear Electric Power Generation"
+},
+{
+"name":"Other Electric Power Generation - solar electric power generation"
+},
+{
+"name":"Electric Bulk Power Transmission and Control"
+},
+{
+"name":"Electric Power Distribution"
+},
+{
+"name":"Natural Gas Distribution"
+},
+{
+"name":"Water Supply and Irrigation Systems"
+},
+{
+"name":"Sewage Treatment Facilities"
+},
+{
+"name":"Steam and Air-Conditioning Supply"
+},
+{
+"name":"Construction"
+},
+{
+"name":"Oil and Gas Pipeline and Related Structures Construction"
+},
+{
+"name":"Power and Communication Line and Related Structures Construction"
+},
+{
+"name":"Manufacturing"
+},
+{
+"name":"Other Animal Food Manufacturing"
+},
+{
+"name":"Malt Manufacturing"
+},
+{
+"name":"Wet Corn Milling"
+},
+{
+"name":"Soybean Processing"
+},
+{
+"name":"Other Oilseed Processing"
+},
+{
+"name":"Fats and Oils Refining and Blending"
+},
+{
+"name":"Breakfast Cereal Manufacturing"
+},
+{
+"name":"Cane Sugar Refining"
+},
+{
+"name":"Beet Sugar Manufacturing"
+},
+{
+"name":"Confectionery Manufacturing from Purchased Chocolate"
+},
+{
+"name":"Frozen Fruit Juice and Vegetable Manufacturing"
+},
+{
+"name":"Fruit and Vegetable Canning"
+},
+{
+"name":"Specialty Canning"
+},
+{
+"name":"Dried and Dehydrated Food Manufacturing"
+},
+{
+"name":"Fluid Milk Manufacturing"
+},
+{
+"name":"Cheese Manufacturing"
+},
+{
+"name":"Dry Condensed and Evaporated Dairy Product Manufacturing"
+},
+{
+"name":"Animal (except Poultry) Slaughtering"
+},
+{
+"name":"Meat Processed from Carcasses"
+},
+{
+"name":"Rendering and Meat Byproduct Processing"
+},
+{
+"name":"Poultry Processing"
+},
+{
+"name":"Seafood Canning"
+},
+{
+"name":"Fresh and Frozen Seafood Processing"
+},
+{
+"name":"Cookie and Cracker Manufacturing"
+},
+{
+"name":"Roasted Nuts and Peanut Butter Manufacturing"
+},
+{
+"name":"Other Snack Food Manufacturing"
+},
+{
+"name":"Coffee and Tea Manufacturing"
+},
+{
+"name":"Spice and Extract Manufacturing"
+},
+{
+"name":"Perishable Prepared Food Manufacturing"
+},
+{
+"name":"All Other Miscellaneous Food Manufacturing"
+},
+{
+"name":"Breweries"
+},
+{
+"name":"Wineries"
+},
+{
+"name":"Distilleries"
+},
+{
+"name":"Cigarette Manufacturing"
+},
+{
+"name":"Other Tobacco Product Manufacturing"
+},
+{
+"name":"Broadwoven Fabric Mills"
+},
+{
+"name":"Nonwoven Fabric Mills"
+},
+{
+"name":"Broadwoven Fabric Finishing Mills"
+},
+{
+"name":"Textile and Fabric Finishing (except Broadwoven Fabric) Mills"
+},
+{
+"name":"Carpet and Rug Mills"
+},
+{
+"name":"Sawmills"
+},
+{
+"name":"Hardwood Veneer and Plywood Manufacturing"
+},
+{
+"name":"Softwood Veneer and Plywood Manufacturing"
+},
+{
+"name":"Reconstituted Wood Product Manufacturing"
+},
+{
+"name":"Pulp Mills"
+},
+{
+"name":"Paper (except Newsprint) Mills"
+},
+{
+"name":"Newsprint Mills"
+},
+{
+"name":"Paperboard Mills"
+},
+{
+"name":"Setup Paperboard Box Manufacturing"
+},
+{
+"name":"Coated and Laminated Paper Manufacturing"
+},
+{
+"name":"Uncoated Paper and Multiwall Bag Manufacturing"
+},
+{
+"name":"Sanitary Paper Product Manufacturing"
+},
+{
+"name":"Commercial Gravure Printing"
+},
+{
+"name":"Petroleum Refineries"
+},
+{
+"name":"Asphalt Paving Mixture and Block Manufacturing"
+},
+{
+"name":"Petroleum Lubricating Oil and Grease Manufacturing"
+},
+{
+"name":"All Other Petroleum and Coal Products Manufacturing"
+},
+{
+"name":"Petrochemical Manufacturing"
+},
+{
+"name":"Industrial Gas Manufacturing"
+},
+{
+"name":"Inorganic Dye and Pigment Manufacturing"
+},
+{
+"name":"Synthetic Organic Dye and Pigment Manufacturing"
+},
+{
+"name":"Alkalies and Chlorine Manufacturing"
+},
+{
+"name":"Carbon Black Manufacturing"
+},
+{
+"name":"All Other Basic Inorganic Chemical Manufacturing"
+},
+{
+"name":"Gum and Wood Chemical Manufacturing"
+},
+{
+"name":"Cyclic Crude and Intermediate Manufacturing"
+},
+{
+"name":"Ethyl Alcohol Manufacturing"
+},
+{
+"name":"All Other Basic Organic Chemical Manufacturing"
+},
+{
+"name":"Plastics Material and Resin Manufacturing"
+},
+{
+"name":"Synthetic Rubber Manufacturing"
+},
+{
+"name":"Cellulosic Organic Fiber Manufacturing"
+},
+{
+"name":"Noncellulosic Organic Fiber Manufacturing"
+},
+{
+"name":"Nitrogenous Fertilizer Manufacturing"
+},
+{
+"name":"Phosphatic Fertilizer Manufacturing"
+},
+{
+"name":"Pesticide and Other Agricultural Chemical Manufacturing"
+},
+{
+"name":"Medicinal and Botanical Manufacturing"
+},
+{
+"name":"Pharmaceutical Preparation Manufacturing"
+},
+{
+"name":"Biological Product (except Diagnostic) Manufacturing"
+},
+{
+"name":"Paint and Coating Manufacturing"
+},
+{
+"name":"Soap and Other Detergent Manufacturing"
+},
+{
+"name":"Polish and Other Sanitation Good Manufacturing"
+},
+{
+"name":"Surface Active Agent Manufacturing"
+},
+{
+"name":"Explosives Manufacturing"
+},
+{
+"name":"Photographic Film Paper Plate and Chemical Manufacturing"
+},
+{
+"name":"All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+},
+{
+"name":"Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing"
+},
+{
+"name":"Unlaminated Plastics Profile Shape Manufacturing"
+},
+{
+"name":"Laminated Plastics Plate Sheet (except Packaging) and Shape Manufacturing"
+},
+{
+"name":"Polystyrene Foam Product Manufacturing"
+},
+{
+"name":"Tire Manufacturing (except Retreading)"
+},
+{
+"name":"Rubber Product Manufacturing for Mechanical Use"
+},
+{
+"name":"Vitreous China Plumbing Fixture and China and Earthenware Bathroom Accessories Manufacturing"
+},
+{
+"name":"Brick and Structural Clay Tile Manufacturing"
+},
+{
+"name":"Ceramic Wall and Floor Tile Manufacturing"
+},
+{
+"name":"Nonclay Refractory Manufacturing"
+},
+{
+"name":"Flat Glass Manufacturing"
+},
+{
+"name":"Other Pressed and Blown Glass and Glassware Manufacturing"
+},
+{
+"name":"Glass Container Manufacturing"
+},
+{
+"name":"Glass Product Manufacturing Made of Purchased Glass"
+},
+{
+"name":"Cement Manufacturing"
+},
+{
+"name":"Other Concrete Product Manufacturing"
+},
+{
+"name":"Lime Manufacturing"
+},
+{
+"name":"Gypsum Product Manufacturing"
+},
+{
+"name":"Abrasive Product Manufacturing"
+},
+{
+"name":"Ground or Treated Mineral and Earth Manufacturing"
+},
+{
+"name":"Mineral Wool Manufacturing"
+},
+{
+"name":"All Other Miscellaneous Nonmetallic Mineral Product Manufacturing"
+},
+{
+"name":"Iron and Steel Mills"
+},
+{
+"name":"Electrometallurgical Ferroalloy Product Manufacturing"
+},
+{
+"name":"Iron and Steel Pipe and Tube Manufacturing from Purchased Steel"
+},
+{
+"name":"Rolled Steel Shape Manufacturing"
+},
+{
+"name":"Alumina Refining"
+},
+{
+"name":"Primary Aluminum Production"
+},
+{
+"name":"Secondary Smelting and Alloying of Aluminum"
+},
+{
+"name":"Aluminum Sheet Plate and Foil Manufacturing"
+},
+{
+"name":"Aluminum Extruded Product Manufacturing"
+},
+{
+"name":"Other Aluminum Rolling and Drawing"
+},
+{
+"name":"Primary Smelting and Refining of Copper"
+},
+{
+"name":"Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum)"
+},
+{
+"name":"Copper Rolling Drawing and Extruding"
+},
+{
+"name":"Secondary Smelting Refining and Alloying of Copper"
+},
+{
+"name":"Nonferrous Metal (except Copper and Aluminum) Rolling Drawing and Extruding"
+},
+{
+"name":"Secondary Smelting Refining and Alloying of Nonferrous Metal (except Copper and Aluminum)"
+},
+{
+"name":"Iron Foundries"
+},
+{
+"name":"Steel Foundries (except Investment)"
+},
+{
+"name":"Aluminum Die-Casting Foundries"
+},
+{
+"name":"Aluminum Foundries (except Die-Casting)"
+},
+{
+"name":"Other Nonferrous Foundries (except Die-Casting)"
+},
+{
+"name":"Iron and Steel Forging"
+},
+{
+"name":"Nonferrous Forging"
+},
+{
+"name":"Cutlery and Flatware (except Precious) Manufacturing"
+},
+{
+"name":"Hardware Manufacturing"
+},
+{
+"name":"Metal Heat Treating"
+},
+{
+"name":"Metal Coating Engraving (except Jewelry and Silverware) and Allied Services to Manufacturers"
+},
+{
+"name":"Electroplating Plating Polishing Anodizing and Coloring"
+},
+{
+"name":"Ball and Roller Bearing Manufacturing"
+},
+{
+"name":"Small Arms Ammunition Manufacturing"
+},
+{
+"name":"Ammunition (except Small Arms) Manufacturing"
+},
+{
+"name":"Fabricated Pipe and Pipe Fitting Manufacturing"
+},
+{
+"name":"All Other Miscellaneous Fabricated Metal Product Manufacturing"
+},
+{
+"name":"Farm Machinery and Equipment Manufacturing"
+},
+{
+"name":"Construction Machinery Manufacturing"
+},
+{
+"name":"Mining Machinery and Equipment Manufacturing"
+},
+{
+"name":"Photographic and Photocopying Equipment Manufacturing"
+},
+{
+"name":"Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing"
+},
+{
+"name":"Industrial Mold Manufacturing"
+},
+{
+"name":"Rolling Mill Machinery and Equipment Manufacturing"
+},
+{
+"name":"Turbine and Turbine Generator Set Units Manufacturing"
+},
+{
+"name":"Speed Changer Industrial High-Speed Drive and Gear Manufacturing"
+},
+{
+"name":"Other Engine Equipment Manufacturing"
+},
+{
+"name":"Welding and Soldering Equipment Manufacturing"
+},
+{
+"name":"Electron Tube Manufacturing"
+},
+{
+"name":"Semiconductor and Related Device Manufacturing"
+},
+{
+"name":"Electric Lamp Bulb and Part Manufacturing"
+},
+{
+"name":"Household Laundry Equipment Manufacturing"
+},
+{
+"name":"Power Distribution and Specialty Transformer Manufacturing"
+},
+{
+"name":"Switchgear and Switchboard Apparatus Manufacturing"
+},
+{
+"name":"Other Communication and Energy Wire Manufacturing"
+},
+{
+"name":"Carbon and Graphite Product Manufacturing"
+},
+{
+"name":"Automobile Manufacturing"
+},
+{
+"name":"Light Truck and Utility Vehicle Manufacturing"
+},
+{
+"name":"Motor Vehicle Body Manufacturing"
+},
+{
+"name":"Gasoline Engine and Engine Parts Manufacturing"
+},
+{
+"name":"Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing"
+},
+{
+"name":"Motor Vehicle Transmission and Power Train Parts Manufacturing"
+},
+{
+"name":"Motor Vehicle Metal Stamping"
+},
+{
+"name":"All Other Motor Vehicle Parts Manufacturing"
+},
+{
+"name":"Aircraft Manufacturing"
+},
+{
+"name":"Aircraft Engine and Engine Parts Manufacturing"
+},
+{
+"name":"Other Aircraft Parts and Auxiliary Equipment Manufacturing"
+},
+{
+"name":"Guided Missile and Space Vehicle Manufacturing"
+},
+{
+"name":"Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing"
+},
+{
+"name":"Railroad Rolling Stock Manufacturing"
+},
+{
+"name":"Ship Building and Repairing"
+},
+{
+"name":"Military Armored Vehicle Tank and Tank Component Manufacturing"
+},
+{
+"name":"Office Furniture (except Wood) Manufacturing"
+},
+{
+"name":"All Other Miscellaneous Manufacturing"
+},
+{
+"name":"Wholesale Trade"
+},
+{
+"name":"Automobile and Other Motor Vehicle Merchant Wholesalers"
+},
+{
+"name":"Motor Vehicle Supplies and New Parts Merchant Wholesalers"
+},
+{
+"name":"Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers - gas household appliances"
+},
+{
+"name":"Petroleum Bulk Stations and Terminals"
+},
+{
+"name":"Transportation and Warehousing"
+},
+{
+"name":"Scheduled Passenger Air Transportation"
+},
+{
+"name":"Pipeline Transportation of Crude Oil"
+},
+{
+"name":"Pipeline Transportation of Natural Gas"
+},
+{
+"name":"All Other Pipeline Transportation"
+},
+{
+"name":"Other Airport Operations"
+},
+{
+"name":"Other Support Activities for Air Transportation"
+},
+{
+"name":"Support Activities for Rail Transportation"
+},
+{
+"name":"Port and Harbor Operations"
+},
+{
+"name":"General Warehousing and Storage"
+},
+{
+"name":"Other Warehousing and Storage"
+},
+{
+"name":"Finance and Insurance"
+},
+{
+"name":"Trusts Estates and Agency Accounts"
+},
+{
+"name":"Real Estate and Rental and Leasing"
+},
+{
+"name":"Lessors of Residential Buildings and Dwellings"
+},
+{
+"name":"Lessors of Nonresidential Buildings (except Miniwarehouses)"
+},
+{
+"name":"Professional, Scientific, and Technical Services"
+},
+{
+"name":"Testing Laboratories"
+},
+{
+"name":"Administrative Management and General Management Consulting Services"
+},
+{
+"name":"Research and Development in Biotechnology"
+},
+{
+"name":"Research and Development in the Physical Engineering and Life Sciences (except Biotechnology)"
+},
+{
+"name":"All Other Professional Scientific and Technical Services"
+},
+{
+"name":"Administrative and Support and Waste Management and Remediation Services"
+},
+{
+"name":"Facilities Support Services"
+},
+{
+"name":"All Other Support Services"
+},
+{
+"name":"Solid Waste Collection"
+},
+{
+"name":"Hazardous Waste Treatment and Disposal"
+},
+{
+"name":"Solid Waste Landfill"
+},
+{
+"name":"Solid Waste Combustors and Incinerators"
+},
+{
+"name":"Materials Recovery Facilities"
+},
+{
+"name":"Educational Services"
+},
+{
+"name":"Colleges Universities and Professional Schools"
+},
+{
+"name":"Fine Arts Schools"
+},
+{
+"name":"Health Care and Social Assistance"
+},
+{
+"name":"Offices of Physicians (except Mental Health Specialists)"
+},
+{
+"name":"General Medical and Surgical Hospitals"
+},
+{
+"name":"Arts, Entertainment, and Recreation"
+},
+{
+"name":"Amusement and Theme Parks"
+},
+{
+"name":"Accommodation and Food Services"
+},
+{
+"name":"Casino Hotels"
+},
+{
+"name":"Other Services (except Public Administration)"
+},
+{
+"name":"Other Similar Organizations (except Business Professional Labor and Political Organizations)"
+},
+{
+"name":"Public Administration"
+},
+{
+"name":"Other General Government Support"
+},
+{
+"name":"Correctional Institutions"
+},
+{
+"name":"Administration of Education Programs"
+},
+{
+"name":"Regulation and Administration of Communications Electric Gas and Other Utilities"
+},
+{
+"name":"National Security"
+},
+{
+"name":"Methane (CH4) emissions"
+},
+{
+"name":"Administration of Air and Water Resource and Solid Waste Management Programs"
+},
+{
+"name":"Nitrous Oxide (N2O) emissions"
+},
+{
+"name":"SF6 emissions"
+},
+{
+"name":"Nonferrous (except Aluminum) Die-Casting Foundries"
+},
+{
+"name":"NF3 emissions"
+},
+{
+"name":"HFC emissions"
+},
+{
+"name":"PFC emissions"
+}
+]
+}

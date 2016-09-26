@@ -1,0 +1,24 @@
+#sunburst {
+  position: absolute;
+}
+#sunburst path {
+  stroke: #fff;
+  fill-rule: evenodd;
+  cursor: pointer;
+}
+#sunburst circle {
+  fill: none;
+  pointer-events: all;
+}
+#details {
+  position: absolute;
+  top: 165px;
+  left: 162px;
+  width: 200px;
+  text-align: left;
+  color: #000;
+  z-index: 1;
+}
+#ghgcontent {
+  font-size: 0.6em; //0.6em;
+}

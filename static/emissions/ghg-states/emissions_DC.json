@@ -1,0 +1,37 @@
+{"state": "District of Columbia",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 1, "key": 221112, "year": "2010", "emission_amount": 219213.19200000001},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2010", "emission_amount": 249107.32400000002},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2010", "emission_amount": 29836.738000000001},
+     {"emission_type": ["General Medical and Surgical Hospitals"], "number_of_locations": 1, "key": 622110, "year": "2010", "emission_amount": 31380.846000000001},
+     {"emission_type": ["National Security"], "number_of_locations": 2, "key": 928110, "year": "2010", "emission_amount": 50201.725999999995}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 1, "key": 221112, "year": "2011", "emission_amount": 130571.13},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2011", "emission_amount": 231945.01800000001},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2011", "emission_amount": 26087.763999999999},
+     {"emission_type": ["General Medical and Surgical Hospitals"], "number_of_locations": 1, "key": 622110, "year": "2011", "emission_amount": 21566.91},
+     {"emission_type": ["National Security"], "number_of_locations": 2, "key": 928110, "year": "2011", "emission_amount": 46617.877999999997}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 1, "key": 221112, "year": "2012", "emission_amount": 4029.634},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2012", "emission_amount": 216490.35000000001},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2012", "emission_amount": 23458.574000000001},
+     {"emission_type": ["National Security"], "number_of_locations": 2, "key": 928110, "year": "2012", "emission_amount": 36613.555999999997}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2013", "emission_amount": 207510.59599999999},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2013", "emission_amount": 22540.371999999999},
+     {"emission_type": ["National Security"], "number_of_locations": 2, "key": 928110, "year": "2013", "emission_amount": 34192.356}
+   ]
+  }
+ ]
+}

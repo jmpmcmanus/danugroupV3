@@ -1,0 +1,57 @@
+{"state": "South Dakota",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Clay and Ceramic and Refractory Minerals Mining"], "number_of_locations": 2, "key": 212325, "year": "2010", "emission_amount": 129841.69},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 7, "key": 221112, "year": "2010", "emission_amount": 3717314.3760000002},
+     {"emission_type": ["Soybean Processing"], "number_of_locations": 1, "key": 311222, "year": "2010", "emission_amount": 34857.067999999999},
+     {"emission_type": ["Animal (except Poultry) Slaughtering"], "number_of_locations": 1, "key": 311611, "year": "2010", "emission_amount": 501.62400000000002},
+     {"emission_type": ["Ethyl Alcohol Manufacturing"], "number_of_locations": 13, "key": 325193, "year": "2010", "emission_amount": 1291622.2320000001},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2010", "emission_amount": 494530.0},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 1, "key": 327410, "year": "2010", "emission_amount": 216515.106},
+     {"emission_type": ["Petroleum Bulk Stations and Terminals"], "number_of_locations": 1, "key": 424710, "year": "2010", "emission_amount": 74116.720000000001},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 3, "key": 562212, "year": "2010", "emission_amount": 155316.5}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Clay and Ceramic and Refractory Minerals Mining"], "number_of_locations": 2, "key": 212325, "year": "2011", "emission_amount": 139104.34599999999},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 7, "key": 221112, "year": "2011", "emission_amount": 3013966.9720000001},
+     {"emission_type": ["Soybean Processing"], "number_of_locations": 1, "key": 311222, "year": "2011", "emission_amount": 34717.32},
+     {"emission_type": ["Animal (except Poultry) Slaughtering"], "number_of_locations": 1, "key": 311611, "year": "2011", "emission_amount": 81826.110000000001},
+     {"emission_type": ["Ethyl Alcohol Manufacturing"], "number_of_locations": 14, "key": 325193, "year": "2011", "emission_amount": 1345473.9720000001},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2011", "emission_amount": 434254.0},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 1, "key": 327410, "year": "2011", "emission_amount": 285890.36200000002},
+     {"emission_type": ["Petroleum Bulk Stations and Terminals"], "number_of_locations": 1, "key": 424710, "year": "2011", "emission_amount": 72997.623999999996},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 3, "key": 562212, "year": "2011", "emission_amount": 138371.25}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Clay and Ceramic and Refractory Minerals Mining"], "number_of_locations": 2, "key": 212325, "year": "2012", "emission_amount": 106460.99799999999},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 9, "key": 221112, "year": "2012", "emission_amount": 3230315.4439999997},
+     {"emission_type": ["Soybean Processing"], "number_of_locations": 1, "key": 311222, "year": "2012", "emission_amount": 35043.267999999996},
+     {"emission_type": ["Animal (except Poultry) Slaughtering"], "number_of_locations": 1, "key": 311611, "year": "2012", "emission_amount": 120577.458},
+     {"emission_type": ["Ethyl Alcohol Manufacturing"], "number_of_locations": 14, "key": 325193, "year": "2012", "emission_amount": 1245265.8160000001},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2012", "emission_amount": 445842.90000000002},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 1, "key": 327410, "year": "2012", "emission_amount": 291260.21999999997},
+     {"emission_type": ["Aluminum Extruded Product Manufacturing"], "number_of_locations": 1, "key": 331316, "year": "2012", "emission_amount": 28071.544000000002},
+     {"emission_type": ["Petroleum Bulk Stations and Terminals"], "number_of_locations": 1, "key": 424710, "year": "2012", "emission_amount": 71193.432000000001},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 3, "key": 562212, "year": "2012", "emission_amount": 153229.5}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Clay and Ceramic and Refractory Minerals Mining"], "number_of_locations": 2, "key": 212325, "year": "2013", "emission_amount": 104626.39},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 9, "key": 221112, "year": "2013", "emission_amount": 3293043.0380000002},
+     {"emission_type": ["Soybean Processing"], "number_of_locations": 1, "key": 311222, "year": "2013", "emission_amount": 36821.760000000002},
+     {"emission_type": ["Animal (except Poultry) Slaughtering"], "number_of_locations": 1, "key": 311611, "year": "2013", "emission_amount": 142239.674},
+     {"emission_type": ["Ethyl Alcohol Manufacturing"], "number_of_locations": 15, "key": 325193, "year": "2013", "emission_amount": 1435015.0680000002},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2013", "emission_amount": 522488.35999999999},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 1, "key": 327410, "year": "2013", "emission_amount": 332172.886},
+     {"emission_type": ["Aluminum Extruded Product Manufacturing"], "number_of_locations": 1, "key": 331316, "year": "2013", "emission_amount": 29411.34},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2013", "emission_amount": 156281.0}
+   ]
+  }
+ ]
+}

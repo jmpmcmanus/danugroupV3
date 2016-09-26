@@ -1,0 +1,48 @@
+{"state": "Hawaii",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Sugarcane Farming"], "number_of_locations": 1, "key": 111930, "year": "2010", "emission_amount": 144967.62599999999},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 14, "key": 221112, "year": "2010", "emission_amount": 7370846.0720000006},
+     {"emission_type": ["Natural Gas Distribution"], "number_of_locations": 1, "key": 221210, "year": "2010", "emission_amount": 22816.232},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 2, "key": 324110, "year": "2010", "emission_amount": 1093938.074},
+     {"emission_type": ["Petroleum Bulk Stations and Terminals"], "number_of_locations": 1, "key": 424710, "year": "2010", "emission_amount": 2067.0659999999998},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 6, "key": 562212, "year": "2010", "emission_amount": 324674.07436200004},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 1, "key": 562213, "year": "2010", "emission_amount": 192318.74600000001}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Sugarcane Farming"], "number_of_locations": 1, "key": 111930, "year": "2011", "emission_amount": 179152.03},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 15, "key": 221112, "year": "2011", "emission_amount": 7483903.3099999996},
+     {"emission_type": ["Natural Gas Distribution"], "number_of_locations": 1, "key": 221210, "year": "2011", "emission_amount": 23471.948},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 2, "key": 324110, "year": "2011", "emission_amount": 1138459.4419999998},
+     {"emission_type": ["Petroleum Bulk Stations and Terminals"], "number_of_locations": 1, "key": 424710, "year": "2011", "emission_amount": 1643.5239999999999},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 6, "key": 562212, "year": "2011", "emission_amount": 336725.20244999998},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 1, "key": 562213, "year": "2011", "emission_amount": 200504.63800000001}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Sugarcane Farming"], "number_of_locations": 1, "key": 111930, "year": "2012", "emission_amount": 169180.67600000001},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 15, "key": 221112, "year": "2012", "emission_amount": 7100278.966},
+     {"emission_type": ["Natural Gas Distribution"], "number_of_locations": 1, "key": 221210, "year": "2012", "emission_amount": 24240.774000000001},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 2, "key": 324110, "year": "2012", "emission_amount": 1089130.46},
+     {"emission_type": ["Petroleum Bulk Stations and Terminals"], "number_of_locations": 1, "key": 424710, "year": "2012", "emission_amount": 2030.6679999999999},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 6, "key": 562212, "year": "2012", "emission_amount": 299146.94531500002},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 1, "key": 562213, "year": "2012", "emission_amount": 213345.592}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Sugarcane Farming"], "number_of_locations": 1, "key": 111930, "year": "2013", "emission_amount": 192694.79399999999},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 15, "key": 221112, "year": "2013", "emission_amount": 6745031.4520000005},
+     {"emission_type": ["Natural Gas Distribution"], "number_of_locations": 1, "key": 221210, "year": "2013", "emission_amount": 25355.094000000001},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 2, "key": 324110, "year": "2013", "emission_amount": 797400.5959999999},
+     {"emission_type": ["Petroleum Bulk Stations and Terminals"], "number_of_locations": 1, "key": 424710, "year": "2013", "emission_amount": 2045.866},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 6, "key": 562212, "year": "2013", "emission_amount": 240393.848},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 1, "key": 562213, "year": "2013", "emission_amount": 271000.196}
+   ]
+  }
+ ]
+}

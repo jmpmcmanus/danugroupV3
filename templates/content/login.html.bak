@@ -1,0 +1,96 @@
+{% extends "base.html" %}
+{% load backend_utils %}
+{% block title %}{{ page_title }}{% endblock %}
+{% block content %}
+  <h3>Python Social Auth</h3>
+
+  <div class="buttons">
+    {% if user.is_authenticated %}
+      <div class="user-details">
+        You are logged in as <code>{{ user.username }}</code>!
+      </div>
+    {% endif %}
+
+    <div class="social">
+      {% for sublist in available_backends|social_backends %}
+        <div class="row">
+          {% for name, backend in sublist %}
+            {% associated backend %}
+            {% if association %}
+              <form class="disconnect-form col-md-2" action="{% url "social:disconnect_individual" backend=association.provider association_id=association.id %}" method="post" data-ajax="false">{% csrf_token %}
+                <a class="btn btn-danger" name="{{ backend|backend_class }}" href="#">
+                  <i class="fa fa-{{ name|icon_name }}"></i>
+                  Disconnect {{ backend|backend_name }}
+                </a>
+              </form>
+            {% else %}
+              <a class="col-md-2 btn btn-default" name="{{ backend|backend_class }}" href="{% url "social:begin" backend=name %}" data-ajax="false">
+                <i class="fa fa-{{ name|icon_name }}"></i>
+                {{ backend|backend_name }}
+              </a><br />
+            {% endif %}
+          {% endfor %}
+        </div>
+      {% endfor %}
+    </div>
+
+    <div>
+      <a class="btn btn-primary" href="/logout/">
+        <i class="fa fa-sign-out"></i>
+        Logout
+      </a>
+    </div>
+  </div>
+
+  {% if backend %}
+    <div id="email-required-modal" class="modal fade">
+      <form action="{% url "social:complete" backend=backend %}" method="post" role="form" data-ajax="false">{% csrf_token %}
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+              <h4 class="modal-title">Email required</h4>
+            </div>
+
+            <div class="modal-body">
+              <p>An email address is required.</p>
+              <div class="form-group">
+                <label class="control-label" for="email">Email address:</label>
+                <input class="form-control" id="email" type="email" name="email" value="" />
+              </div>
+            </div>
+
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Continue</button>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  {% endif %}
+
+  <div id="validation-sent-modal" class="modal fade">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h4 class="modal-title">Email Validation Sent</h4>
+        </div>
+        <div class="modal-body">
+          <p>An email validation was sent{% if email %} to <code>{{ email }}</code>{% endif %}.</p>
+          <p>Click the link sent to finish the authentication process.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% block footer_javascript_page %}
+    <script type="application/ecmascript" src="/jssocial/social.js"></script>
+  {% endblock footer_javascript_page %}
+
+{% endblock %}
+

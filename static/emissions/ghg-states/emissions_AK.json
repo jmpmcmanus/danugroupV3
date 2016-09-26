@@ -1,0 +1,75 @@
+{"state": "Alaska",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Crude Petroleum and Natural Gas Extraction"], "number_of_locations": 31, "key": 211111, "year": "2010", "emission_amount": 11240119.999999998},
+     {"emission_type": ["Lead Ore and Zinc Ore Mining"], "number_of_locations": 1, "key": 212231, "year": "2010", "emission_amount": 146813.06599999999},
+     {"emission_type": ["Hydroelectric Power Generation"], "number_of_locations": 1, "key": 221111, "year": "2010", "emission_amount": 373470.864},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 11, "key": 221112, "year": "2010", "emission_amount": 2973285.4179999991},
+     {"emission_type": ["Natural Gas Distribution"], "number_of_locations": 2, "key": 221210, "year": "2010", "emission_amount": 285223.32000000001},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 1, "key": 221330, "year": "2010", "emission_amount": 390199.62},
+     {"emission_type": ["Seafood Canning"], "number_of_locations": 1, "key": 311711, "year": "2010", "emission_amount": 28052.472000000002},
+     {"emission_type": ["Fresh and Frozen Seafood Processing"], "number_of_locations": 1, "key": 311712, "year": "2010", "emission_amount": 36932.576000000001},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 4, "key": 324110, "year": "2010", "emission_amount": 734394.01600000006},
+     {"emission_type": ["Pipeline Transportation of Crude Oil"], "number_of_locations": 4, "key": 486110, "year": "2010", "emission_amount": 259213.85400000002},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 4, "key": 562212, "year": "2010", "emission_amount": 575759.5},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2010", "emission_amount": 137497.758},
+     {"emission_type": ["National Security"], "number_of_locations": 1, "key": 928110, "year": "2010", "emission_amount": 330664.72999999998}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Crude Petroleum and Natural Gas Extraction"], "number_of_locations": 29, "key": 211111, "year": "2011", "emission_amount": 11928682.522},
+     {"emission_type": ["Gold Ore Mining"], "number_of_locations": 1, "key": 212221, "year": "2011", "emission_amount": 25731.876},
+     {"emission_type": ["Lead Ore and Zinc Ore Mining"], "number_of_locations": 2, "key": 212231, "year": "2011", "emission_amount": 165409.49400000001},
+     {"emission_type": ["Hydroelectric Power Generation"], "number_of_locations": 1, "key": 221111, "year": "2011", "emission_amount": 445983.0},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 13, "key": 221112, "year": "2011", "emission_amount": 3022165.0019999999},
+     {"emission_type": ["Natural Gas Distribution"], "number_of_locations": 2, "key": 221210, "year": "2011", "emission_amount": 296466.10399999999},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 1, "key": 221330, "year": "2011", "emission_amount": 350029.07400000002},
+     {"emission_type": ["Seafood Canning"], "number_of_locations": 1, "key": 311711, "year": "2011", "emission_amount": 23366.686000000002},
+     {"emission_type": ["Fresh and Frozen Seafood Processing"], "number_of_locations": 1, "key": 311712, "year": "2011", "emission_amount": 43930.303999999996},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 4, "key": 324110, "year": "2011", "emission_amount": 891604.22799999989},
+     {"emission_type": ["Pipeline Transportation of Crude Oil"], "number_of_locations": 4, "key": 486110, "year": "2011", "emission_amount": 290587.60999999999},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 5, "key": 562212, "year": "2011", "emission_amount": 649103.26600000006},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2011", "emission_amount": 134639.23800000001},
+     {"emission_type": ["National Security"], "number_of_locations": 1, "key": 928110, "year": "2011", "emission_amount": 360981.32000000001}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Crude Petroleum and Natural Gas Extraction"], "number_of_locations": 29, "key": 211111, "year": "2012", "emission_amount": 12236862.745999997},
+     {"emission_type": ["Gold Ore Mining"], "number_of_locations": 1, "key": 212221, "year": "2012", "emission_amount": 27238.295999999998},
+     {"emission_type": ["Lead Ore and Zinc Ore Mining"], "number_of_locations": 2, "key": 212231, "year": "2012", "emission_amount": 152365.61199999999},
+     {"emission_type": ["Hydroelectric Power Generation"], "number_of_locations": 1, "key": 221111, "year": "2012", "emission_amount": 471080.59999999998},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 14, "key": 221112, "year": "2012", "emission_amount": 3024212.648},
+     {"emission_type": ["Natural Gas Distribution"], "number_of_locations": 2, "key": 221210, "year": "2012", "emission_amount": 232545.95800000001},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 1, "key": 221330, "year": "2012", "emission_amount": 328261.76000000001},
+     {"emission_type": ["Seafood Canning"], "number_of_locations": 1, "key": 311711, "year": "2012", "emission_amount": 26719.889999999999},
+     {"emission_type": ["Fresh and Frozen Seafood Processing"], "number_of_locations": 1, "key": 311712, "year": "2012", "emission_amount": 50747.614000000001},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 4, "key": 324110, "year": "2012", "emission_amount": 839419.96600000001},
+     {"emission_type": ["Pipeline Transportation of Crude Oil"], "number_of_locations": 4, "key": 486110, "year": "2012", "emission_amount": 320660.93400000001},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 5, "key": 562212, "year": "2012", "emission_amount": 673003.32832099998},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2012", "emission_amount": 124488.076},
+     {"emission_type": ["National Security"], "number_of_locations": 1, "key": 928110, "year": "2012", "emission_amount": 363907.41800000001}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Crude Petroleum and Natural Gas Extraction"], "number_of_locations": 30, "key": 211111, "year": "2013", "emission_amount": 12328308.689999999},
+     {"emission_type": ["Gold Ore Mining"], "number_of_locations": 1, "key": 212221, "year": "2013", "emission_amount": 32468.77},
+     {"emission_type": ["Lead Ore and Zinc Ore Mining"], "number_of_locations": 2, "key": 212231, "year": "2013", "emission_amount": 177830.64799999999},
+     {"emission_type": ["Hydroelectric Power Generation"], "number_of_locations": 1, "key": 221111, "year": "2013", "emission_amount": 427745.02000000002},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 14, "key": 221112, "year": "2013", "emission_amount": 2702235.0800000001},
+     {"emission_type": ["Natural Gas Distribution"], "number_of_locations": 2, "key": 221210, "year": "2013", "emission_amount": 54820.992000000006},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 1, "key": 221330, "year": "2013", "emission_amount": 321806.70000000001},
+     {"emission_type": ["Seafood Canning"], "number_of_locations": 1, "key": 311711, "year": "2013", "emission_amount": 22023.758000000002},
+     {"emission_type": ["Fresh and Frozen Seafood Processing"], "number_of_locations": 1, "key": 311712, "year": "2013", "emission_amount": 52318.947999999997},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 4, "key": 324110, "year": "2013", "emission_amount": 852557.51599999995},
+     {"emission_type": ["Pipeline Transportation of Crude Oil"], "number_of_locations": 4, "key": 486110, "year": "2013", "emission_amount": 331188.038},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 5, "key": 562212, "year": "2013", "emission_amount": 599667.09400000004},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2013", "emission_amount": 129671.36},
+     {"emission_type": ["National Security"], "number_of_locations": 1, "key": 928110, "year": "2013", "emission_amount": 341930.16399999999}
+   ]
+  }
+ ]
+}

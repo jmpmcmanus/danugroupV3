@@ -1,0 +1,1229 @@
+{
+"links":[
+{
+"source":"Chemicals",
+"target":"Adipic Acid Production",
+"value":"11847979.0"
+},
+{
+"source":"Adipic Acid Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"1765087.0"
+},
+{
+"source":"Adipic Acid Production",
+"target":"Methane (CH4) emissions",
+"value":"1492.0"
+},
+{
+"source":"Adipic Acid Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"11462239.0"
+},
+{
+"source":"Chemicals",
+"target":"Ammonia Manufacturing",
+"value":"24791377.0"
+},
+{
+"source":"Ammonia Manufacturing",
+"target":"CO2 emissions (non-biogenic)",
+"value":"14651399.0"
+},
+{
+"source":"Ammonia Manufacturing",
+"target":"Methane (CH4) emissions",
+"value":"3868.0"
+},
+{
+"source":"Ammonia Manufacturing",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"5898330.0"
+},
+{
+"source":"Chemicals",
+"target":"Fluorinated GHG Production",
+"value":"6945280.0"
+},
+{
+"source":"Fluorinated GHG Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"854211.0"
+},
+{
+"source":"Fluorinated GHG Production",
+"target":"Methane (CH4) emissions",
+"value":"20760.0"
+},
+{
+"source":"Fluorinated GHG Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"1989.0"
+},
+{
+"source":"Fluorinated GHG Production",
+"target":"HFC emissions",
+"value":"8771214.0"
+},
+{
+"source":"Chemicals",
+"target":"HCFC-22 Production from HFC-23 Destruction",
+"value":"8771214.0"
+},
+{
+"source":"HCFC-22 Production from HFC-23 Destruction",
+"target":"Methane (CH4) emissions",
+"value":"3677.0"
+},
+{
+"source":"HCFC-22 Production from HFC-23 Destruction",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"1754.0"
+},
+{
+"source":"HCFC-22 Production from HFC-23 Destruction",
+"target":"HFC emissions",
+"value":"8771214.0"
+},
+{
+"source":"Chemicals",
+"target":"Hydrogen Production",
+"value":"37527732.0"
+},
+{
+"source":"Hydrogen Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"44196223.0"
+},
+{
+"source":"Hydrogen Production",
+"target":"Methane (CH4) emissions",
+"value":"467024.0"
+},
+{
+"source":"Hydrogen Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"10389648.0"
+},
+{
+"source":"Chemicals",
+"target":"Nitric Acid Production",
+"value":"11495577.0"
+},
+{
+"source":"Nitric Acid Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"2701673.0"
+},
+{
+"source":"Nitric Acid Production",
+"target":"Methane (CH4) emissions",
+"value":"5873.0"
+},
+{
+"source":"Nitric Acid Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"16490745.0"
+},
+{
+"source":"Chemicals",
+"target":"Petrochemical Production",
+"value":"52821591.0"
+},
+{
+"source":"Petrochemical Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"62668286.0"
+},
+{
+"source":"Petrochemical Production",
+"target":"Methane (CH4) emissions",
+"value":"632076.0"
+},
+{
+"source":"Petrochemical Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"183581.0"
+},
+{
+"source":"Chemicals",
+"target":"Phosphoric Acid Production",
+"value":"2002127.0"
+},
+{
+"source":"Phosphoric Acid Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"2023140.0"
+},
+{
+"source":"Phosphoric Acid Production",
+"target":"Methane (CH4) emissions",
+"value":"352.0"
+},
+{
+"source":"Phosphoric Acid Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"1235104.0"
+},
+{
+"source":"Chemicals",
+"target":"Silicon Carbide Production",
+"value":"141980.0"
+},
+{
+"source":"Silicon Carbide Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"126988.0"
+},
+{
+"source":"Silicon Carbide Production",
+"target":"Methane (CH4) emissions",
+"value":"14991.0"
+},
+{
+"source":"Silicon Carbide Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"1.0"
+},
+{
+"source":"Chemicals",
+"target":"Titanium Dioxide Production",
+"value":"2356999.0"
+},
+{
+"source":"Titanium Dioxide Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"2354172.0"
+},
+{
+"source":"Titanium Dioxide Production",
+"target":"Methane (CH4) emissions",
+"value":"125394.0"
+},
+{
+"source":"Titanium Dioxide Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"1721.0"
+},
+{
+"source":"Chemicals",
+"target":"Other Chemicals",
+"value":"18567452.0"
+},
+{
+"source":"Other Chemicals",
+"target":"CO2 emissions (non-biogenic)",
+"value":"18328954.0"
+},
+{
+"source":"Other Chemicals",
+"target":"Methane (CH4) emissions",
+"value":"211718.0"
+},
+{
+"source":"Other Chemicals",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"26780.0"
+},
+{
+"source":"Metals",
+"target":"Aluminum Production",
+"value":"7284945.0"
+},
+{
+"source":"Aluminum Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"9953881.0"
+},
+{
+"source":"Aluminum Production",
+"target":"Methane (CH4) emissions",
+"value":"63992.0"
+},
+{
+"source":"Aluminum Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"31699.0"
+},
+{
+"source":"Aluminum Production",
+"target":"PFC emissions",
+"value":"3460563.0"
+},
+{
+"source":"Metals",
+"target":"Ferroalloy Production",
+"value":"2310711.0"
+},
+{
+"source":"Ferroalloy Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"2298669.0"
+},
+{
+"source":"Ferroalloy Production",
+"target":"Methane (CH4) emissions",
+"value":"11967.0"
+},
+{
+"source":"Ferroalloy Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"75.0"
+},
+{
+"source":"Metals",
+"target":"Iron and Steel Production",
+"value":"89249058.0"
+},
+{
+"source":"Iron and Steel Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"89452442.0"
+},
+{
+"source":"Iron and Steel Production",
+"target":"Methane (CH4) emissions",
+"value":"294892.0"
+},
+{
+"source":"Iron and Steel Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"22785.0"
+},
+{
+"source":"Metals",
+"target":"Lead Production",
+"value":"1068328.0"
+},
+{
+"source":"Lead Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"1067657.0"
+},
+{
+"source":"Lead Production",
+"target":"Methane (CH4) emissions",
+"value":"259.0"
+},
+{
+"source":"Lead Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"412.0"
+},
+{
+"source":"Metals",
+"target":"Magnesium Production",
+"value":"1785329.0"
+},
+{
+"source":"Magnesium Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"310230.0"
+},
+{
+"source":"Magnesium Production",
+"target":"Methane (CH4) emissions",
+"value":"148.0"
+},
+{
+"source":"Magnesium Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"190.0"
+},
+{
+"source":"Magnesium Production",
+"target":"SF6 emissions",
+"value":"1459884.0"
+},
+{
+"source":"Magnesium Production",
+"target":"HFC emissions",
+"value":"14878.0"
+},
+{
+"source":"Magnesium Production",
+"target":"Gases with No Listed GWP (metric tons)",
+"value":"1639.0"
+},
+{
+"source":"Metals",
+"target":"Zinc Production",
+"value":"900643.0"
+},
+{
+"source":"Zinc Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"900553.0"
+},
+{
+"source":"Zinc Production",
+"target":"Methane (CH4) emissions",
+"value":"40.0"
+},
+{
+"source":"Zinc Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"50.0"
+},
+{
+"source":"Metals",
+"target":"Other Metals",
+"value":"8760566.0"
+},
+{
+"source":"Other Metals",
+"target":"CO2 emissions (non-biogenic)",
+"value":"8745308.0"
+},
+{
+"source":"Other Metals",
+"target":"Methane (CH4) emissions",
+"value":"6261.0"
+},
+{
+"source":"Other Metals",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"8997.0"
+},
+{
+"source":"Minerals",
+"target":"Cement Production",
+"value":"55506428.0"
+},
+{
+"source":"Cement Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"55337342.0"
+},
+{
+"source":"Cement Production",
+"target":"Methane (CH4) emissions",
+"value":"61092.0"
+},
+{
+"source":"Cement Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"107994.0"
+},
+{
+"source":"Minerals",
+"target":"Glass Production",
+"value":"8438254.0"
+},
+{
+"source":"Glass Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"8431810.0"
+},
+{
+"source":"Glass Production",
+"target":"Methane (CH4) emissions",
+"value":"14214.0"
+},
+{
+"source":"Glass Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"4078.0"
+},
+{
+"source":"Minerals",
+"target":"Lime Manufacturing",
+"value":"30571414.0"
+},
+{
+"source":"Lime Manufacturing",
+"target":"CO2 emissions (non-biogenic)",
+"value":"32737223.0"
+},
+{
+"source":"Lime Manufacturing",
+"target":"Methane (CH4) emissions",
+"value":"624597.0"
+},
+{
+"source":"Lime Manufacturing",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"76532.0"
+},
+{
+"source":"Minerals",
+"target":"Soda Ash Production",
+"value":"5141789.0"
+},
+{
+"source":"Soda Ash Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"5156035.0"
+},
+{
+"source":"Soda Ash Production",
+"target":"Methane (CH4) emissions",
+"value":"8353.0"
+},
+{
+"source":"Soda Ash Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"14204.0"
+},
+{
+"source":"Minerals",
+"target":"Other Minerals",
+"value":"3545938.0"
+},
+{
+"source":"Other Minerals",
+"target":"CO2 emissions (non-biogenic)",
+"value":"3538323.0"
+},
+{
+"source":"Other Minerals",
+"target":"Methane (CH4) emissions",
+"value":"3044.0"
+},
+{
+"source":"Other Minerals",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"4571.0"
+},
+{
+"source":"Other",
+"target":"Use of Electrical Equipment",
+"value":"3922327.0"
+},
+{
+"source":"Use of Electrical Equipment",
+"target":"SF6 emissions",
+"value":"3922327.0"
+},
+{
+"source":"Other",
+"target":"Underground Coal Mines",
+"value":"37068567.0"
+},
+{
+"source":"Underground Coal Mines",
+"target":"CO2 emissions (non-biogenic)",
+"value":"508814.0"
+},
+{
+"source":"Underground Coal Mines",
+"target":"Methane (CH4) emissions",
+"value":"36559370.0"
+},
+{
+"source":"Underground Coal Mines",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"382.0"
+},
+{
+"source":"Other",
+"target":"Electronics Manufacturing",
+"value":"6133544.0"
+},
+{
+"source":"Electronics Manufacturing",
+"target":"CO2 emissions (non-biogenic)",
+"value":"1604944.0"
+},
+{
+"source":"Electronics Manufacturing",
+"target":"Methane (CH4) emissions",
+"value":"2963.0"
+},
+{
+"source":"Electronics Manufacturing",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"229770.0"
+},
+{
+"source":"Electronics Manufacturing",
+"target":"SF6 emissions",
+"value":"338113.0"
+},
+{
+"source":"Electronics Manufacturing",
+"target":"NF3 emissions",
+"value":"647207.0"
+},
+{
+"source":"Electronics Manufacturing",
+"target":"HFC emissions",
+"value":"191573.0"
+},
+{
+"source":"Electronics Manufacturing",
+"target":"PFC emissions",
+"value":"3118975.0"
+},
+{
+"source":"Electronics Manufacturing",
+"target":"Gases with No Listed GWP (metric tons)",
+"value":"104.0"
+},
+{
+"source":"Other",
+"target":"Manufacture of Electric Transmission and Distribution Equipment",
+"value":"339455.0"
+},
+{
+"source":"Manufacture of Electric Transmission and Distribution Equipment",
+"target":"CO2 emissions (non-biogenic)",
+"value":"10100.0"
+},
+{
+"source":"Manufacture of Electric Transmission and Distribution Equipment",
+"target":"Methane (CH4) emissions",
+"value":"5.0"
+},
+{
+"source":"Manufacture of Electric Transmission and Distribution Equipment",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"7.0"
+},
+{
+"source":"Manufacture of Electric Transmission and Distribution Equipment",
+"target":"SF6 emissions",
+"value":"338929.0"
+},
+{
+"source":"Manufacture of Electric Transmission and Distribution Equipment",
+"target":"PFC emissions",
+"value":"526.0"
+},
+{
+"source":"Other",
+"target":"Ethanol Production",
+"value":"6478843.0"
+},
+{
+"source":"Ethanol Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"6464925.0"
+},
+{
+"source":"Ethanol Production",
+"target":"Methane (CH4) emissions",
+"value":"5737.0"
+},
+{
+"source":"Ethanol Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"8181.0"
+},
+{
+"source":"Other",
+"target":"Food Processing",
+"value":"14726570.0"
+},
+{
+"source":"Food Processing",
+"target":"CO2 emissions (non-biogenic)",
+"value":"14646077.0"
+},
+{
+"source":"Food Processing",
+"target":"Methane (CH4) emissions",
+"value":"30486.0"
+},
+{
+"source":"Food Processing",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"50007.0"
+},
+{
+"source":"Other",
+"target":"Manufacturing",
+"value":"15745795.0"
+},
+{
+"source":"Manufacturing",
+"target":"CO2 emissions (non-biogenic)",
+"value":"15674658.0"
+},
+{
+"source":"Manufacturing",
+"target":"Methane (CH4) emissions",
+"value":"26448.0"
+},
+{
+"source":"Manufacturing",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"44688.0"
+},
+{
+"source":"Other",
+"target":"Military",
+"value":"2735013.0"
+},
+{
+"source":"Military",
+"target":"CO2 emissions (non-biogenic)",
+"value":"2725692.0"
+},
+{
+"source":"Military",
+"target":"Methane (CH4) emissions",
+"value":"3376.0"
+},
+{
+"source":"Military",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"5945.0"
+},
+{
+"source":"Other",
+"target":"Universities",
+"value":"9404627.0"
+},
+{
+"source":"Universities",
+"target":"CO2 emissions (non-biogenic)",
+"value":"9372235.0"
+},
+{
+"source":"Universities",
+"target":"Methane (CH4) emissions",
+"value":"11538.0"
+},
+{
+"source":"Universities",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"20853.0"
+},
+{
+"source":"Petroleum and Natural Gas Systems",
+"target":"Offshore Petroleum & Natural Gas Production",
+"value":"6611817.0"
+},
+{
+"source":"Offshore Petroleum & Natural Gas Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"4881191.0"
+},
+{
+"source":"Offshore Petroleum & Natural Gas Production",
+"target":"Methane (CH4) emissions",
+"value":"1725625.0"
+},
+{
+"source":"Offshore Petroleum & Natural Gas Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"5000.0"
+},
+{
+"source":"Petroleum and Natural Gas Systems",
+"target":"Onshore Petroleum & Natural Gas Production",
+"value":"91717494.0"
+},
+{
+"source":"Onshore Petroleum & Natural Gas Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"33895529.0"
+},
+{
+"source":"Onshore Petroleum & Natural Gas Production",
+"target":"Methane (CH4) emissions",
+"value":"57743653.0"
+},
+{
+"source":"Onshore Petroleum & Natural Gas Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"78312.0"
+},
+{
+"source":"Petroleum and Natural Gas Systems",
+"target":"Natural Gas Processing",
+"value":"58088507.0"
+},
+{
+"source":"Natural Gas Processing",
+"target":"CO2 emissions (non-biogenic)",
+"value":"52595546.0"
+},
+{
+"source":"Natural Gas Processing",
+"target":"Methane (CH4) emissions",
+"value":"3429720.0"
+},
+{
+"source":"Natural Gas Processing",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"44215.0"
+},
+{
+"source":"Petroleum and Natural Gas Systems",
+"target":"Natural Gas Transmission/Compression",
+"value":"24255075.0"
+},
+{
+"source":"Natural Gas Transmission/Compression",
+"target":"CO2 emissions (non-biogenic)",
+"value":"20114424.0"
+},
+{
+"source":"Natural Gas Transmission/Compression",
+"target":"Methane (CH4) emissions",
+"value":"4129300.0"
+},
+{
+"source":"Natural Gas Transmission/Compression",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"11350.0"
+},
+{
+"source":"Petroleum and Natural Gas Systems",
+"target":"Underground Natural Gas Storage",
+"value":"1469058.0"
+},
+{
+"source":"Underground Natural Gas Storage",
+"target":"CO2 emissions (non-biogenic)",
+"value":"2434275.0"
+},
+{
+"source":"Underground Natural Gas Storage",
+"target":"Methane (CH4) emissions",
+"value":"531399.0"
+},
+{
+"source":"Underground Natural Gas Storage",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"2980.0"
+},
+{
+"source":"Petroleum and Natural Gas Systems",
+"target":"Liquefied Natural Gas Storage",
+"value":"21807.0"
+},
+{
+"source":"Liquefied Natural Gas Storage",
+"target":"CO2 emissions (non-biogenic)",
+"value":"27.0"
+},
+{
+"source":"Liquefied Natural Gas Storage",
+"target":"Methane (CH4) emissions",
+"value":"21508.0"
+},
+{
+"source":"Liquefied Natural Gas Storage",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"954.0"
+},
+{
+"source":"Petroleum and Natural Gas Systems",
+"target":"Liquefied Natural Gas Imp./Exp. Equipment",
+"value":"592716.0"
+},
+{
+"source":"Liquefied Natural Gas Imp./Exp. Equipment",
+"target":"CO2 emissions (non-biogenic)",
+"value":"487758.0"
+},
+{
+"source":"Liquefied Natural Gas Imp./Exp. Equipment",
+"target":"Methane (CH4) emissions",
+"value":"104229.0"
+},
+{
+"source":"Liquefied Natural Gas Imp./Exp. Equipment",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"728.0"
+},
+{
+"source":"Petroleum and Natural Gas Systems",
+"target":"Natural Gas Local Distribution Companies",
+"value":"16498043.0"
+},
+{
+"source":"Natural Gas Local Distribution Companies",
+"target":"CO2 emissions (non-biogenic)",
+"value":"171411.0"
+},
+{
+"source":"Natural Gas Local Distribution Companies",
+"target":"Methane (CH4) emissions",
+"value":"16326562.0"
+},
+{
+"source":"Natural Gas Local Distribution Companies",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"71.0"
+},
+{
+"source":"Petroleum and Natural Gas Systems",
+"target":"Other Petroleum and Natural Gas Systems",
+"value":"22093897.0"
+},
+{
+"source":"Other Petroleum and Natural Gas Systems",
+"target":"CO2 emissions (non-biogenic)",
+"value":"22056193.0"
+},
+{
+"source":"Other Petroleum and Natural Gas Systems",
+"target":"Methane (CH4) emissions",
+"value":"15521.0"
+},
+{
+"source":"Other Petroleum and Natural Gas Systems",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"22183.0"
+},
+{
+"source":"Power Plants",
+"target":"Electricity Generation",
+"value":"2216203881.0"
+},
+{
+"source":"Electricity Generation",
+"target":"CO2 emissions (non-biogenic)",
+"value":"2209699868.0"
+},
+{
+"source":"Electricity Generation",
+"target":"Methane (CH4) emissions",
+"value":"4334750.0"
+},
+{
+"source":"Electricity Generation",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"9176302.0"
+},
+{
+"source":"Electricity Generation",
+"target":"PFC emissions",
+"value":"116611.0"
+},
+{
+"source":"Pulp and Paper",
+"target":"Pulp and Paper Production",
+"value":"30585511.0"
+},
+{
+"source":"Pulp and Paper Production",
+"target":"CO2 emissions (non-biogenic)",
+"value":"25864659.0"
+},
+{
+"source":"Pulp and Paper Production",
+"target":"Methane (CH4) emissions",
+"value":"5929002.0"
+},
+{
+"source":"Pulp and Paper Production",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"1861260.0"
+},
+{
+"source":"Pulp and Paper",
+"target":"Other Paper Producers",
+"value":"8708891.0"
+},
+{
+"source":"Other Paper Producers",
+"target":"CO2 emissions (non-biogenic)",
+"value":"8641438.0"
+},
+{
+"source":"Other Paper Producers",
+"target":"Methane (CH4) emissions",
+"value":"26496.0"
+},
+{
+"source":"Other Paper Producers",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"40957.0"
+},
+{
+"source":"Refineries",
+"target":"Petroleum Refineries",
+"value":"178300413.0"
+},
+{
+"source":"Petroleum Refineries",
+"target":"CO2 emissions (non-biogenic)",
+"value":"177470024.0"
+},
+{
+"source":"Petroleum Refineries",
+"target":"Methane (CH4) emissions",
+"value":"983430.0"
+},
+{
+"source":"Petroleum Refineries",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"470015.0"
+},
+{
+"source":"Waste",
+"target":"Municipal Landfills",
+"value":"94099968.0"
+},
+{
+"source":"Municipal Landfills",
+"target":"CO2 emissions (non-biogenic)",
+"value":"1331851.0"
+},
+{
+"source":"Municipal Landfills",
+"target":"Methane (CH4) emissions",
+"value":"92778020.0"
+},
+{
+"source":"Municipal Landfills",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"64602.0"
+},
+{
+"source":"Waste",
+"target":"Industrial Waste Landfills",
+"value":"9197665.0"
+},
+{
+"source":"Industrial Waste Landfills",
+"target":"Methane (CH4) emissions",
+"value":"2721478.0"
+},
+{
+"source":"Industrial Waste Landfills",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"61193.0"
+},
+{
+"source":"Waste",
+"target":"Industrial Wastewater Treatment",
+"value":"2564763.0"
+},
+{
+"source":"Industrial Wastewater Treatment",
+"target":"Methane (CH4) emissions",
+"value":"2542968.0"
+},
+{
+"source":"Industrial Wastewater Treatment",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"53262.0"
+},
+{
+"source":"Waste",
+"target":"Solid Waste Combustion",
+"value":"9587532.0"
+},
+{
+"source":"Solid Waste Combustion",
+"target":"CO2 emissions (non-biogenic)",
+"value":"9063589.0"
+},
+{
+"source":"Solid Waste Combustion",
+"target":"Methane (CH4) emissions",
+"value":"204494.0"
+},
+{
+"source":"Solid Waste Combustion",
+"target":"Nitrous Oxide (N2O) emissions",
+"value":"319449.0"
+}
+],
+"nodes":[
+{
+"name":"Chemicals"
+},
+{
+"name":"Adipic Acid Production"
+},
+{
+"name":"CO2 emissions (non-biogenic)"
+},
+{
+"name":"Methane (CH4) emissions"
+},
+{
+"name":"Nitrous Oxide (N2O) emissions"
+},
+{
+"name":"Ammonia Manufacturing"
+},
+{
+"name":"Fluorinated GHG Production"
+},
+{
+"name":"HFC emissions"
+},
+{
+"name":"HCFC-22 Production from HFC-23 Destruction"
+},
+{
+"name":"Hydrogen Production"
+},
+{
+"name":"Nitric Acid Production"
+},
+{
+"name":"Petrochemical Production"
+},
+{
+"name":"Phosphoric Acid Production"
+},
+{
+"name":"Silicon Carbide Production"
+},
+{
+"name":"Titanium Dioxide Production"
+},
+{
+"name":"Other Chemicals"
+},
+{
+"name":"Metals"
+},
+{
+"name":"Aluminum Production"
+},
+{
+"name":"PFC emissions"
+},
+{
+"name":"Ferroalloy Production"
+},
+{
+"name":"Iron and Steel Production"
+},
+{
+"name":"Lead Production"
+},
+{
+"name":"Magnesium Production"
+},
+{
+"name":"SF6 emissions"
+},
+{
+"name":"Gases with No Listed GWP (metric tons)"
+},
+{
+"name":"Zinc Production"
+},
+{
+"name":"Other Metals"
+},
+{
+"name":"Minerals"
+},
+{
+"name":"Cement Production"
+},
+{
+"name":"Glass Production"
+},
+{
+"name":"Lime Manufacturing"
+},
+{
+"name":"Soda Ash Production"
+},
+{
+"name":"Other Minerals"
+},
+{
+"name":"Other"
+},
+{
+"name":"Use of Electrical Equipment"
+},
+{
+"name":"Underground Coal Mines"
+},
+{
+"name":"Electronics Manufacturing"
+},
+{
+"name":"NF3 emissions"
+},
+{
+"name":"Manufacture of Electric Transmission and Distribution Equipment"
+},
+{
+"name":"Ethanol Production"
+},
+{
+"name":"Food Processing"
+},
+{
+"name":"Manufacturing"
+},
+{
+"name":"Military"
+},
+{
+"name":"Universities"
+},
+{
+"name":"Petroleum and Natural Gas Systems"
+},
+{
+"name":"Offshore Petroleum & Natural Gas Production"
+},
+{
+"name":"Onshore Petroleum & Natural Gas Production"
+},
+{
+"name":"Natural Gas Processing"
+},
+{
+"name":"Natural Gas Transmission/Compression"
+},
+{
+"name":"Underground Natural Gas Storage"
+},
+{
+"name":"Liquefied Natural Gas Storage"
+},
+{
+"name":"Liquefied Natural Gas Imp./Exp. Equipment"
+},
+{
+"name":"Natural Gas Local Distribution Companies"
+},
+{
+"name":"Other Petroleum and Natural Gas Systems"
+},
+{
+"name":"Power Plants"
+},
+{
+"name":"Electricity Generation"
+},
+{
+"name":"Pulp and Paper"
+},
+{
+"name":"Pulp and Paper Production"
+},
+{
+"name":"Other Paper Producers"
+},
+{
+"name":"Refineries"
+},
+{
+"name":"Petroleum Refineries"
+},
+{
+"name":"Waste"
+},
+{
+"name":"Municipal Landfills"
+},
+{
+"name":"Industrial Waste Landfills"
+},
+{
+"name":"Industrial Wastewater Treatment"
+},
+{
+"name":"Solid Waste Combustion"
+}
+]
+}

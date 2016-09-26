@@ -1,0 +1,84 @@
+{"state": "Nebraska",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 17, "key": 221112, "year": "2010", "emission_amount": 24282092.480000004},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 1, "key": 221330, "year": "2010", "emission_amount": 2057.9920000000002},
+     {"emission_type": ["Wet Corn Milling"], "number_of_locations": 2, "key": 311221, "year": "2010", "emission_amount": 1414980.4199999999},
+     {"emission_type": ["Soybean Processing"], "number_of_locations": 2, "key": 311222, "year": "2010", "emission_amount": 445942.09600000002},
+     {"emission_type": ["Breakfast Cereal Manufacturing"], "number_of_locations": 1, "key": 311230, "year": "2010", "emission_amount": 40207.148000000001},
+     {"emission_type": ["Beet Sugar Manufacturing"], "number_of_locations": 1, "key": 311313, "year": "2010", "emission_amount": 260266.97},
+     {"emission_type": ["Animal (except Poultry) Slaughtering"], "number_of_locations": 6, "key": 311611, "year": "2010", "emission_amount": 249282.67600000001},
+     {"emission_type": ["Ethyl Alcohol Manufacturing"], "number_of_locations": 19, "key": 325193, "year": "2010", "emission_amount": 1735970.2200000002},
+     {"emission_type": ["All Other Basic Organic Chemical Manufacturing"], "number_of_locations": 1, "key": 325199, "year": "2010", "emission_amount": 9.8640000000000008},
+     {"emission_type": ["Nitrogenous Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325311, "year": "2010", "emission_amount": 505364.28999999998},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2010", "emission_amount": 519724.40000000002},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2010", "emission_amount": 203658.976},
+     {"emission_type": ["Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing"], "number_of_locations": 1, "key": 333415, "year": "2010", "emission_amount": 57741.432000000001},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 5, "key": 486210, "year": "2010", "emission_amount": 328757.46600000001},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 11, "key": 562212, "year": "2010", "emission_amount": 977261.34069999994},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 2, "key": 611310, "year": "2010", "emission_amount": 64806.453999999998}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 17, "key": 221112, "year": "2011", "emission_amount": 26199364.766000003},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 1, "key": 221330, "year": "2011", "emission_amount": 2134.692},
+     {"emission_type": ["Wet Corn Milling"], "number_of_locations": 2, "key": 311221, "year": "2011", "emission_amount": 1497497.6880000001},
+     {"emission_type": ["Soybean Processing"], "number_of_locations": 2, "key": 311222, "year": "2011", "emission_amount": 423258.01000000001},
+     {"emission_type": ["Breakfast Cereal Manufacturing"], "number_of_locations": 1, "key": 311230, "year": "2011", "emission_amount": 37461.160000000003},
+     {"emission_type": ["Beet Sugar Manufacturing"], "number_of_locations": 1, "key": 311313, "year": "2011", "emission_amount": 240467.31400000001},
+     {"emission_type": ["Animal (except Poultry) Slaughtering"], "number_of_locations": 6, "key": 311611, "year": "2011", "emission_amount": 330844.30599999998},
+     {"emission_type": ["Ethyl Alcohol Manufacturing"], "number_of_locations": 19, "key": 325193, "year": "2011", "emission_amount": 1761969.5199999998},
+     {"emission_type": ["Plastics Material and Resin Manufacturing"], "number_of_locations": 1, "key": 325211, "year": "2011", "emission_amount": 41100.196000000004},
+     {"emission_type": ["Nitrogenous Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325311, "year": "2011", "emission_amount": 572513.02399999998},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2011", "emission_amount": 805528.52000000002},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2011", "emission_amount": 217901.23199999999},
+     {"emission_type": ["Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing"], "number_of_locations": 1, "key": 333415, "year": "2011", "emission_amount": 53890.946000000004},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 5, "key": 486210, "year": "2011", "emission_amount": 332988.27399999998},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 11, "key": 562212, "year": "2011", "emission_amount": 870228.60314999998},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 2, "key": 611310, "year": "2011", "emission_amount": 59667.373999999996}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 17, "key": 221112, "year": "2012", "emission_amount": 25068769.181999996},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2012", "emission_amount": 1791.192},
+     {"emission_type": ["Wet Corn Milling"], "number_of_locations": 2, "key": 311221, "year": "2012", "emission_amount": 1625947.4879999999},
+     {"emission_type": ["Soybean Processing"], "number_of_locations": 2, "key": 311222, "year": "2012", "emission_amount": 415894.39800000004},
+     {"emission_type": ["Breakfast Cereal Manufacturing"], "number_of_locations": 1, "key": 311230, "year": "2012", "emission_amount": 36814.712},
+     {"emission_type": ["Beet Sugar Manufacturing"], "number_of_locations": 1, "key": 311313, "year": "2012", "emission_amount": 260765.67000000001},
+     {"emission_type": ["Animal (except Poultry) Slaughtering"], "number_of_locations": 6, "key": 311611, "year": "2012", "emission_amount": 311413.67599999998},
+     {"emission_type": ["Ethyl Alcohol Manufacturing"], "number_of_locations": 20, "key": 325193, "year": "2012", "emission_amount": 1705646.2139999997},
+     {"emission_type": ["Plastics Material and Resin Manufacturing"], "number_of_locations": 1, "key": 325211, "year": "2012", "emission_amount": 41356.743999999999},
+     {"emission_type": ["Nitrogenous Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325311, "year": "2012", "emission_amount": 514627.46799999999},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2012", "emission_amount": 678085.01000000001},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2012", "emission_amount": 193606.13200000001},
+     {"emission_type": ["Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing"], "number_of_locations": 1, "key": 333415, "year": "2012", "emission_amount": 51569.351999999999},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 5, "key": 486210, "year": "2012", "emission_amount": 335625.41799999995},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 13, "key": 562212, "year": "2012", "emission_amount": 845297.8991690001},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 2, "key": 611310, "year": "2012", "emission_amount": 53258.699999999997}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 16, "key": 221112, "year": "2013", "emission_amount": 26845937.563999996},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 1, "key": 221330, "year": "2013", "emission_amount": 80.799999999999997},
+     {"emission_type": ["Wet Corn Milling"], "number_of_locations": 2, "key": 311221, "year": "2013", "emission_amount": 1590105.612},
+     {"emission_type": ["Soybean Processing"], "number_of_locations": 2, "key": 311222, "year": "2013", "emission_amount": 369019.94799999997},
+     {"emission_type": ["Breakfast Cereal Manufacturing"], "number_of_locations": 1, "key": 311230, "year": "2013", "emission_amount": 35378.116000000002},
+     {"emission_type": ["Beet Sugar Manufacturing"], "number_of_locations": 1, "key": 311313, "year": "2013", "emission_amount": 207224.17800000001},
+     {"emission_type": ["Animal (except Poultry) Slaughtering"], "number_of_locations": 6, "key": 311611, "year": "2013", "emission_amount": 328728.75599999999},
+     {"emission_type": ["Ethyl Alcohol Manufacturing"], "number_of_locations": 18, "key": 325193, "year": "2013", "emission_amount": 1620140.716},
+     {"emission_type": ["Plastics Material and Resin Manufacturing"], "number_of_locations": 1, "key": 325211, "year": "2013", "emission_amount": 0.0},
+     {"emission_type": ["Nitrogenous Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325311, "year": "2013", "emission_amount": 579323.60400000005},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2013", "emission_amount": 654563.09999999998},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2013", "emission_amount": 189319.236},
+     {"emission_type": ["Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing"], "number_of_locations": 1, "key": 333415, "year": "2013", "emission_amount": 57159.633999999998},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 5, "key": 486210, "year": "2013", "emission_amount": 285828.16200000001},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 14, "key": 562212, "year": "2013", "emission_amount": 922897.81599999988},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 2, "key": 611310, "year": "2013", "emission_amount": 61111.509999999995}
+   ]
+  }
+ ]
+}

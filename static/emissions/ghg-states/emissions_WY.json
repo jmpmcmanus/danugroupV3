@@ -1,0 +1,88 @@
+{"state": "Wyoming",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Crude Petroleum and Natural Gas Extraction"], "number_of_locations": 40, "key": 211111, "year": "2010", "emission_amount": 3285254.7280000001},
+     {"emission_type": ["Natural Gas Liquid Extraction"], "number_of_locations": 7, "key": 211112, "year": "2010", "emission_amount": 1061082.3500000001},
+     {"emission_type": ["Clay and Ceramic and Refractory Minerals Mining"], "number_of_locations": 1, "key": 212325, "year": "2010", "emission_amount": 42988.0},
+     {"emission_type": ["Potash", " Soda", " and Borate Mineral Mining"], "number_of_locations": 4, "key": 212391, "year": "2010", "emission_amount": 5139520.3480000002},
+     {"emission_type": ["Support Activities for Oil and Gas Operations"], "number_of_locations": 9, "key": 213112, "year": "2010", "emission_amount": 425473.04200000002},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 15, "key": 221112, "year": "2010", "emission_amount": 45669395.860000014},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 1, "key": 221330, "year": "2010", "emission_amount": 50143.360000000001},
+     {"emission_type": ["Beet Sugar Manufacturing"], "number_of_locations": 3, "key": 311313, "year": "2010", "emission_amount": 154252.41},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 6, "key": 324110, "year": "2010", "emission_amount": 1872391.8859999999},
+     {"emission_type": ["All Other Petroleum and Coal Products Manufacturing"], "number_of_locations": 1, "key": 324199, "year": "2010", "emission_amount": 203816.5},
+     {"emission_type": ["Nitrogenous Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325311, "year": "2010", "emission_amount": 425376.36200000002},
+     {"emission_type": ["Phosphatic Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325312, "year": "2010", "emission_amount": 64488.095999999998},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2010", "emission_amount": 500890.40000000002},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 1, "key": 327410, "year": "2010", "emission_amount": 162998.68599999999},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 1, "key": 327420, "year": "2010", "emission_amount": 31901.880000000001},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 11, "key": 486210, "year": "2010", "emission_amount": 774753.21900000004},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 2, "key": 562212, "year": "2010", "emission_amount": 126902.25}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Crude Petroleum and Natural Gas Extraction"], "number_of_locations": 45, "key": 211111, "year": "2011", "emission_amount": 7582711.4199999999},
+     {"emission_type": ["Natural Gas Liquid Extraction"], "number_of_locations": 10, "key": 211112, "year": "2011", "emission_amount": 1715386.5899999999},
+     {"emission_type": ["Clay and Ceramic and Refractory Minerals Mining"], "number_of_locations": 1, "key": 212325, "year": "2011", "emission_amount": 46662.637999999999},
+     {"emission_type": ["Potash", " Soda", " and Borate Mineral Mining"], "number_of_locations": 5, "key": 212391, "year": "2011", "emission_amount": 5366922.459999999},
+     {"emission_type": ["Support Activities for Oil and Gas Operations"], "number_of_locations": 10, "key": 213112, "year": "2011", "emission_amount": 622791.85599999991},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 16, "key": 221112, "year": "2011", "emission_amount": 44305361.439999998},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 1, "key": 221330, "year": "2011", "emission_amount": 52624.379999999997},
+     {"emission_type": ["Beet Sugar Manufacturing"], "number_of_locations": 3, "key": 311313, "year": "2011", "emission_amount": 164048.95000000001},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 6, "key": 324110, "year": "2011", "emission_amount": 1933940.7400000002},
+     {"emission_type": ["All Other Petroleum and Coal Products Manufacturing"], "number_of_locations": 1, "key": 324199, "year": "2011", "emission_amount": 223533.76000000001},
+     {"emission_type": ["Nitrogenous Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325311, "year": "2011", "emission_amount": 386484.41999999998},
+     {"emission_type": ["Phosphatic Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325312, "year": "2011", "emission_amount": 59910.796000000002},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2011", "emission_amount": 545380.30000000005},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 1, "key": 327410, "year": "2011", "emission_amount": 151151.18400000001},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 1, "key": 327420, "year": "2011", "emission_amount": 29342.139999999999},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 13, "key": 486210, "year": "2011", "emission_amount": 868677.076},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 2, "key": 562212, "year": "2011", "emission_amount": 128034.5}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Crude Petroleum and Natural Gas Extraction"], "number_of_locations": 45, "key": 211111, "year": "2012", "emission_amount": 7995595.5980000012},
+     {"emission_type": ["Natural Gas Liquid Extraction"], "number_of_locations": 10, "key": 211112, "year": "2012", "emission_amount": 1735938.402},
+     {"emission_type": ["Clay and Ceramic and Refractory Minerals Mining"], "number_of_locations": 1, "key": 212325, "year": "2012", "emission_amount": 42023.18},
+     {"emission_type": ["Potash", " Soda", " and Borate Mineral Mining"], "number_of_locations": 5, "key": 212391, "year": "2012", "emission_amount": 5566044.3719999995},
+     {"emission_type": ["Support Activities for Oil and Gas Operations"], "number_of_locations": 10, "key": 213112, "year": "2012", "emission_amount": 741702.21999999997},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 16, "key": 221112, "year": "2012", "emission_amount": 46023215.074000001},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 1, "key": 221330, "year": "2012", "emission_amount": 44805.190000000002},
+     {"emission_type": ["Beet Sugar Manufacturing"], "number_of_locations": 3, "key": 311313, "year": "2012", "emission_amount": 207472.32199999999},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 6, "key": 324110, "year": "2012", "emission_amount": 1824572.9680000001},
+     {"emission_type": ["All Other Petroleum and Coal Products Manufacturing"], "number_of_locations": 1, "key": 324199, "year": "2012", "emission_amount": 214996.70999999999},
+     {"emission_type": ["Nitrogenous Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325311, "year": "2012", "emission_amount": 469893.40600000002},
+     {"emission_type": ["Phosphatic Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325312, "year": "2012", "emission_amount": 72537.207999999999},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2012", "emission_amount": 291735.40000000002},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 1, "key": 327410, "year": "2012", "emission_amount": 181941.682},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 1, "key": 327420, "year": "2012", "emission_amount": 27149.948},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 15, "key": 486210, "year": "2012", "emission_amount": 852027.15599999996},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 2, "key": 562212, "year": "2012", "emission_amount": 129175.25}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Crude Petroleum and Natural Gas Extraction"], "number_of_locations": 41, "key": 211111, "year": "2013", "emission_amount": 5990354.9000000004},
+     {"emission_type": ["Natural Gas Liquid Extraction"], "number_of_locations": 10, "key": 211112, "year": "2013", "emission_amount": 1712970.4580000001},
+     {"emission_type": ["Clay and Ceramic and Refractory Minerals Mining"], "number_of_locations": 1, "key": 212325, "year": "2013", "emission_amount": 38502.199999999997},
+     {"emission_type": ["Potash", " Soda", " and Borate Mineral Mining"], "number_of_locations": 5, "key": 212391, "year": "2013", "emission_amount": 5760511.5120000001},
+     {"emission_type": ["Support Activities for Oil and Gas Operations"], "number_of_locations": 10, "key": 213112, "year": "2013", "emission_amount": 580300.23600000003},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 15, "key": 221112, "year": "2013", "emission_amount": 48780669.891999997},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 1, "key": 221330, "year": "2013", "emission_amount": 48500.413999999997},
+     {"emission_type": ["Beet Sugar Manufacturing"], "number_of_locations": 3, "key": 311313, "year": "2013", "emission_amount": 191151.73999999999},
+     {"emission_type": ["Petroleum Refineries"], "number_of_locations": 6, "key": 324110, "year": "2013", "emission_amount": 1878349.3019999999},
+     {"emission_type": ["All Other Petroleum and Coal Products Manufacturing"], "number_of_locations": 1, "key": 324199, "year": "2013", "emission_amount": 184991.64999999999},
+     {"emission_type": ["Nitrogenous Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325311, "year": "2013", "emission_amount": 509911.65000000002},
+     {"emission_type": ["Phosphatic Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325312, "year": "2013", "emission_amount": 70781.669999999998},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 1, "key": 327310, "year": "2013", "emission_amount": 606998.29200000002},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 1, "key": 327410, "year": "2013", "emission_amount": 186916.29199999999},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 1, "key": 327420, "year": "2013", "emission_amount": 22900.364000000001},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 17, "key": 486210, "year": "2013", "emission_amount": 751727.97600000002},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 3, "key": 562212, "year": "2013", "emission_amount": 154635.658}
+   ]
+  }
+ ]
+}

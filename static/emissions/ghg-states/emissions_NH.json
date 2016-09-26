@@ -1,0 +1,52 @@
+{"state": "New Hampshire",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 5, "key": 221112, "year": "2010", "emission_amount": 5400646.2320000008},
+     {"emission_type": ["Other Electric Power Generation - solar electric power generation"], "number_of_locations": 1, "key": 221119, "year": "2010", "emission_amount": 6007.8999999999996},
+     {"emission_type": ["Breweries"], "number_of_locations": 1, "key": 312120, "year": "2010", "emission_amount": 22611.297999999999},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 1, "key": 322121, "year": "2010", "emission_amount": 59597.552000000003},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 2, "key": 327420, "year": "2010", "emission_amount": 62030.414000000004},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 5, "key": 562212, "year": "2010", "emission_amount": 317119.70017500001},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 2, "key": 562213, "year": "2010", "emission_amount": 94547.002000000008},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2010", "emission_amount": 55062.124000000003}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 5, "key": 221112, "year": "2011", "emission_amount": 5049381.4220000003},
+     {"emission_type": ["Other Electric Power Generation - solar electric power generation"], "number_of_locations": 1, "key": 221119, "year": "2011", "emission_amount": 5457.1599999999999},
+     {"emission_type": ["Breweries"], "number_of_locations": 1, "key": 312120, "year": "2011", "emission_amount": 20667.112000000001},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 1, "key": 322121, "year": "2011", "emission_amount": 19500.830000000002},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 2, "key": 327420, "year": "2011", "emission_amount": 65422.104000000007},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 5, "key": 562212, "year": "2011", "emission_amount": 364666.75375100004},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 2, "key": 562213, "year": "2011", "emission_amount": 101546.864},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2011", "emission_amount": 55677.012000000002}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 5, "key": 221112, "year": "2012", "emission_amount": 4242271.5939999996},
+     {"emission_type": ["Other Electric Power Generation - solar electric power generation"], "number_of_locations": 1, "key": 221119, "year": "2012", "emission_amount": 5763.8999999999996},
+     {"emission_type": ["Breweries"], "number_of_locations": 1, "key": 312120, "year": "2012", "emission_amount": 18221.462},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 1, "key": 322121, "year": "2012", "emission_amount": 52009.199999999997},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 2, "key": 327420, "year": "2012", "emission_amount": 65646.051999999996},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 5, "key": 562212, "year": "2012", "emission_amount": 282839.41928700003},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 2, "key": 562213, "year": "2012", "emission_amount": 100545.072},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2012", "emission_amount": 43870.650000000001}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 5, "key": 221112, "year": "2013", "emission_amount": 3342108.926},
+     {"emission_type": ["Other Electric Power Generation - solar electric power generation"], "number_of_locations": 1, "key": 221119, "year": "2013", "emission_amount": 6251.8999999999996},
+     {"emission_type": ["Breweries"], "number_of_locations": 1, "key": 312120, "year": "2013", "emission_amount": 16401.245999999999},
+     {"emission_type": ["Paper (except Newsprint) Mills"], "number_of_locations": 1, "key": 322121, "year": "2013", "emission_amount": 51411.423999999999},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 2, "key": 327420, "year": "2013", "emission_amount": 72469.928},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 5, "key": 562212, "year": "2013", "emission_amount": 309710.14800000004},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 2, "key": 562213, "year": "2013", "emission_amount": 95002.712},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2013", "emission_amount": 42910.966}
+   ]
+  }
+ ]
+}

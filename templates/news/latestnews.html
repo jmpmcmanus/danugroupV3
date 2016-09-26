@@ -1,0 +1,7 @@
+{% for news in latestnews %}
+  {% autoescape off %}
+  <ul>
+      <li class="danunews"><a href={{ news.url }} class="danunews" target=_blank title="{{ news.title }}">{{ news.title }}</a></li>
+  </ul>
+  {% endautoescape %}
+{% endfor %}

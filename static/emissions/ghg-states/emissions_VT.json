@@ -1,0 +1,50 @@
+{"state": "Vermont",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Crushed and Broken Limestone Mining and Quarrying"], "number_of_locations": 1, "key": 212312, "year": "2010", "emission_amount": 30791.599999999999},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 1, "key": 221112, "year": "2010", "emission_amount": 11680.958000000001},
+     {"emission_type": ["Other Electric Power Generation - solar electric power generation"], "number_of_locations": 1, "key": 221119, "year": "2010", "emission_amount": 143.17599999999999},
+     {"emission_type": ["Cheese Manufacturing"], "number_of_locations": 1, "key": 311513, "year": "2010", "emission_amount": 26536.099999999999},
+     {"emission_type": ["Paperboard Mills"], "number_of_locations": 1, "key": 322130, "year": "2010", "emission_amount": 38380.356},
+     {"emission_type": ["Semiconductor and Related Device Manufacturing"], "number_of_locations": 1, "key": 334413, "year": "2010", "emission_amount": 38621.260000000002},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 2, "key": 562212, "year": "2010", "emission_amount": 114397.7},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2010", "emission_amount": 28358.099999999999}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Crushed and Broken Limestone Mining and Quarrying"], "number_of_locations": 1, "key": 212312, "year": "2011", "emission_amount": 28426.040000000001},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 1, "key": 221112, "year": "2011", "emission_amount": 9861.4840000000004},
+     {"emission_type": ["Other Electric Power Generation - solar electric power generation"], "number_of_locations": 1, "key": 221119, "year": "2011", "emission_amount": 143.17599999999999},
+     {"emission_type": ["Cheese Manufacturing"], "number_of_locations": 1, "key": 311513, "year": "2011", "emission_amount": 25936.900000000001},
+     {"emission_type": ["Paperboard Mills"], "number_of_locations": 1, "key": 322130, "year": "2011", "emission_amount": 38231.904000000002},
+     {"emission_type": ["Semiconductor and Related Device Manufacturing"], "number_of_locations": 1, "key": 334413, "year": "2011", "emission_amount": 360309.89240000001},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 2, "key": 562212, "year": "2011", "emission_amount": 124241.29999999999},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2011", "emission_amount": 27104.794000000002}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Crushed and Broken Limestone Mining and Quarrying"], "number_of_locations": 1, "key": 212312, "year": "2012", "emission_amount": 30204.212},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 1, "key": 221112, "year": "2012", "emission_amount": 8707.3719999999994},
+     {"emission_type": ["Other Electric Power Generation - solar electric power generation"], "number_of_locations": 1, "key": 221119, "year": "2012", "emission_amount": 157.28},
+     {"emission_type": ["Paperboard Mills"], "number_of_locations": 1, "key": 322130, "year": "2012", "emission_amount": 35280.016000000003},
+     {"emission_type": ["Semiconductor and Related Device Manufacturing"], "number_of_locations": 1, "key": 334413, "year": "2012", "emission_amount": 326172.77299999999},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 2, "key": 562212, "year": "2012", "emission_amount": 121687.85000000001},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2012", "emission_amount": 22832.162}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Crushed and Broken Limestone Mining and Quarrying"], "number_of_locations": 1, "key": 212312, "year": "2013", "emission_amount": 33274.0},
+     {"emission_type": ["Other Electric Power Generation - solar electric power generation"], "number_of_locations": 1, "key": 221119, "year": "2013", "emission_amount": 146.56},
+     {"emission_type": ["Cheese Manufacturing"], "number_of_locations": 1, "key": 311513, "year": "2013", "emission_amount": 25975.700000000001},
+     {"emission_type": ["Paperboard Mills"], "number_of_locations": 1, "key": 322130, "year": "2013", "emission_amount": 36088.112000000001},
+     {"emission_type": ["Semiconductor and Related Device Manufacturing"], "number_of_locations": 1, "key": 334413, "year": "2013", "emission_amount": 272114.66159999999},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 2, "key": 562212, "year": "2013", "emission_amount": 100143.5},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 1, "key": 611310, "year": "2013", "emission_amount": 28591.68}
+   ]
+  }
+ ]
+}

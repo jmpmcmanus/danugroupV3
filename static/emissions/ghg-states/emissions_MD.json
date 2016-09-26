@@ -1,0 +1,87 @@
+{"state": "Maryland",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Bituminous Coal Underground Mining"], "number_of_locations": 1, "key": 212112, "year": "2010", "emission_amount": 63131.608},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 18, "key": 221112, "year": "2010", "emission_amount": 25620783.932000007},
+     {"emission_type": ["Natural Gas Distribution"], "number_of_locations": 1, "key": 221210, "year": "2010", "emission_amount": 29.591999999999999},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2010", "emission_amount": 84561.957999999999},
+     {"emission_type": ["Other Animal Food Manufacturing"], "number_of_locations": 1, "key": 311119, "year": "2010", "emission_amount": 37419.432000000001},
+     {"emission_type": ["Cane Sugar Refining"], "number_of_locations": 1, "key": 311312, "year": "2010", "emission_amount": 118671.53999999999},
+     {"emission_type": ["Pulp Mills"], "number_of_locations": 1, "key": 322110, "year": "2010", "emission_amount": 917917.78799999994},
+     {"emission_type": ["All Other Basic Inorganic Chemical Manufacturing"], "number_of_locations": 1, "key": 325188, "year": "2010", "emission_amount": 100395.966},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 2, "key": 327310, "year": "2010", "emission_amount": 1633142.29},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 1, "key": 327420, "year": "2010", "emission_amount": 64761.856},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2010", "emission_amount": 2114042.1880000001},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 2, "key": 486210, "year": "2010", "emission_amount": 278686.92599999998},
+     {"emission_type": ["Facilities Support Services"], "number_of_locations": 1, "key": 561210, "year": "2010", "emission_amount": 180796.666},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 24, "key": 562212, "year": "2010", "emission_amount": 1501362.4513139999},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 3, "key": 562213, "year": "2010", "emission_amount": 531608.848},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 2, "key": 611310, "year": "2010", "emission_amount": 149653.12599999999},
+     {"emission_type": ["General Medical and Surgical Hospitals"], "number_of_locations": 1, "key": 622110, "year": "2010", "emission_amount": 69133.182000000001},
+     {"emission_type": ["National Security"], "number_of_locations": 5, "key": 928110, "year": "2010", "emission_amount": 276346.53999999998}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Bituminous Coal Underground Mining"], "number_of_locations": 2, "key": 212112, "year": "2011", "emission_amount": 75841.394},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 18, "key": 221112, "year": "2011", "emission_amount": 22659299.375999998},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2011", "emission_amount": 81358.975999999995},
+     {"emission_type": ["Other Animal Food Manufacturing"], "number_of_locations": 1, "key": 311119, "year": "2011", "emission_amount": 39588.955999999998},
+     {"emission_type": ["Cane Sugar Refining"], "number_of_locations": 1, "key": 311312, "year": "2011", "emission_amount": 99266.490000000005},
+     {"emission_type": ["Pulp Mills"], "number_of_locations": 1, "key": 322110, "year": "2011", "emission_amount": 960688.66799999995},
+     {"emission_type": ["All Other Basic Inorganic Chemical Manufacturing"], "number_of_locations": 1, "key": 325188, "year": "2011", "emission_amount": 98125.034},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 2, "key": 327310, "year": "2011", "emission_amount": 1577606.466},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 1, "key": 327420, "year": "2011", "emission_amount": 53500.548000000003},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2011", "emission_amount": 2330491.27},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 3, "key": 486210, "year": "2011", "emission_amount": 334644.27800000005},
+     {"emission_type": ["Facilities Support Services"], "number_of_locations": 1, "key": 561210, "year": "2011", "emission_amount": 195314.21400000001},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 23, "key": 562212, "year": "2011", "emission_amount": 1324752.4249999998},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 3, "key": 562213, "year": "2011", "emission_amount": 538304.4580000001},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 2, "key": 611310, "year": "2011", "emission_amount": 156542.71400000001},
+     {"emission_type": ["General Medical and Surgical Hospitals"], "number_of_locations": 1, "key": 622110, "year": "2011", "emission_amount": 61722.748},
+     {"emission_type": ["National Security"], "number_of_locations": 5, "key": 928110, "year": "2011", "emission_amount": 261825.78200000001}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Bituminous Coal Underground Mining"], "number_of_locations": 2, "key": 212112, "year": "2012", "emission_amount": 66846.176000000007},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 18, "key": 221112, "year": "2012", "emission_amount": 18844115.018000003},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2012", "emission_amount": 63760.959999999999},
+     {"emission_type": ["Other Animal Food Manufacturing"], "number_of_locations": 1, "key": 311119, "year": "2012", "emission_amount": 40877.760000000002},
+     {"emission_type": ["Cane Sugar Refining"], "number_of_locations": 1, "key": 311312, "year": "2012", "emission_amount": 98156.869999999995},
+     {"emission_type": ["Pulp Mills"], "number_of_locations": 1, "key": 322110, "year": "2012", "emission_amount": 919070.32999999996},
+     {"emission_type": ["All Other Basic Inorganic Chemical Manufacturing"], "number_of_locations": 1, "key": 325188, "year": "2012", "emission_amount": 98074.179999999993},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 2, "key": 327310, "year": "2012", "emission_amount": 2106835.608},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 1, "key": 327420, "year": "2012", "emission_amount": 51067.408000000003},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 3, "key": 486210, "year": "2012", "emission_amount": 270970.26400000002},
+     {"emission_type": ["Facilities Support Services"], "number_of_locations": 1, "key": 561210, "year": "2012", "emission_amount": 174527.40599999999},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 23, "key": 562212, "year": "2012", "emission_amount": 1059477.45},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 3, "key": 562213, "year": "2012", "emission_amount": 547604.60999999999},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 2, "key": 611310, "year": "2012", "emission_amount": 157436.61199999999},
+     {"emission_type": ["General Medical and Surgical Hospitals"], "number_of_locations": 1, "key": 622110, "year": "2012", "emission_amount": 77657.754000000001},
+     {"emission_type": ["National Security"], "number_of_locations": 5, "key": 928110, "year": "2012", "emission_amount": 253097.78400000001}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Bituminous Coal Underground Mining"], "number_of_locations": 2, "key": 212112, "year": "2013", "emission_amount": 55079.887999999999},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 17, "key": 221112, "year": "2013", "emission_amount": 17134865.801999994},
+     {"emission_type": ["Steam and Air-Conditioning Supply"], "number_of_locations": 2, "key": 221330, "year": "2013", "emission_amount": 57719.784},
+     {"emission_type": ["Other Animal Food Manufacturing"], "number_of_locations": 1, "key": 311119, "year": "2013", "emission_amount": 34058.980000000003},
+     {"emission_type": ["Cane Sugar Refining"], "number_of_locations": 1, "key": 311312, "year": "2013", "emission_amount": 101987.96400000001},
+     {"emission_type": ["Pulp Mills"], "number_of_locations": 1, "key": 322110, "year": "2013", "emission_amount": 790247.75199999998},
+     {"emission_type": ["All Other Basic Inorganic Chemical Manufacturing"], "number_of_locations": 1, "key": 325188, "year": "2013", "emission_amount": 119481.24800000001},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 2, "key": 327310, "year": "2013", "emission_amount": 2078679.5900000001},
+     {"emission_type": ["Gypsum Product Manufacturing"], "number_of_locations": 1, "key": 327420, "year": "2013", "emission_amount": 58201.080000000002},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 3, "key": 486210, "year": "2013", "emission_amount": 225828.96599999999},
+     {"emission_type": ["Facilities Support Services"], "number_of_locations": 1, "key": 561210, "year": "2013", "emission_amount": 243475.696},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 24, "key": 562212, "year": "2013", "emission_amount": 1018130.35},
+     {"emission_type": ["Solid Waste Combustors and Incinerators"], "number_of_locations": 3, "key": 562213, "year": "2013", "emission_amount": 546623.12599999993},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 2, "key": 611310, "year": "2013", "emission_amount": 164347.72400000002},
+     {"emission_type": ["General Medical and Surgical Hospitals"], "number_of_locations": 1, "key": 622110, "year": "2013", "emission_amount": 101539.11},
+     {"emission_type": ["National Security"], "number_of_locations": 5, "key": 928110, "year": "2013", "emission_amount": 244796.234}
+   ]
+  }
+ ]
+}

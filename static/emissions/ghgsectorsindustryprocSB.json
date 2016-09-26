@@ -1,0 +1,2514 @@
+{
+ "name":"emissions",
+ "children":[
+  {
+   "number_of_sites":6058,
+   "name":"2010",
+   "children":[
+    {
+     "number_of_sites":455,
+     "name":"Chemicals",
+     "children":[
+      {
+       "number_of_sites":3,
+       "name":"Adipic Acid Production",
+       "children":[
+        {
+         "number_of_sites":3,
+         "size":5851095.0479999995,
+         "name":"Adipic Acid Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":22,
+       "name":"Ammonia Manufacturing",
+       "children":[
+        {
+         "number_of_sites":22,
+         "size":24468942.219999999,
+         "name":"Ammonia Manufacturing and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":5,
+       "name":"HCFC-22 Production from HFC-23 Destruction",
+       "children":[
+        {
+         "number_of_sites":5,
+         "size":8596607.1060000006,
+         "name":"HCFC-22 Production and HFC-23 Destruction and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":104,
+       "name":"Hydrogen Production",
+       "children":[
+        {
+         "number_of_sites":18,
+         "size":6180795.9699999997,
+         "name":"Hydrogen Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":86,
+         "size":29249239.09869393,
+         "name":"Hydrogen Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":38,
+       "name":"Nitric Acid Production",
+       "children":[
+        {
+         "number_of_sites":15,
+         "size":2566223.5280000004,
+         "name":"Nitric Acid Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":23,
+         "size":9605457.8399999999,
+         "name":"Nitric Acid Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":64,
+       "name":"Petrochemical Production",
+       "children":[
+        {
+         "number_of_sites":58,
+         "size":51767771.987999991,
+         "name":"Petrochemical Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":6,
+         "size":294895.87400000001,
+         "name":"Petrochemical Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":13,
+       "name":"Phosphoric Acid Production",
+       "children":[
+        {
+         "number_of_sites":13,
+         "size":2030115.8659999999,
+         "name":"Phosphoric Acid Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":1,
+       "name":"Silicon Carbide Production",
+       "children":[
+        {
+         "number_of_sites":1,
+         "size":126482.894,
+         "name":"Silicon Carbide Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":8,
+       "name":"Titanium Dioxide Production",
+       "children":[
+        {
+         "number_of_sites":8,
+         "size":2757627.9739999999,
+         "name":"Titanium Dioxide Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":197,
+       "name":"Other Chemicals",
+       "children":[
+        {
+         "number_of_sites":197,
+         "size":19647463.013999995,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":268,
+     "name":"Metals",
+     "children":[
+      {
+       "number_of_sites":12,
+       "name":"Aluminum Production",
+       "children":[
+        {
+         "number_of_sites":11,
+         "size":4736089.0319999997,
+         "name":"Aluminum Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":1,
+         "size":520387.17999999999,
+         "name":"Aluminum Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":10,
+       "name":"Ferroalloy Production",
+       "children":[
+        {
+         "number_of_sites":10,
+         "size":2286314.6540000001,
+         "name":"Ferroalloy Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":124,
+       "name":"Iron and Steel Production",
+       "children":[
+        {
+         "number_of_sites":123,
+         "size":81941329.552000016,
+         "name":"Iron and Steel Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":1,
+         "size":40050.0,
+         "name":"Iron and Steel Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":12,
+       "name":"Lead Production",
+       "children":[
+        {
+         "number_of_sites":12,
+         "size":927921.78999999992,
+         "name":"Lead Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":6,
+       "name":"Zinc Production",
+       "children":[
+        {
+         "number_of_sites":6,
+         "size":794429.95599999989,
+         "name":"Zinc Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":104,
+       "name":"Other Metals",
+       "children":[
+        {
+         "number_of_sites":104,
+         "size":7613307.166000003,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":365,
+     "name":"Minerals",
+     "children":[
+      {
+       "number_of_sites":99,
+       "name":"Cement Production",
+       "children":[
+        {
+         "number_of_sites":90,
+         "size":52152320.992000021,
+         "name":"Cement Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":9,
+         "size":3334041.9360000002,
+         "name":"Cement Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":114,
+       "name":"Glass Production",
+       "children":[
+        {
+         "number_of_sites":112,
+         "size":8149117.3200000003,
+         "name":"Glass Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":2,
+         "size":40350.300000000003,
+         "name":"Glass Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":72,
+       "name":"Lime Manufacturing",
+       "children":[
+        {
+         "number_of_sites":70,
+         "size":29574829.13200001,
+         "name":"Lime Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":2,
+         "size":282949.0,
+         "name":"Lime Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":4,
+       "name":"Soda Ash Production",
+       "children":[
+        {
+         "number_of_sites":4,
+         "size":5101184.3480000002,
+         "name":"Soda Ash Manufacturing and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":76,
+       "name":"Other Minerals",
+       "children":[
+        {
+         "number_of_sites":76,
+         "size":3401162.2479999987,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":827,
+     "name":"Other",
+     "children":[
+      {
+       "number_of_sites":132,
+       "name":"Ethanol Production",
+       "children":[
+        {
+         "number_of_sites":132,
+         "size":14742148.014000002,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":269,
+       "name":"Food Processing",
+       "children":[
+        {
+         "number_of_sites":269,
+         "size":26418579.272000011,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":278,
+       "name":"Manufacturing",
+       "children":[
+        {
+         "number_of_sites":278,
+         "size":15571843.972803505,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":37,
+       "name":"Military",
+       "children":[
+        {
+         "number_of_sites":37,
+         "size":2344242.9819999994,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":111,
+       "name":"Universities",
+       "children":[
+        {
+         "number_of_sites":111,
+         "size":9591391.7059999965,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":886,
+     "name":"Petroleum and Natural Gas Systems",
+     "children":[
+      {
+       "number_of_sites":886,
+       "name":"Other Petroleum and Natural Gas Systems",
+       "children":[
+        {
+         "number_of_sites":886,
+         "size":65664797.027999982,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":1585,
+     "name":"Power Plants",
+     "children":[
+      {
+       "number_of_sites":1288,
+       "name":"Electricity Generation including Stationary Combustion",
+       "children":[
+        {
+         "number_of_sites":814,
+         "size":1510515229.9310408,
+         "name":"Electricity Generation and Stationary Combustion"
+        },
+        {
+         "number_of_sites":474,
+         "size":740954720.26500058,
+         "name":"Electricity Generation"
+        }
+       ]
+      },
+      {
+       "number_of_sites":297,
+       "name":"Electricity Generation",
+       "children":[
+        {
+         "number_of_sites":297,
+         "size":76368609.347000048,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":231,
+     "name":"Pulp and Paper",
+     "children":[
+      {
+       "number_of_sites":111,
+       "name":"Pulp and Paper Production",
+       "children":[
+        {
+         "number_of_sites":111,
+         "size":33343020.541999999,
+         "name":"Pulp and Paper Manufacturing and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":120,
+       "name":"Other Paper Producers",
+       "children":[
+        {
+         "number_of_sites":120,
+         "size":13977930.676000001,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":146,
+     "name":"Refineries",
+     "children":[
+      {
+       "number_of_sites":146,
+       "name":"Petroleum Refineries",
+       "children":[
+        {
+         "number_of_sites":146,
+         "size":177884104.87199998,
+         "name":"Petroleum Refining and Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":1295,
+     "name":"Waste",
+     "children":[
+      {
+       "number_of_sites":1226,
+       "name":"Municipal Landfills",
+       "children":[
+        {
+         "number_of_sites":545,
+         "size":53114382.169720031,
+         "name":"Municipal Landfills and Stationary Combustion"
+        },
+        {
+         "number_of_sites":681,
+         "size":48330055.576000012,
+         "name":"Municipal Landfills"
+        }
+       ]
+      },
+      {
+       "number_of_sites":69,
+       "name":"Solid Waste Combustion",
+       "children":[
+        {
+         "number_of_sites":69,
+         "size":8987274.0100000016,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number_of_sites":6858,
+   "name":"2011",
+   "children":[
+    {
+     "number_of_sites":470,
+     "name":"Chemicals",
+     "children":[
+      {
+       "number_of_sites":3,
+       "name":"Adipic Acid Production",
+       "children":[
+        {
+         "number_of_sites":3,
+         "size":11847978.790000001,
+         "name":"Adipic Acid Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":22,
+       "name":"Ammonia Manufacturing",
+       "children":[
+        {
+         "number_of_sites":22,
+         "size":24791377.242000002,
+         "name":"Ammonia Manufacturing and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":16,
+       "name":"Fluorinated GHG Production",
+       "children":[
+        {
+         "number_of_sites":13,
+         "size":6435759.445100002,
+         "name":"Fluorinated GHG Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":3,
+         "size":509520.93519999995,
+         "name":"Fluorinated GHG Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":5,
+       "name":"HCFC-22 Production from HFC-23 Destruction",
+       "children":[
+        {
+         "number_of_sites":5,
+         "size":8771214.0800000001,
+         "name":"HCFC-22 Production and HFC-23 Destruction"
+        }
+       ]
+      },
+      {
+       "number_of_sites":105,
+       "name":"Hydrogen Production",
+       "children":[
+        {
+         "number_of_sites":16,
+         "size":6388369.1419999991,
+         "name":"Hydrogen Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":89,
+         "size":31139362.573999997,
+         "name":"Hydrogen Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":36,
+       "name":"Nitric Acid Production",
+       "children":[
+        {
+         "number_of_sites":14,
+         "size":2934734.3499999996,
+         "name":"Nitric Acid Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":22,
+         "size":8560842.3820000011,
+         "name":"Nitric Acid Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":64,
+       "name":"Petrochemical Production",
+       "children":[
+        {
+         "number_of_sites":58,
+         "size":52523327.154000014,
+         "name":"Petrochemical Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":6,
+         "size":298263.37400000001,
+         "name":"Petrochemical Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":13,
+       "name":"Phosphoric Acid Production",
+       "children":[
+        {
+         "number_of_sites":13,
+         "size":2002126.6140000001,
+         "name":"Phosphoric Acid Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":1,
+       "name":"Silicon Carbide Production",
+       "children":[
+        {
+         "number_of_sites":1,
+         "size":141979.69200000001,
+         "name":"Silicon Carbide Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":7,
+       "name":"Titanium Dioxide Production",
+       "children":[
+        {
+         "number_of_sites":7,
+         "size":2356998.5480000004,
+         "name":"Titanium Dioxide Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":198,
+       "name":"Other Chemicals",
+       "children":[
+        {
+         "number_of_sites":198,
+         "size":18567451.965999994,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":286,
+     "name":"Metals",
+     "children":[
+      {
+       "number_of_sites":11,
+       "name":"Aluminum Production",
+       "children":[
+        {
+         "number_of_sites":11,
+         "size":7284944.8839999996,
+         "name":"Aluminum Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":10,
+       "name":"Ferroalloy Production",
+       "children":[
+        {
+         "number_of_sites":10,
+         "size":2310711.2459999998,
+         "name":"Ferroalloy Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":129,
+       "name":"Iron and Steel Production",
+       "children":[
+        {
+         "number_of_sites":129,
+         "size":89249057.780000016,
+         "name":"Iron and Steel Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":13,
+       "name":"Lead Production",
+       "children":[
+        {
+         "number_of_sites":13,
+         "size":1068327.7860000001,
+         "name":"Lead Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":9,
+       "name":"Magnesium Production",
+       "children":[
+        {
+         "number_of_sites":6,
+         "size":1492265.0622,
+         "name":"Magnesium Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":3,
+         "size":293064.35999999999,
+         "name":"Magnesium Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":6,
+       "name":"Zinc Production",
+       "children":[
+        {
+         "number_of_sites":6,
+         "size":900643.31199999992,
+         "name":"Zinc Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":108,
+       "name":"Other Metals",
+       "children":[
+        {
+         "number_of_sites":108,
+         "size":8760565.8680000007,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":368,
+     "name":"Minerals",
+     "children":[
+      {
+       "number_of_sites":98,
+       "name":"Cement Production",
+       "children":[
+        {
+         "number_of_sites":84,
+         "size":50215662.942000017,
+         "name":"Cement Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":14,
+         "size":5290765.1659999993,
+         "name":"Cement Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":112,
+       "name":"Glass Production",
+       "children":[
+        {
+         "number_of_sites":112,
+         "size":8438254.129999999,
+         "name":"Glass Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":74,
+       "name":"Lime Manufacturing",
+       "children":[
+        {
+         "number_of_sites":72,
+         "size":30296790.754000001,
+         "name":"Lime Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":2,
+         "size":274623.0,
+         "name":"Lime Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":4,
+       "name":"Soda Ash Production",
+       "children":[
+        {
+         "number_of_sites":4,
+         "size":5141788.9179999996,
+         "name":"Soda Ash Manufacturing and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":80,
+       "name":"Other Minerals",
+       "children":[
+        {
+         "number_of_sites":80,
+         "size":3545937.6219999976,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":892,
+     "name":"Other",
+     "children":[
+      {
+       "number_of_sites":107,
+       "name":"Use of Electrical Equipment",
+       "children":[
+        {
+         "number_of_sites":107,
+         "size":3922327.3200000008,
+         "name":"SF6 from Electrical Equipment"
+        }
+       ]
+      },
+      {
+       "number_of_sites":110,
+       "name":"Underground Coal Mines",
+       "children":[
+        {
+         "number_of_sites":24,
+         "size":21606273.384,
+         "name":"Underground Coal Mines and Stationary Combustion"
+        },
+        {
+         "number_of_sites":86,
+         "size":15462293.300000001,
+         "name":"Underground Coal Mines"
+        }
+       ]
+      },
+      {
+       "number_of_sites":53,
+       "name":"Electronics Manufacturing",
+       "children":[
+        {
+         "number_of_sites":52,
+         "size":6096991.7550000018,
+         "name":"Electronics Manufacture and Stationary Combustion"
+        },
+        {
+         "number_of_sites":1,
+         "size":36552.184000000001,
+         "name":"Electronics Manufacture"
+        }
+       ]
+      },
+      {
+       "number_of_sites":6,
+       "name":"Manufacture of Electric Transmission and Distribution Equipment",
+       "children":[
+        {
+         "number_of_sites":6,
+         "size":339455.00799999997,
+         "name":"Manufacture of Electric Transmission and Distribution Equipment"
+        }
+       ]
+      },
+      {
+       "number_of_sites":65,
+       "name":"Ethanol Production",
+       "children":[
+        {
+         "number_of_sites":65,
+         "size":6478842.9959999975,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":230,
+       "name":"Food Processing",
+       "children":[
+        {
+         "number_of_sites":230,
+         "size":14726570.284000002,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":274,
+       "name":"Manufacturing",
+       "children":[
+        {
+         "number_of_sites":274,
+         "size":15745794.562463868,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":43,
+       "name":"Military",
+       "children":[
+        {
+         "number_of_sites":43,
+         "size":2735013.3500000006,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":111,
+       "name":"Universities",
+       "children":[
+        {
+         "number_of_sites":111,
+         "size":9404627.0460000075,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":1257,
+     "name":"Petroleum and Natural Gas Systems",
+     "children":[
+      {
+       "number_of_sites":99,
+       "name":"Offshore Petroleum & Natural Gas Production",
+       "children":[
+        {
+         "number_of_sites":99,
+         "size":6611816.8900000006,
+         "name":"Petroleum and Natural Gas Systems-Offshore Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":458,
+       "name":"Onshore Petroleum & Natural Gas Production",
+       "children":[
+        {
+         "number_of_sites":458,
+         "size":91717493.96799995,
+         "name":"Petroleum and Natural Gas Systems-Onshore Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":363,
+       "name":"Natural Gas Processing",
+       "children":[
+        {
+         "number_of_sites":360,
+         "size":58011174.044000044,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Processing and Stationary Combustion"
+        },
+        {
+         "number_of_sites":3,
+         "size":77332.866000000009,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Processing"
+        }
+       ]
+      },
+      {
+       "number_of_sites":414,
+       "name":"Natural Gas Transmission/Compression",
+       "children":[
+        {
+         "number_of_sites":414,
+         "size":24255075.034000006,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Transmission/Compression and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":38,
+       "name":"Underground Natural Gas Storage",
+       "children":[
+        {
+         "number_of_sites":36,
+         "size":1468004.0919999997,
+         "name":"Petroleum and Natural Gas Systems-Underground Natural Gas Storage and Stationary Combustion"
+        },
+        {
+         "number_of_sites":2,
+         "size":1053.7,
+         "name":"Petroleum and Natural Gas Systems-Underground Natural Gas Storage"
+        }
+       ]
+      },
+      {
+       "number_of_sites":5,
+       "name":"Liquefied Natural Gas Storage",
+       "children":[
+        {
+         "number_of_sites":5,
+         "size":21806.849999999999,
+         "name":"Petroleum and Natural Gas Systems-Liquified Natural Gas Storage"
+        }
+       ]
+      },
+      {
+       "number_of_sites":7,
+       "name":"Liquefied Natural Gas Imp./Exp. Equipment",
+       "children":[
+        {
+         "number_of_sites":7,
+         "size":592715.81200000003,
+         "name":"Petroleum and Natural Gas Systems-Liquified Natural Gas Import/Export Equipment and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":179,
+       "name":"Natural Gas Local Distribution Companies",
+       "children":[
+        {
+         "number_of_sites":179,
+         "size":16498043.225999992,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Local Distribution Company"
+        }
+       ]
+      },
+      {
+       "number_of_sites":331,
+       "name":"Other Petroleum and Natural Gas Systems",
+       "children":[
+        {
+         "number_of_sites":331,
+         "size":22093896.742999997,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":1585,
+     "name":"Power Plants",
+     "children":[
+      {
+       "number_of_sites":1282,
+       "name":"Electricity Generation including Stationary Combustion",
+       "children":[
+        {
+         "number_of_sites":809,
+         "size":1445691883.3904948,
+         "name":"Electricity Generation and Stationary Combustion"
+        },
+        {
+         "number_of_sites":473,
+         "size":700157107.63699973,
+         "name":"Electricity Generation"
+        }
+       ]
+      },
+      {
+       "number_of_sites":303,
+       "name":"Electricity Generation",
+       "children":[
+        {
+         "number_of_sites":303,
+         "size":70354890.249999985,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":215,
+     "name":"Pulp and Paper",
+     "children":[
+      {
+       "number_of_sites":110,
+       "name":"Pulp and Paper Production",
+       "children":[
+        {
+         "number_of_sites":110,
+         "size":30585510.919999998,
+         "name":"Pulp and Paper Manufacturing and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":105,
+       "name":"Other Paper Producers",
+       "children":[
+        {
+         "number_of_sites":105,
+         "size":8708890.6740000062,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":149,
+     "name":"Refineries",
+     "children":[
+      {
+       "number_of_sites":149,
+       "name":"Petroleum Refineries",
+       "children":[
+        {
+         "number_of_sites":149,
+         "size":178300413.17700008,
+         "name":"Petroleum Refining and Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":1636,
+     "name":"Waste",
+     "children":[
+      {
+       "number_of_sites":1230,
+       "name":"Municipal Landfills",
+       "children":[
+        {
+         "number_of_sites":558,
+         "size":48699770.432262979,
+         "name":"Municipal Landfills and Stationary Combustion"
+        },
+        {
+         "number_of_sites":672,
+         "size":45400197.93392501,
+         "name":"Municipal Landfills"
+        }
+       ]
+      },
+      {
+       "number_of_sites":174,
+       "name":"Industrial Waste Landfills",
+       "children":[
+        {
+         "number_of_sites":174,
+         "size":9197664.9499999993,
+         "name":"Industrial Waste Landfills"
+        }
+       ]
+      },
+      {
+       "number_of_sites":164,
+       "name":"Industrial Wastewater Treatment",
+       "children":[
+        {
+         "number_of_sites":164,
+         "size":2564763.0,
+         "name":"Industrial Wastewater Treatment"
+        }
+       ]
+      },
+      {
+       "number_of_sites":68,
+       "name":"Solid Waste Combustion",
+       "children":[
+        {
+         "number_of_sites":68,
+         "size":9587531.8500000015,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number_of_sites":7029,
+   "name":"2012",
+   "children":[
+    {
+     "number_of_sites":478,
+     "name":"Chemicals",
+     "children":[
+      {
+       "number_of_sites":3,
+       "name":"Adipic Acid Production",
+       "children":[
+        {
+         "number_of_sites":3,
+         "size":7152261.9839999992,
+         "name":"Adipic Acid Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":22,
+       "name":"Ammonia Manufacturing",
+       "children":[
+        {
+         "number_of_sites":22,
+         "size":24976389.390000001,
+         "name":"Ammonia Manufacturing and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":16,
+       "name":"Fluorinated GHG Production",
+       "children":[
+        {
+         "number_of_sites":13,
+         "size":6424023.7526999982,
+         "name":"Fluorinated GHG Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":3,
+         "size":513870.94999999995,
+         "name":"Fluorinated GHG Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":5,
+       "name":"HCFC-22 Production from HFC-23 Destruction",
+       "children":[
+        {
+         "number_of_sites":5,
+         "size":5488073.8399999999,
+         "name":"HCFC-22 Production and HFC-23 Destruction"
+        }
+       ]
+      },
+      {
+       "number_of_sites":109,
+       "name":"Hydrogen Production",
+       "children":[
+        {
+         "number_of_sites":16,
+         "size":6474323.182,
+         "name":"Hydrogen Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":93,
+         "size":33313382.949000001,
+         "name":"Hydrogen Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":36,
+       "name":"Nitric Acid Production",
+       "children":[
+        {
+         "number_of_sites":14,
+         "size":2699397.1719999998,
+         "name":"Nitric Acid Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":22,
+         "size":8325445.9240000006,
+         "name":"Nitric Acid Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":65,
+       "name":"Petrochemical Production",
+       "children":[
+        {
+         "number_of_sites":59,
+         "size":51360443.341999985,
+         "name":"Petrochemical Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":6,
+         "size":332696.85999999999,
+         "name":"Petrochemical Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":13,
+       "name":"Phosphoric Acid Production",
+       "children":[
+        {
+         "number_of_sites":13,
+         "size":2094614.514,
+         "name":"Phosphoric Acid Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":1,
+       "name":"Silicon Carbide Production",
+       "children":[
+        {
+         "number_of_sites":1,
+         "size":139396.092,
+         "name":"Silicon Carbide Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":7,
+       "name":"Titanium Dioxide Production",
+       "children":[
+        {
+         "number_of_sites":7,
+         "size":2143251.3740000003,
+         "name":"Titanium Dioxide Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":201,
+       "name":"Other Chemicals",
+       "children":[
+        {
+         "number_of_sites":201,
+         "size":17254359.120000001,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":287,
+     "name":"Metals",
+     "children":[
+      {
+       "number_of_sites":11,
+       "name":"Aluminum Production",
+       "children":[
+        {
+         "number_of_sites":11,
+         "size":6918414.7290000003,
+         "name":"Aluminum Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":10,
+       "name":"Ferroalloy Production",
+       "children":[
+        {
+         "number_of_sites":10,
+         "size":2388316.4700000002,
+         "name":"Ferroalloy Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":126,
+       "name":"Iron and Steel Production",
+       "children":[
+        {
+         "number_of_sites":126,
+         "size":84141407.214000002,
+         "name":"Iron and Steel Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":14,
+       "name":"Lead Production",
+       "children":[
+        {
+         "number_of_sites":14,
+         "size":1136297.02,
+         "name":"Lead Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":10,
+       "name":"Magnesium Production",
+       "children":[
+        {
+         "number_of_sites":7,
+         "size":1467912.8339999998,
+         "name":"Magnesium Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":3,
+         "size":167958.65059999999,
+         "name":"Magnesium Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":6,
+       "name":"Zinc Production",
+       "children":[
+        {
+         "number_of_sites":6,
+         "size":962675.5959999999,
+         "name":"Zinc Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":110,
+       "name":"Other Metals",
+       "children":[
+        {
+         "number_of_sites":110,
+         "size":8333096.6919999989,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":371,
+     "name":"Minerals",
+     "children":[
+      {
+       "number_of_sites":98,
+       "name":"Cement Production",
+       "children":[
+        {
+         "number_of_sites":82,
+         "size":52389129.467999987,
+         "name":"Cement Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":16,
+         "size":7611758.5300000003,
+         "name":"Cement Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":109,
+       "name":"Glass Production",
+       "children":[
+        {
+         "number_of_sites":109,
+         "size":8246108.8879999984,
+         "name":"Glass Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":75,
+       "name":"Lime Manufacturing",
+       "children":[
+        {
+         "number_of_sites":72,
+         "size":29991088.326000001,
+         "name":"Lime Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":3,
+         "size":302475.70000000001,
+         "name":"Lime Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":4,
+       "name":"Soda Ash Production",
+       "children":[
+        {
+         "number_of_sites":4,
+         "size":5162786.3159999996,
+         "name":"Soda Ash Manufacturing and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":85,
+       "name":"Other Minerals",
+       "children":[
+        {
+         "number_of_sites":85,
+         "size":3786228.8760000011,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":920,
+     "name":"Other",
+     "children":[
+      {
+       "number_of_sites":107,
+       "name":"Use of Electrical Equipment",
+       "children":[
+        {
+         "number_of_sites":107,
+         "size":3227171.2799999993,
+         "name":"SF6 from Electrical Equipment"
+        }
+       ]
+      },
+      {
+       "number_of_sites":111,
+       "name":"Underground Coal Mines",
+       "children":[
+        {
+         "number_of_sites":24,
+         "size":20507942.508000001,
+         "name":"Underground Coal Mines and Stationary Combustion"
+        },
+        {
+         "number_of_sites":87,
+         "size":13487792.199999999,
+         "name":"Underground Coal Mines"
+        }
+       ]
+      },
+      {
+       "number_of_sites":53,
+       "name":"Electronics Manufacturing",
+       "children":[
+        {
+         "number_of_sites":53,
+         "size":5584415.7009000005,
+         "name":"Electronics Manufacture and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":6,
+       "name":"Manufacture of Electric Transmission and Distribution Equipment",
+       "children":[
+        {
+         "number_of_sites":6,
+         "size":168586.008,
+         "name":"Manufacture of Electric Transmission and Distribution Equipment"
+        }
+       ]
+      },
+      {
+       "number_of_sites":79,
+       "name":"Ethanol Production",
+       "children":[
+        {
+         "number_of_sites":79,
+         "size":7719793.6739999987,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":234,
+       "name":"Food Processing",
+       "children":[
+        {
+         "number_of_sites":234,
+         "size":14654098.495999988,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":279,
+       "name":"Manufacturing",
+       "children":[
+        {
+         "number_of_sites":279,
+         "size":14935496.104302827,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":44,
+       "name":"Military",
+       "children":[
+        {
+         "number_of_sites":44,
+         "size":2595000.8919999995,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":114,
+       "name":"Universities",
+       "children":[
+        {
+         "number_of_sites":114,
+         "size":8968068.0139999967,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":1372,
+     "name":"Petroleum and Natural Gas Systems",
+     "children":[
+      {
+       "number_of_sites":106,
+       "name":"Offshore Petroleum & Natural Gas Production",
+       "children":[
+        {
+         "number_of_sites":106,
+         "size":6775631.7719999989,
+         "name":"Petroleum and Natural Gas Systems-Offshore Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":502,
+       "name":"Onshore Petroleum & Natural Gas Production",
+       "children":[
+        {
+         "number_of_sites":502,
+         "size":93256924.058000013,
+         "name":"Petroleum and Natural Gas Systems-Onshore Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":386,
+       "name":"Natural Gas Processing",
+       "children":[
+        {
+         "number_of_sites":382,
+         "size":59730837.480999947,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Processing and Stationary Combustion"
+        },
+        {
+         "number_of_sites":4,
+         "size":97452.602000000014,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Processing"
+        }
+       ]
+      },
+      {
+       "number_of_sites":450,
+       "name":"Natural Gas Transmission/Compression",
+       "children":[
+        {
+         "number_of_sites":450,
+         "size":23340519.798000008,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Transmission/Compression and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":39,
+       "name":"Underground Natural Gas Storage",
+       "children":[
+        {
+         "number_of_sites":37,
+         "size":1376779.1500000001,
+         "name":"Petroleum and Natural Gas Systems-Underground Natural Gas Storage and Stationary Combustion"
+        },
+        {
+         "number_of_sites":2,
+         "size":3937.3000000000002,
+         "name":"Petroleum and Natural Gas Systems-Underground Natural Gas Storage"
+        }
+       ]
+      },
+      {
+       "number_of_sites":5,
+       "name":"Liquefied Natural Gas Storage",
+       "children":[
+        {
+         "number_of_sites":5,
+         "size":16075.349999999999,
+         "name":"Petroleum and Natural Gas Systems-Liquified Natural Gas Storage"
+        }
+       ]
+      },
+      {
+       "number_of_sites":8,
+       "name":"Liquefied Natural Gas Imp./Exp. Equipment",
+       "children":[
+        {
+         "number_of_sites":8,
+         "size":640488.72200000007,
+         "name":"Petroleum and Natural Gas Systems-Liquified Natural Gas Import/Export Equipment and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":181,
+       "name":"Natural Gas Local Distribution Companies",
+       "children":[
+        {
+         "number_of_sites":181,
+         "size":15596008.361999998,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Local Distribution Company"
+        }
+       ]
+      },
+      {
+       "number_of_sites":378,
+       "name":"Other Petroleum and Natural Gas Systems",
+       "children":[
+        {
+         "number_of_sites":378,
+         "size":23956655.698000025,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":1600,
+     "name":"Power Plants",
+     "children":[
+      {
+       "number_of_sites":1292,
+       "name":"Electricity Generation including Stationary Combustion",
+       "children":[
+        {
+         "number_of_sites":820,
+         "size":1344892868.5810003,
+         "name":"Electricity Generation and Stationary Combustion"
+        },
+        {
+         "number_of_sites":472,
+         "size":671192582.71500027,
+         "name":"Electricity Generation"
+        }
+       ]
+      },
+      {
+       "number_of_sites":308,
+       "name":"Electricity Generation",
+       "children":[
+        {
+         "number_of_sites":308,
+         "size":66256816.327000037,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":215,
+     "name":"Pulp and Paper",
+     "children":[
+      {
+       "number_of_sites":111,
+       "name":"Pulp and Paper Production",
+       "children":[
+        {
+         "number_of_sites":111,
+         "size":30012181.025999989,
+         "name":"Pulp and Paper Manufacturing and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":104,
+       "name":"Other Paper Producers",
+       "children":[
+        {
+         "number_of_sites":104,
+         "size":8384166.4139999999,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":147,
+     "name":"Refineries",
+     "children":[
+      {
+       "number_of_sites":147,
+       "name":"Petroleum Refineries",
+       "children":[
+        {
+         "number_of_sites":147,
+         "size":174008652.94500002,
+         "name":"Petroleum Refining and Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":1639,
+     "name":"Waste",
+     "children":[
+      {
+       "number_of_sites":1238,
+       "name":"Municipal Landfills",
+       "children":[
+        {
+         "number_of_sites":574,
+         "size":49963271.878774017,
+         "name":"Municipal Landfills and Stationary Combustion"
+        },
+        {
+         "number_of_sites":664,
+         "size":44377637.39594999,
+         "name":"Municipal Landfills"
+        }
+       ]
+      },
+      {
+       "number_of_sites":175,
+       "name":"Industrial Waste Landfills",
+       "children":[
+        {
+         "number_of_sites":175,
+         "size":9471775.3499999996,
+         "name":"Industrial Waste Landfills"
+        }
+       ]
+      },
+      {
+       "number_of_sites":157,
+       "name":"Industrial Wastewater Treatment",
+       "children":[
+        {
+         "number_of_sites":157,
+         "size":4869321.75,
+         "name":"Industrial Wastewater Treatment"
+        }
+       ]
+      },
+      {
+       "number_of_sites":69,
+       "name":"Solid Waste Combustion",
+       "children":[
+        {
+         "number_of_sites":69,
+         "size":9802563.0719999969,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number_of_sites":7084,
+   "name":"2013",
+   "children":[
+    {
+     "number_of_sites":480,
+     "name":"Chemicals",
+     "children":[
+      {
+       "number_of_sites":3,
+       "name":"Adipic Acid Production",
+       "children":[
+        {
+         "number_of_sites":3,
+         "size":5752159.6059999997,
+         "name":"Adipic Acid Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":23,
+       "name":"Ammonia Manufacturing",
+       "children":[
+        {
+         "number_of_sites":23,
+         "size":25095878.612,
+         "name":"Ammonia Manufacturing and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":16,
+       "name":"Fluorinated GHG Production",
+       "children":[
+        {
+         "number_of_sites":13,
+         "size":8989002.8445999995,
+         "name":"Fluorinated GHG Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":3,
+         "size":371682.31319999998,
+         "name":"Fluorinated GHG Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":4,
+       "name":"HCFC-22 Production from HFC-23 Destruction",
+       "children":[
+        {
+         "number_of_sites":4,
+         "size":4095148.1599999997,
+         "name":"HCFC-22 Production and HFC-23 Destruction"
+        }
+       ]
+      },
+      {
+       "number_of_sites":109,
+       "name":"Hydrogen Production",
+       "children":[
+        {
+         "number_of_sites":17,
+         "size":7606095.9200000009,
+         "name":"Hydrogen Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":92,
+         "size":34253741.035999998,
+         "name":"Hydrogen Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":35,
+       "name":"Nitric Acid Production",
+       "children":[
+        {
+         "number_of_sites":13,
+         "size":2290710.6320000002,
+         "name":"Nitric Acid Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":22,
+         "size":8879896.9759999998,
+         "name":"Nitric Acid Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":65,
+       "name":"Petrochemical Production",
+       "children":[
+        {
+         "number_of_sites":59,
+         "size":52373334.972000025,
+         "name":"Petrochemical Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":6,
+         "size":289487.67599999998,
+         "name":"Petrochemical Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":12,
+       "name":"Phosphoric Acid Production",
+       "children":[
+        {
+         "number_of_sites":11,
+         "size":1765757.3059999999,
+         "name":"Phosphoric Acid Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":1,
+         "size":4590.8999999999996,
+         "name":"Phosphoric Acid Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":1,
+       "name":"Silicon Carbide Production",
+       "children":[
+        {
+         "number_of_sites":1,
+         "size":118190.092,
+         "name":"Silicon Carbide Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":7,
+       "name":"Titanium Dioxide Production",
+       "children":[
+        {
+         "number_of_sites":7,
+         "size":2350240.8619999997,
+         "name":"Titanium Dioxide Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":205,
+       "name":"Other Chemicals",
+       "children":[
+        {
+         "number_of_sites":205,
+         "size":18287924.223999985,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":285,
+     "name":"Metals",
+     "children":[
+      {
+       "number_of_sites":11,
+       "name":"Aluminum Production",
+       "children":[
+        {
+         "number_of_sites":11,
+         "size":6772853.5749999993,
+         "name":"Aluminum Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":10,
+       "name":"Ferroalloy Production",
+       "children":[
+        {
+         "number_of_sites":10,
+         "size":2252770.8880000003,
+         "name":"Ferroalloy Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":126,
+       "name":"Iron and Steel Production",
+       "children":[
+        {
+         "number_of_sites":126,
+         "size":84213278.860000014,
+         "name":"Iron and Steel Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":13,
+       "name":"Lead Production",
+       "children":[
+        {
+         "number_of_sites":13,
+         "size":1036430.7439999999,
+         "name":"Lead Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":9,
+       "name":"Magnesium Production",
+       "children":[
+        {
+         "number_of_sites":7,
+         "size":1278537.929,
+         "name":"Magnesium Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":2,
+         "size":145940.51999999999,
+         "name":"Magnesium Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":6,
+       "name":"Zinc Production",
+       "children":[
+        {
+         "number_of_sites":6,
+         "size":926200.53000000003,
+         "name":"Zinc Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":110,
+       "name":"Other Metals",
+       "children":[
+        {
+         "number_of_sites":110,
+         "size":8730323.1079999972,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":378,
+     "name":"Minerals",
+     "children":[
+      {
+       "number_of_sites":96,
+       "name":"Cement Production",
+       "children":[
+        {
+         "number_of_sites":80,
+         "size":54486415.296000004,
+         "name":"Cement Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":16,
+         "size":8342873.6980000008,
+         "name":"Cement Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":109,
+       "name":"Glass Production",
+       "children":[
+        {
+         "number_of_sites":109,
+         "size":8240526.9399999967,
+         "name":"Glass Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":75,
+       "name":"Lime Manufacturing",
+       "children":[
+        {
+         "number_of_sites":72,
+         "size":30441509.02799999,
+         "name":"Lime Production and Stationary Combustion"
+        },
+        {
+         "number_of_sites":3,
+         "size":297838.0,
+         "name":"Lime Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":4,
+       "name":"Soda Ash Production",
+       "children":[
+        {
+         "number_of_sites":4,
+         "size":5324850.0760000004,
+         "name":"Soda Ash Manufacturing and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":94,
+       "name":"Other Minerals",
+       "children":[
+        {
+         "number_of_sites":94,
+         "size":4200608.3820000002,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":927,
+     "name":"Other",
+     "children":[
+      {
+       "number_of_sites":108,
+       "name":"Use of Electrical Equipment",
+       "children":[
+        {
+         "number_of_sites":108,
+         "size":3324388.2000000011,
+         "name":"SF6 from Electrical Equipment"
+        }
+       ]
+      },
+      {
+       "number_of_sites":118,
+       "name":"Underground Coal Mines",
+       "children":[
+        {
+         "number_of_sites":28,
+         "size":21695767.301999997,
+         "name":"Underground Coal Mines and Stationary Combustion"
+        },
+        {
+         "number_of_sites":90,
+         "size":19765630.700000003,
+         "name":"Underground Coal Mines"
+        }
+       ]
+      },
+      {
+       "number_of_sites":53,
+       "name":"Electronics Manufacturing",
+       "children":[
+        {
+         "number_of_sites":53,
+         "size":4458178.4864000008,
+         "name":"Electronics Manufacture and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":6,
+       "name":"Manufacture of Electric Transmission and Distribution Equipment",
+       "children":[
+        {
+         "number_of_sites":6,
+         "size":190302.52600000001,
+         "name":"Manufacture of Electric Transmission and Distribution Equipment"
+        }
+       ]
+      },
+      {
+       "number_of_sites":77,
+       "name":"Ethanol Production",
+       "children":[
+        {
+         "number_of_sites":77,
+         "size":8097178.4000000004,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":238,
+       "name":"Food Processing",
+       "children":[
+        {
+         "number_of_sites":238,
+         "size":14660734.602000007,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":280,
+       "name":"Manufacturing",
+       "children":[
+        {
+         "number_of_sites":280,
+         "size":15082953.369999995,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":43,
+       "name":"Military",
+       "children":[
+        {
+         "number_of_sites":43,
+         "size":2547090.9740000009,
+         "name":"Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":112,
+       "name":"Universities",
+       "children":[
+        {
+         "number_of_sites":112,
+         "size":9205421.564000003,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":1470,
+     "name":"Petroleum and Natural Gas Systems",
+     "children":[
+      {
+       "number_of_sites":107,
+       "name":"Offshore Petroleum & Natural Gas Production",
+       "children":[
+        {
+         "number_of_sites":107,
+         "size":6236747.5479999995,
+         "name":"Petroleum and Natural Gas Systems-Offshore Production and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":503,
+       "name":"Onshore Petroleum & Natural Gas Production",
+       "children":[
+        {
+         "number_of_sites":503,
+         "size":94767398.591999978,
+         "name":"Petroleum and Natural Gas Systems-Onshore Production"
+        }
+       ]
+      },
+      {
+       "number_of_sites":423,
+       "name":"Natural Gas Processing",
+       "children":[
+        {
+         "number_of_sites":418,
+         "size":58336551.207999967,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Processing and Stationary Combustion"
+        },
+        {
+         "number_of_sites":5,
+         "size":56410.484000000004,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Processing"
+        }
+       ]
+      },
+      {
+       "number_of_sites":479,
+       "name":"Natural Gas Transmission/Compression",
+       "children":[
+        {
+         "number_of_sites":478,
+         "size":22410685.285999991,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Transmission/Compression and Stationary Combustion"
+        },
+        {
+         "number_of_sites":1,
+         "size":26923.094000000001,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Transmission/Compression"
+        }
+       ]
+      },
+      {
+       "number_of_sites":39,
+       "name":"Underground Natural Gas Storage",
+       "children":[
+        {
+         "number_of_sites":37,
+         "size":1297338.8840000001,
+         "name":"Petroleum and Natural Gas Systems-Underground Natural Gas Storage and Stationary Combustion"
+        },
+        {
+         "number_of_sites":2,
+         "size":4497.25,
+         "name":"Petroleum and Natural Gas Systems-Underground Natural Gas Storage"
+        }
+       ]
+      },
+      {
+       "number_of_sites":5,
+       "name":"Liquefied Natural Gas Storage",
+       "children":[
+        {
+         "number_of_sites":5,
+         "size":5173.1999999999998,
+         "name":"Petroleum and Natural Gas Systems-Liquified Natural Gas Storage"
+        }
+       ]
+      },
+      {
+       "number_of_sites":8,
+       "name":"Liquefied Natural Gas Imp./Exp. Equipment",
+       "children":[
+        {
+         "number_of_sites":8,
+         "size":384096.36599999998,
+         "name":"Petroleum and Natural Gas Systems-Liquified Natural Gas Import/Export Equipment and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":173,
+       "name":"Natural Gas Local Distribution Companies",
+       "children":[
+        {
+         "number_of_sites":173,
+         "size":15102287.751999998,
+         "name":"Petroleum and Natural Gas Systems-Natural Gas Local Distribution Company"
+        }
+       ]
+      },
+      {
+       "number_of_sites":409,
+       "name":"Other Petroleum and Natural Gas Systems",
+       "children":[
+        {
+         "number_of_sites":409,
+         "size":24221479.294000007,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":1564,
+     "name":"Power Plants",
+     "children":[
+      {
+       "number_of_sites":1268,
+       "name":"Electricity Generation including Stationary Combustion",
+       "children":[
+        {
+         "number_of_sites":799,
+         "size":1373370650.1618185,
+         "name":"Electricity Generation and Stationary Combustion"
+        },
+        {
+         "number_of_sites":469,
+         "size":660836717.05563045,
+         "name":"Electricity Generation"
+        }
+       ]
+      },
+      {
+       "number_of_sites":296,
+       "name":"Electricity Generation",
+       "children":[
+        {
+         "number_of_sites":296,
+         "size":60881725.220000036,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":218,
+     "name":"Pulp and Paper",
+     "children":[
+      {
+       "number_of_sites":110,
+       "name":"Pulp and Paper Production",
+       "children":[
+        {
+         "number_of_sites":110,
+         "size":27287922.295999996,
+         "name":"Pulp and Paper Manufacturing and Stationary Combustion"
+        }
+       ]
+      },
+      {
+       "number_of_sites":108,
+       "name":"Other Paper Producers",
+       "children":[
+        {
+         "number_of_sites":108,
+         "size":8272460.7020000005,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":145,
+     "name":"Refineries",
+     "children":[
+      {
+       "number_of_sites":145,
+       "name":"Petroleum Refineries",
+       "children":[
+        {
+         "number_of_sites":145,
+         "size":176696934.81900007,
+         "name":"Petroleum Refining and Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "number_of_sites":1617,
+     "name":"Waste",
+     "children":[
+      {
+       "number_of_sites":1220,
+       "name":"Municipal Landfills",
+       "children":[
+        {
+         "number_of_sites":568,
+         "size":49689709.459999986,
+         "name":"Municipal Landfills and Stationary Combustion"
+        },
+        {
+         "number_of_sites":652,
+         "size":43291792.0,
+         "name":"Municipal Landfills"
+        }
+       ]
+      },
+      {
+       "number_of_sites":174,
+       "name":"Industrial Waste Landfills",
+       "children":[
+        {
+         "number_of_sites":174,
+         "size":8568747.4749999996,
+         "name":"Industrial Waste Landfills"
+        }
+       ]
+      },
+      {
+       "number_of_sites":155,
+       "name":"Industrial Wastewater Treatment",
+       "children":[
+        {
+         "number_of_sites":155,
+         "size":2482991.25,
+         "name":"Industrial Wastewater Treatment"
+        }
+       ]
+      },
+      {
+       "number_of_sites":68,
+       "name":"Solid Waste Combustion",
+       "children":[
+        {
+         "number_of_sites":68,
+         "size":9951902.6380000003,
+         "name":"Stationary Combustion"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

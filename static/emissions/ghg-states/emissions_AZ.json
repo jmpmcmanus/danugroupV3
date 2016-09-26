@@ -1,0 +1,81 @@
+{"state": "Arizona",
+ "children": [
+  {"year": 2010,
+   "children": [
+     {"emission_type": ["Other Food Crops Grown Under Cover"], "number_of_locations": 1, "key": 111419, "year": "2010", "emission_amount": 80116.538},
+     {"emission_type": ["Copper Ore and Nickel Ore Mining"], "number_of_locations": 1, "key": 212234, "year": "2010", "emission_amount": 26082.552},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 26, "key": 221112, "year": "2010", "emission_amount": 55776343.464000002},
+     {"emission_type": ["Dry", " Condensed", " and Evaporated Dairy Product Manufacturing"], "number_of_locations": 2, "key": 311514, "year": "2010", "emission_amount": 67107.047999999995},
+     {"emission_type": ["Newsprint Mills"], "number_of_locations": 1, "key": 322122, "year": "2010", "emission_amount": 753135.34999999998},
+     {"emission_type": ["Ethyl Alcohol Manufacturing"], "number_of_locations": 1, "key": 325193, "year": "2010", "emission_amount": 0.0},
+     {"emission_type": ["Nitrogenous Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325311, "year": "2010", "emission_amount": 672711.31799999997},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 2, "key": 327310, "year": "2010", "emission_amount": 870049.78399999999},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 1, "key": 327410, "year": "2010", "emission_amount": 753296.18200000003},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2010", "emission_amount": 31632.196},
+     {"emission_type": ["Primary Smelting and Refining of Copper"], "number_of_locations": 2, "key": 331411, "year": "2010", "emission_amount": 154650.66800000001},
+     {"emission_type": ["Semiconductor and Related Device Manufacturing"], "number_of_locations": 2, "key": 334413, "year": "2010", "emission_amount": 31814.579999999998},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 11, "key": 486210, "year": "2010", "emission_amount": 579661.81599999999},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 25, "key": 562212, "year": "2010", "emission_amount": 1308763.5433660003},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 2, "key": 611310, "year": "2010", "emission_amount": 123500.64}
+   ]
+  },
+  {"year": 2011,
+   "children": [
+     {"emission_type": ["Other Food Crops Grown Under Cover"], "number_of_locations": 1, "key": 111419, "year": "2011", "emission_amount": 80378.381999999998},
+     {"emission_type": ["Copper Ore and Nickel Ore Mining"], "number_of_locations": 2, "key": 212234, "year": "2011", "emission_amount": 64118.296000000002},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 26, "key": 221112, "year": "2011", "emission_amount": 53969079.092},
+     {"emission_type": ["Dry", " Condensed", " and Evaporated Dairy Product Manufacturing"], "number_of_locations": 2, "key": 311514, "year": "2011", "emission_amount": 69454.788},
+     {"emission_type": ["Newsprint Mills"], "number_of_locations": 1, "key": 322122, "year": "2011", "emission_amount": 866651.13399999996},
+     {"emission_type": ["Ethyl Alcohol Manufacturing"], "number_of_locations": 1, "key": 325193, "year": "2011", "emission_amount": 66462.600000000006},
+     {"emission_type": ["Nitrogenous Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325311, "year": "2011", "emission_amount": 456451.424},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 3, "key": 327310, "year": "2011", "emission_amount": 909508.82599999988},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 1, "key": 327410, "year": "2011", "emission_amount": 748581.59400000004},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2011", "emission_amount": 28416.795999999998},
+     {"emission_type": ["Primary Smelting and Refining of Copper"], "number_of_locations": 2, "key": 331411, "year": "2011", "emission_amount": 151823.16999999998},
+     {"emission_type": ["Semiconductor and Related Device Manufacturing"], "number_of_locations": 5, "key": 334413, "year": "2011", "emission_amount": 289546.2585},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 15, "key": 486210, "year": "2011", "emission_amount": 654277.63599999994},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 26, "key": 562212, "year": "2011", "emission_amount": 1245476.3796999999},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 2, "key": 611310, "year": "2011", "emission_amount": 122601.292}
+   ]
+  },
+  {"year": 2012,
+   "children": [
+     {"emission_type": ["Other Food Crops Grown Under Cover"], "number_of_locations": 1, "key": 111419, "year": "2012", "emission_amount": 82075.173999999999},
+     {"emission_type": ["Copper Ore and Nickel Ore Mining"], "number_of_locations": 2, "key": 212234, "year": "2012", "emission_amount": 161020.48599999998},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 26, "key": 221112, "year": "2012", "emission_amount": 53689746.720000014},
+     {"emission_type": ["Dry", " Condensed", " and Evaporated Dairy Product Manufacturing"], "number_of_locations": 2, "key": 311514, "year": "2012", "emission_amount": 68924.69200000001},
+     {"emission_type": ["Newsprint Mills"], "number_of_locations": 1, "key": 322122, "year": "2012", "emission_amount": 603948.31799999997},
+     {"emission_type": ["Ethyl Alcohol Manufacturing"], "number_of_locations": 1, "key": 325193, "year": "2012", "emission_amount": 23077.964},
+     {"emission_type": ["Nitrogenous Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325311, "year": "2012", "emission_amount": 415246.538},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 3, "key": 327310, "year": "2012", "emission_amount": 1173132.7340000002},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 1, "key": 327410, "year": "2012", "emission_amount": 757071.95200000005},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2012", "emission_amount": 42135.396000000001},
+     {"emission_type": ["Primary Smelting and Refining of Copper"], "number_of_locations": 2, "key": 331411, "year": "2012", "emission_amount": 144373.85200000001},
+     {"emission_type": ["Semiconductor and Related Device Manufacturing"], "number_of_locations": 4, "key": 334413, "year": "2012", "emission_amount": 260887.50770000002},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 15, "key": 486210, "year": "2012", "emission_amount": 620281.44400000002},
+     {"emission_type": ["Corporate", " Subsidiary", " and Regional Managing Offices"], "number_of_locations": 1, "key": 551114, "year": "2012", "emission_amount": 1566.8440000000001},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 26, "key": 562212, "year": "2012", "emission_amount": 1548565.903775},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 2, "key": 611310, "year": "2012", "emission_amount": 129084.76199999999}
+   ]
+  },
+  {"year": 2013,
+   "children": [
+     {"emission_type": ["Other Food Crops Grown Under Cover"], "number_of_locations": 1, "key": 111419, "year": "2013", "emission_amount": 74088.614000000001},
+     {"emission_type": ["Copper Ore and Nickel Ore Mining"], "number_of_locations": 2, "key": 212234, "year": "2013", "emission_amount": 174818.98800000001},
+     {"emission_type": ["Fossil Fuel Electric Power Generation"], "number_of_locations": 26, "key": 221112, "year": "2013", "emission_amount": 56512945.961999997},
+     {"emission_type": ["Other Electric Power Generation - solar electric power generation"], "number_of_locations": 1, "key": 221119, "year": "2013", "emission_amount": 114363.31600000001},
+     {"emission_type": ["Dry", " Condensed", " and Evaporated Dairy Product Manufacturing"], "number_of_locations": 2, "key": 311514, "year": "2013", "emission_amount": 71291.532000000007},
+     {"emission_type": ["Ethyl Alcohol Manufacturing"], "number_of_locations": 1, "key": 325193, "year": "2013", "emission_amount": 0.0},
+     {"emission_type": ["Nitrogenous Fertilizer Manufacturing"], "number_of_locations": 1, "key": 325311, "year": "2013", "emission_amount": 396908.45600000001},
+     {"emission_type": ["Cement Manufacturing"], "number_of_locations": 3, "key": 327310, "year": "2013", "emission_amount": 1201781.5559999999},
+     {"emission_type": ["Lime Manufacturing"], "number_of_locations": 1, "key": 327410, "year": "2013", "emission_amount": 778475.924},
+     {"emission_type": ["Iron and Steel Mills"], "number_of_locations": 1, "key": 331111, "year": "2013", "emission_amount": 46960.196000000004},
+     {"emission_type": ["Primary Smelting and Refining of Copper"], "number_of_locations": 2, "key": 331411, "year": "2013", "emission_amount": 149801.48200000002},
+     {"emission_type": ["Semiconductor and Related Device Manufacturing"], "number_of_locations": 3, "key": 334413, "year": "2013", "emission_amount": 265227.02510000003},
+     {"emission_type": ["Pipeline Transportation of Natural Gas"], "number_of_locations": 15, "key": 486210, "year": "2013", "emission_amount": 647917.62600000016},
+     {"emission_type": ["Solid Waste Landfill"], "number_of_locations": 26, "key": 562212, "year": "2013", "emission_amount": 1355911.75},
+     {"emission_type": ["Colleges", " Universities", " and Professional Schools"], "number_of_locations": 2, "key": 611310, "year": "2013", "emission_amount": 134416.02799999999}
+   ]
+  }
+ ]
+}
